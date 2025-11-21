@@ -1,0 +1,1990 @@
+,year,schoolId,schoolName,subject,tested,percentPassing,zipcode,district,foodInsecurityPercent,medianHouseValue,computerAccessPercentage
+0,2024,90271,ASU Preparatory Academy- Phoenix Elementary,English Language Arts,173,20.0,85006,3,17.8,376600.0,92.59
+1,2024,90271,ASU Preparatory Academy- Phoenix Elementary,Mathematics,174,15.0,85006,3,17.8,376600.0,92.59
+2,2024,1001858,ASU Preparatory Academy Pilgrim Rest STEM K-5 School,English Language Arts,43,28.0,85034,3,17.8,397400.0,95.22
+3,2024,1001858,ASU Preparatory Academy Pilgrim Rest STEM K-5 School,English Language Arts,43,28.0,85034,4,14.1,397400.0,95.22
+4,2024,90274,ASU Preparatory Academy - South Phoenix Intermediate,English Language Arts,97,17.0,85040,3,17.8,294800.0,92.34
+5,2024,91304,ASU Preparatory Academy- Phoenix High School,English Language Arts,78,20.0,85006,3,17.8,376600.0,92.59
+6,2024,91304,ASU Preparatory Academy- Phoenix High School,Mathematics,79,22.0,85006,3,17.8,376600.0,92.59
+7,2024,92326,ASU Preparatory Academy - Phoenix Middle School,English Language Arts,424,24.0,85006,3,17.8,376600.0,92.59
+8,2024,92326,ASU Preparatory Academy - Phoenix Middle School,Mathematics,428,10.0,85006,3,17.8,376600.0,92.59
+9,2024,92248,ASU Preparatory Academy - South Phoenix High School,English Language Arts,103,16.0,85040,3,17.8,294800.0,92.34
+10,2024,92248,ASU Preparatory Academy - South Phoenix High School,Mathematics,105,12.0,85040,3,17.8,294800.0,92.34
+11,2024,92769,Academy of Math and Science Camelback,English Language Arts,624,27.0,85033,3,17.8,245900.0,96.74
+12,2024,92769,Academy of Math and Science Camelback,Mathematics,627,23.0,85033,3,17.8,245900.0,96.74
+13,2024,5496,ACCLAIM Academy,English Language Arts,193,34.0,85033,3,17.8,245900.0,96.74
+14,2024,5496,ACCLAIM Academy,Mathematics,193,22.0,85033,3,17.8,245900.0,96.74
+15,2024,5381,Alhambra Traditional School,English Language Arts,497,75.0,85017,3,17.8,242900.0,94.94
+16,2024,5381,Alhambra Traditional School,English Language Arts,497,75.0,85017,8,12.8,242900.0,94.94
+17,2024,5381,Alhambra Traditional School,Mathematics,498,76.0,85017,3,17.8,242900.0,94.94
+18,2024,5381,Alhambra Traditional School,Mathematics,498,76.0,85017,8,12.8,242900.0,94.94
+19,2024,5383,James W. Rice Elementary School,English Language Arts,496,16.0,85031,3,17.8,240300.0,93.95
+20,2024,5383,James W. Rice Elementary School,Mathematics,504,20.0,85031,3,17.8,240300.0,93.95
+21,2024,5385,Catalina Ventura School,English Language Arts,616,33.0,85019,3,17.8,255700.0,91.91
+22,2024,5385,Catalina Ventura School,English Language Arts,616,33.0,85019,8,12.8,255700.0,91.91
+23,2024,5385,Catalina Ventura School,Mathematics,620,25.0,85019,3,17.8,255700.0,91.91
+24,2024,5385,Catalina Ventura School,Mathematics,620,25.0,85019,8,12.8,255700.0,91.91
+25,2024,5386,Cordova Elementary School,English Language Arts,416,19.0,85017,3,17.8,242900.0,94.94
+26,2024,5386,Cordova Elementary School,English Language Arts,416,19.0,85017,8,12.8,242900.0,94.94
+27,2024,5386,Cordova Elementary School,Mathematics,418,19.0,85017,3,17.8,242900.0,94.94
+28,2024,5386,Cordova Elementary School,Mathematics,418,19.0,85017,8,12.8,242900.0,94.94
+29,2024,5387,Granada Elementary School-East Campus,English Language Arts,681,15.0,85017,3,17.8,242900.0,94.94
+30,2024,5387,Granada Elementary School-East Campus,English Language Arts,681,15.0,85017,8,12.8,242900.0,94.94
+31,2024,5387,Granada Elementary School-East Campus,Mathematics,689,12.0,85017,3,17.8,242900.0,94.94
+32,2024,5387,Granada Elementary School-East Campus,Mathematics,689,12.0,85017,8,12.8,242900.0,94.94
+33,2024,5388,Granada Elementary School-West Campus,English Language Arts,345,23.0,85017,3,17.8,242900.0,94.94
+34,2024,5388,Granada Elementary School-West Campus,English Language Arts,345,23.0,85017,8,12.8,242900.0,94.94
+35,2024,5388,Granada Elementary School-West Campus,Mathematics,361,23.0,85017,3,17.8,242900.0,94.94
+36,2024,5388,Granada Elementary School-West Campus,Mathematics,361,23.0,85017,8,12.8,242900.0,94.94
+37,2024,5390,Sevilla Elementary School-East Campus,English Language Arts,296,20.0,85019,3,17.8,255700.0,91.91
+38,2024,5390,Sevilla Elementary School-East Campus,English Language Arts,296,20.0,85019,8,12.8,255700.0,91.91
+39,2024,5390,Sevilla Elementary School-East Campus,Mathematics,299,22.0,85019,3,17.8,255700.0,91.91
+40,2024,5390,Sevilla Elementary School-East Campus,Mathematics,299,22.0,85019,8,12.8,255700.0,91.91
+41,2024,5391,Choice Learning Academy,English Language Arts,524,10.0,85015,1,12.6,312600.0,94.07
+42,2024,5391,Choice Learning Academy,English Language Arts,524,10.0,85015,3,17.8,312600.0,94.07
+43,2024,5391,Choice Learning Academy,English Language Arts,524,10.0,85015,8,12.8,312600.0,94.07
+44,2024,5391,Choice Learning Academy,Mathematics,522,8.0,85015,1,12.6,312600.0,94.07
+45,2024,5391,Choice Learning Academy,Mathematics,522,8.0,85015,3,17.8,312600.0,94.07
+46,2024,5391,Choice Learning Academy,Mathematics,522,8.0,85015,8,12.8,312600.0,94.07
+47,2024,5392,Westwood Elementary School,English Language Arts,266,15.0,85015,1,12.6,312600.0,94.07
+48,2024,5392,Westwood Elementary School,English Language Arts,266,15.0,85015,3,17.8,312600.0,94.07
+49,2024,5392,Westwood Elementary School,English Language Arts,266,15.0,85015,8,12.8,312600.0,94.07
+50,2024,5392,Westwood Elementary School,Mathematics,269,12.0,85015,1,12.6,312600.0,94.07
+51,2024,5392,Westwood Elementary School,Mathematics,269,12.0,85015,3,17.8,312600.0,94.07
+52,2024,5392,Westwood Elementary School,Mathematics,269,12.0,85015,8,12.8,312600.0,94.07
+53,2024,79203,Sevilla Elementary School-West Campus,English Language Arts,632,26.0,85019,3,17.8,255700.0,91.91
+54,2024,79203,Sevilla Elementary School-West Campus,English Language Arts,632,26.0,85019,8,12.8,255700.0,91.91
+55,2024,79203,Sevilla Elementary School-West Campus,Mathematics,644,29.0,85019,3,17.8,255700.0,91.91
+56,2024,79203,Sevilla Elementary School-West Campus,Mathematics,644,29.0,85019,8,12.8,255700.0,91.91
+57,2024,1000041,Madrid Neighborhood School,English Language Arts,437,18.0,85019,3,17.8,255700.0,91.91
+58,2024,1000041,Madrid Neighborhood School,English Language Arts,437,18.0,85019,8,12.8,255700.0,91.91
+59,2024,1000041,Madrid Neighborhood School,Mathematics,453,10.0,85019,3,17.8,255700.0,91.91
+60,2024,1000041,Madrid Neighborhood School,Mathematics,453,10.0,85019,8,12.8,255700.0,91.91
+61,2024,1000259,Global Academy of Phoenix,English Language Arts,252,42.0,85019,3,17.8,255700.0,91.91
+62,2024,1000259,Global Academy of Phoenix,English Language Arts,252,42.0,85019,8,12.8,255700.0,91.91
+63,2024,1000259,Global Academy of Phoenix,Mathematics,253,42.0,85019,3,17.8,255700.0,91.91
+64,2024,1000259,Global Academy of Phoenix,Mathematics,253,42.0,85019,8,12.8,255700.0,91.91
+65,2024,80990,South Pointe High School,English Language Arts,161,10.0,85042,3,17.8,353400.0,95.53
+66,2024,80990,South Pointe High School,English Language Arts,161,10.0,85042,4,14.1,353400.0,95.53
+67,2024,80990,South Pointe High School,Mathematics,172,7.0,85042,3,17.8,353400.0,95.53
+68,2024,80990,South Pointe High School,Mathematics,172,7.0,85042,4,14.1,353400.0,95.53
+69,2024,88335,South Ridge High School,English Language Arts,111,34.0,85043,3,17.8,288900.0,95.66
+70,2024,88335,South Ridge High School,Mathematics,114,19.0,85043,3,17.8,288900.0,95.66
+71,2024,92315,Great Hearts Academies - Archway Cicero,English Language Arts,261,62.0,85018,1,12.6,805800.0,95.75
+72,2024,92315,Great Hearts Academies - Archway Cicero,English Language Arts,261,62.0,85018,3,17.8,805800.0,95.75
+73,2024,92315,Great Hearts Academies - Archway Cicero,Mathematics,260,59.0,85018,1,12.6,805800.0,95.75
+74,2024,92315,Great Hearts Academies - Archway Cicero,Mathematics,260,59.0,85018,3,17.8,805800.0,95.75
+75,2024,91785,Great Hearts Academies - Archway North Phoenix,English Language Arts,360,72.0,85032,1,12.6,387900.0,96.03
+76,2024,91785,Great Hearts Academies - Archway North Phoenix,Mathematics,362,75.0,85032,1,12.6,387900.0,96.03
+77,2024,1001717,Great Hearts Online - Arizona,English Language Arts,174,42.0,85034,3,17.8,397400.0,95.22
+78,2024,1001717,Great Hearts Online - Arizona,English Language Arts,174,42.0,85034,4,14.1,397400.0,95.22
+79,2024,1001717,Great Hearts Online - Arizona,Mathematics,174,28.0,85034,3,17.8,397400.0,95.22
+80,2024,1001717,Great Hearts Online - Arizona,Mathematics,174,28.0,85034,4,14.1,397400.0,95.22
+81,2024,91000,Great Hearts Academies - Archway Veritas,English Language Arts,357,68.0,85018,1,12.6,805800.0,95.75
+82,2024,91000,Great Hearts Academies - Archway Veritas,English Language Arts,357,68.0,85018,3,17.8,805800.0,95.75
+83,2024,91000,Great Hearts Academies - Archway Veritas,Mathematics,356,73.0,85018,1,12.6,805800.0,95.75
+84,2024,91000,Great Hearts Academies - Archway Veritas,Mathematics,356,73.0,85018,3,17.8,805800.0,95.75
+85,2024,6344,AAEC - Paradise Valley,English Language Arts,80,74.0,85050,1,12.6,564200.0,99.57
+86,2024,6344,AAEC - Paradise Valley,Mathematics,80,65.0,85050,1,12.6,564200.0,99.57
+87,2024,5503,AAEC - SMCC Campus,English Language Arts,103,42.0,85042,3,17.8,353400.0,95.53
+88,2024,5503,AAEC - SMCC Campus,English Language Arts,103,42.0,85042,4,14.1,353400.0,95.53
+89,2024,5503,AAEC - SMCC Campus,Mathematics,104,14.0,85042,3,17.8,353400.0,95.53
+90,2024,5503,AAEC - SMCC Campus,Mathematics,104,14.0,85042,4,14.1,353400.0,95.53
+91,2024,92567,Arizona Language Preparatory,English Language Arts,27,75.0,85032,1,12.6,387900.0,96.03
+92,2024,92567,Arizona Language Preparatory,Mathematics,27,71.0,85032,1,12.6,387900.0,96.03
+93,2024,5519,Arizona School For The Arts,English Language Arts,474,63.0,85004,3,17.8,365500.0,98.27
+94,2024,5519,Arizona School For The Arts,Mathematics,474,38.0,85004,3,17.8,365500.0,98.27
+95,2024,91343,BASIS Phoenix,English Language Arts,543,87.0,85028,1,12.6,583000.0,98.59
+96,2024,91343,BASIS Phoenix,Mathematics,546,86.0,85028,1,12.6,583000.0,98.59
+97,2024,92030,BASIS Ahwatukee,English Language Arts,517,82.0,85044,3,17.8,437400.0,97.88
+98,2024,92030,BASIS Ahwatukee,English Language Arts,517,82.0,85044,4,14.1,437400.0,97.88
+99,2024,92030,BASIS Ahwatukee,Mathematics,517,85.0,85044,3,17.8,437400.0,97.88
+100,2024,92030,BASIS Ahwatukee,Mathematics,517,85.0,85044,4,14.1,437400.0,97.88
+101,2024,92350,BASIS Phoenix Central Primary,English Language Arts,160,64.0,85012,1,12.6,701200.0,97.21
+102,2024,92350,BASIS Phoenix Central Primary,English Language Arts,160,64.0,85012,3,17.8,701200.0,97.21
+103,2024,92350,BASIS Phoenix Central Primary,Mathematics,164,55.0,85012,1,12.6,701200.0,97.21
+104,2024,92350,BASIS Phoenix Central Primary,Mathematics,164,55.0,85012,3,17.8,701200.0,97.21
+105,2024,139682,BASIS Phoenix South ,English Language Arts,293,40.0,85041,3,17.8,310100.0,96.59
+106,2024,139682,BASIS Phoenix South ,Mathematics,294,34.0,85041,3,17.8,310100.0,96.59
+107,2024,469376,BASIS Phoenix Primary,English Language Arts,434,78.0,85028,1,12.6,583000.0,98.59
+108,2024,469376,BASIS Phoenix Primary,Mathematics,435,76.0,85028,1,12.6,583000.0,98.59
+109,2024,10730,"Hearn Academy, The - A Ball Charter School",English Language Arts,443,67.0,85023,1,12.6,359200.0,97.22
+110,2024,10730,"Hearn Academy, The - A Ball Charter School",English Language Arts,443,67.0,85023,8,12.8,359200.0,97.22
+111,2024,10730,"Hearn Academy, The - A Ball Charter School",Mathematics,443,60.0,85023,1,12.6,359200.0,97.22
+112,2024,10730,"Hearn Academy, The - A Ball Charter School",Mathematics,443,60.0,85023,8,12.8,359200.0,97.22
+113,2024,5319,Pat Tillman Middle School,English Language Arts,613,17.0,85008,1,12.6,323600.0,95.95
+114,2024,5319,Pat Tillman Middle School,English Language Arts,613,17.0,85008,3,17.8,323600.0,95.95
+115,2024,5319,Pat Tillman Middle School,English Language Arts,613,17.0,85008,4,14.1,323600.0,95.95
+116,2024,5319,Pat Tillman Middle School,Mathematics,617,5.0,85008,1,12.6,323600.0,95.95
+117,2024,5319,Pat Tillman Middle School,Mathematics,617,5.0,85008,3,17.8,323600.0,95.95
+118,2024,5319,Pat Tillman Middle School,Mathematics,617,5.0,85008,4,14.1,323600.0,95.95
+119,2024,5320,David Crockett Elementary School,English Language Arts,260,29.0,85008,1,12.6,323600.0,95.95
+120,2024,5320,David Crockett Elementary School,English Language Arts,260,29.0,85008,3,17.8,323600.0,95.95
+121,2024,5320,David Crockett Elementary School,English Language Arts,260,29.0,85008,4,14.1,323600.0,95.95
+122,2024,5320,David Crockett Elementary School,Mathematics,265,16.0,85008,1,12.6,323600.0,95.95
+123,2024,5320,David Crockett Elementary School,Mathematics,265,16.0,85008,3,17.8,323600.0,95.95
+124,2024,5320,David Crockett Elementary School,Mathematics,265,16.0,85008,4,14.1,323600.0,95.95
+125,2024,5321,Griffith Elementary School,English Language Arts,235,16.0,85008,1,12.6,323600.0,95.95
+126,2024,5321,Griffith Elementary School,English Language Arts,235,16.0,85008,3,17.8,323600.0,95.95
+127,2024,5321,Griffith Elementary School,English Language Arts,235,16.0,85008,4,14.1,323600.0,95.95
+128,2024,5321,Griffith Elementary School,Mathematics,236,21.0,85008,1,12.6,323600.0,95.95
+129,2024,5321,Griffith Elementary School,Mathematics,236,21.0,85008,3,17.8,323600.0,95.95
+130,2024,5321,Griffith Elementary School,Mathematics,236,21.0,85008,4,14.1,323600.0,95.95
+131,2024,81141,Brunson-Lee Elementary School,English Language Arts,194,10.0,85008,1,12.6,323600.0,95.95
+132,2024,81141,Brunson-Lee Elementary School,English Language Arts,194,10.0,85008,3,17.8,323600.0,95.95
+133,2024,81141,Brunson-Lee Elementary School,English Language Arts,194,10.0,85008,4,14.1,323600.0,95.95
+134,2024,81141,Brunson-Lee Elementary School,Mathematics,196,18.0,85008,1,12.6,323600.0,95.95
+135,2024,81141,Brunson-Lee Elementary School,Mathematics,196,18.0,85008,3,17.8,323600.0,95.95
+136,2024,81141,Brunson-Lee Elementary School,Mathematics,196,18.0,85008,4,14.1,323600.0,95.95
+137,2024,79507,Imagine Bell Canyon,English Language Arts,159,30.0,85053,8,12.8,329500.0,95.51
+138,2024,79507,Imagine Bell Canyon,Mathematics,159,13.0,85053,8,12.8,329500.0,95.51
+139,2024,78803,Benchmark School,English Language Arts,196,72.0,85032,1,12.6,387900.0,96.03
+140,2024,78803,Benchmark School,Mathematics,196,59.0,85032,1,12.6,387900.0,96.03
+141,2024,92498,CASA Academy,English Language Arts,184,23.0,85015,1,12.6,312600.0,94.07
+142,2024,92498,CASA Academy,English Language Arts,184,23.0,85015,3,17.8,312600.0,94.07
+143,2024,92498,CASA Academy,English Language Arts,184,23.0,85015,8,12.8,312600.0,94.07
+144,2024,92498,CASA Academy,Mathematics,186,15.0,85015,1,12.6,312600.0,94.07
+145,2024,92498,CASA Academy,Mathematics,186,15.0,85015,3,17.8,312600.0,94.07
+146,2024,92498,CASA Academy,Mathematics,186,15.0,85015,8,12.8,312600.0,94.07
+147,2024,5398,Cartwright School,English Language Arts,478,9.0,85035,3,17.8,244300.0,95.77
+148,2024,5398,Cartwright School,Mathematics,497,5.0,85035,3,17.8,244300.0,95.77
+149,2024,5399,Glenn L. Downs Social Sciences Academy,English Language Arts,462,23.0,85031,3,17.8,240300.0,93.95
+150,2024,5399,Glenn L. Downs Social Sciences Academy,Mathematics,466,15.0,85031,3,17.8,240300.0,93.95
+151,2024,5400,John F. Long,English Language Arts,370,31.0,85031,3,17.8,240300.0,93.95
+152,2024,5400,John F. Long,Mathematics,373,30.0,85031,3,17.8,240300.0,93.95
+153,2024,5401,Justine Spitalny STE3AM School,English Language Arts,427,15.0,85031,3,17.8,240300.0,93.95
+154,2024,5401,Justine Spitalny STE3AM School,Mathematics,432,10.0,85031,3,17.8,240300.0,93.95
+155,2024,5402,Holiday Park School,English Language Arts,343,22.0,85033,3,17.8,245900.0,96.74
+156,2024,5402,Holiday Park School,Mathematics,344,21.0,85033,3,17.8,245900.0,96.74
+157,2024,5403,Sunset School,English Language Arts,442,31.0,85033,3,17.8,245900.0,96.74
+158,2024,5403,Sunset School,Mathematics,443,41.0,85033,3,17.8,245900.0,96.74
+159,2024,5404,Starlight Park College Preparatory and Community School,English Language Arts,418,20.0,85033,3,17.8,245900.0,96.74
+160,2024,5404,Starlight Park College Preparatory and Community School,Mathematics,425,19.0,85033,3,17.8,245900.0,96.74
+161,2024,5405,Charles W. Harris School,English Language Arts,609,21.0,85035,3,17.8,244300.0,95.77
+162,2024,5405,Charles W. Harris School,Mathematics,611,18.0,85035,3,17.8,244300.0,95.77
+163,2024,5406,Desert Sands Academy of Mass Communication & Journalism ,English Language Arts,499,12.0,85033,3,17.8,245900.0,96.74
+164,2024,5406,Desert Sands Academy of Mass Communication & Journalism ,Mathematics,513,8.0,85033,3,17.8,245900.0,96.74
+165,2024,5407,Frank Borman School,English Language Arts,702,20.0,85031,3,17.8,240300.0,93.95
+166,2024,5407,Frank Borman School,Mathematics,712,11.0,85031,3,17.8,240300.0,93.95
+167,2024,5409,Heatherbrae School,English Language Arts,355,21.0,85033,3,17.8,245900.0,96.74
+168,2024,5409,Heatherbrae School,Mathematics,361,17.0,85033,3,17.8,245900.0,96.74
+169,2024,5411,Estrella Middle School,English Language Arts,665,19.0,85033,3,17.8,245900.0,96.74
+170,2024,5411,Estrella Middle School,Mathematics,669,8.0,85033,3,17.8,245900.0,96.74
+171,2024,5412,Palm Lane,English Language Arts,382,24.0,85035,3,17.8,244300.0,95.77
+172,2024,5412,Palm Lane,Mathematics,386,12.0,85035,3,17.8,244300.0,95.77
+173,2024,5413,Peralta School,English Language Arts,475,17.0,85035,3,17.8,244300.0,95.77
+174,2024,5413,Peralta School,Mathematics,478,15.0,85035,3,17.8,244300.0,95.77
+175,2024,5415,Tomahawk School,English Language Arts,469,26.0,85033,3,17.8,245900.0,96.74
+176,2024,5415,Tomahawk School,Mathematics,472,14.0,85033,3,17.8,245900.0,96.74
+177,2024,6032,G. Frank Davidson,English Language Arts,421,12.0,85033,3,17.8,245900.0,96.74
+178,2024,6032,G. Frank Davidson,Mathematics,429,7.0,85033,3,17.8,245900.0,96.74
+179,2024,78980,Marc T. Atkinson Middle School & Gifted Academy,English Language Arts,193,58.0,85031,3,17.8,240300.0,93.95
+180,2024,78980,Marc T. Atkinson Middle School & Gifted Academy,Mathematics,193,50.0,85031,3,17.8,240300.0,93.95
+181,2024,79283,Bret R. Tarver Leadership Academy,English Language Arts,331,23.0,85031,3,17.8,240300.0,93.95
+182,2024,79283,Bret R. Tarver Leadership Academy,Mathematics,332,18.0,85031,3,17.8,240300.0,93.95
+183,2024,81109,Manuel Pena Jr. School,English Language Arts,437,24.0,85035,3,17.8,244300.0,95.77
+184,2024,81109,Manuel Pena Jr. School,Mathematics,441,18.0,85035,3,17.8,244300.0,95.77
+185,2024,89955,Raúl H. Castro Middle School: Academy of Fine Arts,English Language Arts,552,19.0,85035,3,17.8,244300.0,95.77
+186,2024,89955,Raúl H. Castro Middle School: Academy of Fine Arts,Mathematics,555,5.0,85035,3,17.8,244300.0,95.77
+187,2024,78911,Sonoran Trails Middle School,English Language Arts,622,55.0,85085,8,12.8,589000.0,98.13
+188,2024,78911,Sonoran Trails Middle School,Mathematics,622,45.0,85085,8,12.8,589000.0,98.13
+189,2024,87477,Horseshoe Trails Elementary School,English Language Arts,255,71.0,85085,8,12.8,589000.0,98.13
+190,2024,87477,Horseshoe Trails Elementary School,Mathematics,255,66.0,85085,8,12.8,589000.0,98.13
+191,2024,90139,Adams Traditional Academy,English Language Arts,305,67.0,85027,1,12.6,316100.0,95.3
+192,2024,90139,Adams Traditional Academy,English Language Arts,305,67.0,85027,8,12.8,316100.0,95.3
+193,2024,90139,Adams Traditional Academy,Mathematics,306,68.0,85027,1,12.6,316100.0,95.3
+194,2024,90139,Adams Traditional Academy,Mathematics,306,68.0,85027,8,12.8,316100.0,95.3
+195,2024,10801,Westland School,English Language Arts,107,24.0,85033,3,17.8,245900.0,96.74
+196,2024,79989,Imagine Cortez Park Middle,English Language Arts,228,28.0,85051,3,17.8,288300.0,94.66
+197,2024,79989,Imagine Cortez Park Middle,English Language Arts,228,28.0,85051,8,12.8,288300.0,94.66
+198,2024,79989,Imagine Cortez Park Middle,Mathematics,252,10.0,85051,3,17.8,288300.0,94.66
+199,2024,79989,Imagine Cortez Park Middle,Mathematics,252,10.0,85051,8,12.8,288300.0,94.66
+200,2024,5283,The Creighton Academy,English Language Arts,252,19.0,85008,1,12.6,323600.0,95.95
+201,2024,5283,The Creighton Academy,English Language Arts,252,19.0,85008,3,17.8,323600.0,95.95
+202,2024,5283,The Creighton Academy,English Language Arts,252,19.0,85008,4,14.1,323600.0,95.95
+203,2024,5283,The Creighton Academy,Mathematics,260,7.0,85008,1,12.6,323600.0,95.95
+204,2024,5283,The Creighton Academy,Mathematics,260,7.0,85008,3,17.8,323600.0,95.95
+205,2024,5283,The Creighton Academy,Mathematics,260,7.0,85008,4,14.1,323600.0,95.95
+206,2024,5284,Larry C Kennedy School,English Language Arts,234,11.0,85016,1,12.6,508400.0,96.92
+207,2024,5284,Larry C Kennedy School,English Language Arts,234,11.0,85016,3,17.8,508400.0,96.92
+208,2024,5284,Larry C Kennedy School,Mathematics,238,8.0,85016,1,12.6,508400.0,96.92
+209,2024,5284,Larry C Kennedy School,Mathematics,238,8.0,85016,3,17.8,508400.0,96.92
+210,2024,5285,Loma Linda Elementary School,English Language Arts,292,14.0,85016,1,12.6,508400.0,96.92
+211,2024,5285,Loma Linda Elementary School,English Language Arts,292,14.0,85016,3,17.8,508400.0,96.92
+212,2024,5285,Loma Linda Elementary School,Mathematics,293,9.0,85016,1,12.6,508400.0,96.92
+213,2024,5285,Loma Linda Elementary School,Mathematics,293,9.0,85016,3,17.8,508400.0,96.92
+214,2024,5286,William T Machan Elementary School,English Language Arts,347,11.0,85006,3,17.8,376600.0,92.59
+215,2024,5286,William T Machan Elementary School,Mathematics,350,7.0,85006,3,17.8,376600.0,92.59
+216,2024,5287,Monte Vista Elementary School,English Language Arts,493,16.0,85018,1,12.6,805800.0,95.75
+217,2024,5287,Monte Vista Elementary School,English Language Arts,493,16.0,85018,3,17.8,805800.0,95.75
+218,2024,5287,Monte Vista Elementary School,Mathematics,504,11.0,85018,1,12.6,805800.0,95.75
+219,2024,5287,Monte Vista Elementary School,Mathematics,504,11.0,85018,3,17.8,805800.0,95.75
+220,2024,5288,Papago School,English Language Arts,527,15.0,85008,1,12.6,323600.0,95.95
+221,2024,5288,Papago School,English Language Arts,527,15.0,85008,3,17.8,323600.0,95.95
+222,2024,5288,Papago School,English Language Arts,527,15.0,85008,4,14.1,323600.0,95.95
+223,2024,5288,Papago School,Mathematics,531,7.0,85008,1,12.6,323600.0,95.95
+224,2024,5288,Papago School,Mathematics,531,7.0,85008,3,17.8,323600.0,95.95
+225,2024,5288,Papago School,Mathematics,531,7.0,85008,4,14.1,323600.0,95.95
+226,2024,5289,Biltmore Preparatory Academy,English Language Arts,292,39.0,85018,1,12.6,805800.0,95.75
+227,2024,5289,Biltmore Preparatory Academy,English Language Arts,292,39.0,85018,3,17.8,805800.0,95.75
+228,2024,5289,Biltmore Preparatory Academy,Mathematics,295,25.0,85018,1,12.6,805800.0,95.75
+229,2024,5289,Biltmore Preparatory Academy,Mathematics,295,25.0,85018,3,17.8,805800.0,95.75
+230,2024,6023,Gateway School,English Language Arts,399,11.0,85008,1,12.6,323600.0,95.95
+231,2024,6023,Gateway School,English Language Arts,399,11.0,85008,3,17.8,323600.0,95.95
+232,2024,6023,Gateway School,English Language Arts,399,11.0,85008,4,14.1,323600.0,95.95
+233,2024,6023,Gateway School,Mathematics,409,6.0,85008,1,12.6,323600.0,95.95
+234,2024,6023,Gateway School,Mathematics,409,6.0,85008,3,17.8,323600.0,95.95
+235,2024,6023,Gateway School,Mathematics,409,6.0,85008,4,14.1,323600.0,95.95
+236,2024,79285,Excelencia School,English Language Arts,333,18.0,85006,3,17.8,376600.0,92.59
+237,2024,79285,Excelencia School,Mathematics,341,14.0,85006,3,17.8,376600.0,92.59
+238,2024,5142,Deer Valley Middle School,English Language Arts,488,30.0,85027,1,12.6,316100.0,95.3
+239,2024,5142,Deer Valley Middle School,English Language Arts,488,30.0,85027,8,12.8,316100.0,95.3
+240,2024,5142,Deer Valley Middle School,Mathematics,492,14.0,85027,1,12.6,316100.0,95.3
+241,2024,5142,Deer Valley Middle School,Mathematics,492,14.0,85027,8,12.8,316100.0,95.3
+242,2024,5143,Village Meadows Elementary School,English Language Arts,193,42.0,85023,1,12.6,359200.0,97.22
+243,2024,5143,Village Meadows Elementary School,English Language Arts,193,42.0,85023,8,12.8,359200.0,97.22
+244,2024,5143,Village Meadows Elementary School,Mathematics,194,35.0,85023,1,12.6,359200.0,97.22
+245,2024,5143,Village Meadows Elementary School,Mathematics,194,35.0,85023,8,12.8,359200.0,97.22
+246,2024,5146,Constitution Elementary School,English Language Arts,247,33.0,85023,1,12.6,359200.0,97.22
+247,2024,5146,Constitution Elementary School,English Language Arts,247,33.0,85023,8,12.8,359200.0,97.22
+248,2024,5146,Constitution Elementary School,Mathematics,249,24.0,85023,1,12.6,359200.0,97.22
+249,2024,5146,Constitution Elementary School,Mathematics,249,24.0,85023,8,12.8,359200.0,97.22
+250,2024,5147,Sunrise Elementary School,English Language Arts,220,28.0,85053,8,12.8,329500.0,95.51
+251,2024,5147,Sunrise Elementary School,Mathematics,228,19.0,85053,8,12.8,329500.0,95.51
+252,2024,5157,Esperanza Elementary School,English Language Arts,253,30.0,85027,1,12.6,316100.0,95.3
+253,2024,5157,Esperanza Elementary School,English Language Arts,253,30.0,85027,8,12.8,316100.0,95.3
+254,2024,5157,Esperanza Elementary School,Mathematics,255,19.0,85027,1,12.6,316100.0,95.3
+255,2024,5157,Esperanza Elementary School,Mathematics,255,19.0,85027,8,12.8,316100.0,95.3
+256,2024,5162,Barry Goldwater High School,English Language Arts,391,41.0,85027,1,12.6,316100.0,95.3
+257,2024,5162,Barry Goldwater High School,English Language Arts,391,41.0,85027,8,12.8,316100.0,95.3
+258,2024,5162,Barry Goldwater High School,Mathematics,407,31.0,85027,1,12.6,316100.0,95.3
+259,2024,5162,Barry Goldwater High School,Mathematics,407,31.0,85027,8,12.8,316100.0,95.3
+260,2024,6016,Paseo Hills School,English Language Arts,502,33.0,85027,1,12.6,316100.0,95.3
+261,2024,6016,Paseo Hills School,English Language Arts,502,33.0,85027,8,12.8,316100.0,95.3
+262,2024,6016,Paseo Hills School,Mathematics,501,25.0,85027,1,12.6,316100.0,95.3
+263,2024,6016,Paseo Hills School,Mathematics,501,25.0,85027,8,12.8,316100.0,95.3
+264,2024,79414,"Aspire, Deer Valley's Online Academy",English Language Arts,218,59.0,85027,1,12.6,316100.0,95.3
+265,2024,79414,"Aspire, Deer Valley's Online Academy",English Language Arts,218,59.0,85027,8,12.8,316100.0,95.3
+266,2024,79414,"Aspire, Deer Valley's Online Academy",Mathematics,218,43.0,85027,1,12.6,316100.0,95.3
+267,2024,79414,"Aspire, Deer Valley's Online Academy",Mathematics,218,43.0,85027,8,12.8,316100.0,95.3
+268,2024,79573,Stetson Hills School ,English Language Arts,626,62.0,85083,8,12.8,572600.0,98.5
+269,2024,79573,Stetson Hills School ,Mathematics,632,72.0,85083,8,12.8,572600.0,98.5
+270,2024,89953,Norterra Canyon School,English Language Arts,387,56.0,85085,8,12.8,589000.0,98.13
+271,2024,89953,Norterra Canyon School,Mathematics,389,54.0,85085,8,12.8,589000.0,98.13
+272,2024,92907,Sonoran Foothills School,English Language Arts,642,74.0,85085,8,12.8,589000.0,98.13
+273,2024,92907,Sonoran Foothills School,Mathematics,647,70.0,85085,8,12.8,589000.0,98.13
+274,2024,1001159,Union Park School,English Language Arts,504,66.0,85027,1,12.6,316100.0,95.3
+275,2024,1001159,Union Park School,English Language Arts,504,66.0,85027,8,12.8,316100.0,95.3
+276,2024,1001159,Union Park School,Mathematics,505,61.0,85027,1,12.6,316100.0,95.3
+277,2024,1001159,Union Park School,Mathematics,505,61.0,85027,8,12.8,316100.0,95.3
+278,2024,92563,EAGLE College Prep Maryvale,English Language Arts,216,25.0,85031,3,17.8,240300.0,93.95
+279,2024,92563,EAGLE College Prep Maryvale,Mathematics,217,10.0,85031,3,17.8,240300.0,93.95
+280,2024,89851,EAGLE College Prep,English Language Arts,308,32.0,85041,3,17.8,310100.0,96.59
+281,2024,89851,EAGLE College Prep,Mathematics,308,30.0,85041,3,17.8,310100.0,96.59
+282,2024,79263,Arizona Conservatory for Arts and Academics Elementary School,English Language Arts,74,27.0,85053,8,12.8,329500.0,95.51
+283,2024,90349,Arizona Conservatory for Arts and Academics,English Language Arts,143,36.0,85053,8,12.8,329500.0,95.51
+284,2024,90349,Arizona Conservatory for Arts and Academics,Mathematics,143,16.0,85053,8,12.8,329500.0,95.51
+285,2024,91783,Empower College Prep,English Language Arts,438,24.0,85015,1,12.6,312600.0,94.07
+286,2024,91783,Empower College Prep,English Language Arts,438,24.0,85015,3,17.8,312600.0,94.07
+287,2024,91783,Empower College Prep,English Language Arts,438,24.0,85015,8,12.8,312600.0,94.07
+288,2024,91783,Empower College Prep,Mathematics,440,18.0,85015,1,12.6,312600.0,94.07
+289,2024,91783,Empower College Prep,Mathematics,440,18.0,85015,3,17.8,312600.0,94.07
+290,2024,91783,Empower College Prep,Mathematics,440,18.0,85015,8,12.8,312600.0,94.07
+291,2024,5507,NFL YET College Prep Academy,English Language Arts,149,32.0,85040,3,17.8,294800.0,92.34
+292,2024,5507,NFL YET College Prep Academy,Mathematics,151,29.0,85040,3,17.8,294800.0,92.34
+293,2024,85886,Reyes Maria Ruiz Leadership Academy,English Language Arts,214,28.0,85040,3,17.8,294800.0,92.34
+294,2024,85886,Reyes Maria Ruiz Leadership Academy,Mathematics,216,29.0,85040,3,17.8,294800.0,92.34
+295,2024,181823,Maricopa Institute of Technology,English Language Arts,90,65.0,85043,3,17.8,288900.0,95.66
+296,2024,181823,Maricopa Institute of Technology,Mathematics,90,44.0,85043,3,17.8,288900.0,95.66
+297,2024,78820,Champion Schools,English Language Arts,321,27.0,85042,3,17.8,353400.0,95.53
+298,2024,78820,Champion Schools,English Language Arts,321,27.0,85042,4,14.1,353400.0,95.53
+299,2024,78820,Champion Schools,Mathematics,322,16.0,85042,3,17.8,353400.0,95.53
+300,2024,78820,Champion Schools,Mathematics,322,16.0,85042,4,14.1,353400.0,95.53
+301,2024,5351,Fowler Elementary School,English Language Arts,177,21.0,85043,3,17.8,288900.0,95.66
+302,2024,5351,Fowler Elementary School,Mathematics,183,21.0,85043,3,17.8,288900.0,95.66
+303,2024,5352,Sunridge Elementary School,English Language Arts,231,13.0,85043,3,17.8,288900.0,95.66
+304,2024,5352,Sunridge Elementary School,Mathematics,235,7.0,85043,3,17.8,288900.0,95.66
+305,2024,5353,Santa Maria Middle School,English Language Arts,567,16.0,85043,3,17.8,288900.0,95.66
+306,2024,5353,Santa Maria Middle School,Mathematics,571,5.0,85043,3,17.8,288900.0,95.66
+307,2024,80315,Sun Canyon School,English Language Arts,262,28.0,85043,3,17.8,288900.0,95.66
+308,2024,80315,Sun Canyon School,Mathematics,264,32.0,85043,3,17.8,288900.0,95.66
+309,2024,80915,Western Valley Elementary School,English Language Arts,253,21.0,85043,3,17.8,288900.0,95.66
+310,2024,80915,Western Valley Elementary School,Mathematics,257,22.0,85043,3,17.8,288900.0,95.66
+311,2024,80916,Western Valley Middle School,English Language Arts,531,16.0,85043,3,17.8,288900.0,95.66
+312,2024,80916,Western Valley Middle School,Mathematics,546,3.0,85043,3,17.8,288900.0,95.66
+313,2024,87521,Tuscano Elementary School,English Language Arts,257,19.0,85043,3,17.8,288900.0,95.66
+314,2024,87521,Tuscano Elementary School,Mathematics,260,19.0,85043,3,17.8,288900.0,95.66
+315,2024,92597,Franklin Phonetic Primary School-Sunnyslope,English Language Arts,39,33.0,85020,1,12.6,400800.0,95.62
+316,2024,92597,Franklin Phonetic Primary School-Sunnyslope,Mathematics,39,33.0,85020,1,12.6,400800.0,95.62
+317,2024,80472,Freedom Academy,English Language Arts,221,30.0,85032,1,12.6,387900.0,96.03
+318,2024,80472,Freedom Academy,Mathematics,223,22.0,85032,1,12.6,387900.0,96.03
+319,2024,6036,Friendly House Academia Del Pueblo Elem,English Language Arts,185,12.0,85004,3,17.8,365500.0,98.27
+320,2024,6036,Friendly House Academia Del Pueblo Elem,Mathematics,185,14.0,85004,3,17.8,365500.0,98.27
+321,2024,91712,George Gervin Prep Academy,English Language Arts,97,25.0,85040,3,17.8,294800.0,92.34
+322,2024,91712,George Gervin Prep Academy,Mathematics,97,12.0,85040,3,17.8,294800.0,92.34
+323,2024,5427,Sunnyslope High School,English Language Arts,520,55.0,85021,1,12.6,433000.0,95.91
+324,2024,5427,Sunnyslope High School,English Language Arts,520,55.0,85021,8,12.8,433000.0,95.91
+325,2024,5427,Sunnyslope High School,Mathematics,524,47.0,85021,1,12.6,433000.0,95.91
+326,2024,5427,Sunnyslope High School,Mathematics,524,47.0,85021,8,12.8,433000.0,95.91
+327,2024,5428,Washington High School,English Language Arts,368,36.0,85021,1,12.6,433000.0,95.91
+328,2024,5428,Washington High School,English Language Arts,368,36.0,85021,8,12.8,433000.0,95.91
+329,2024,5428,Washington High School,Mathematics,372,29.0,85021,1,12.6,433000.0,95.91
+330,2024,5428,Washington High School,Mathematics,372,29.0,85021,8,12.8,433000.0,95.91
+331,2024,5429,Cortez High School,English Language Arts,232,29.0,85051,3,17.8,288300.0,94.66
+332,2024,5429,Cortez High School,English Language Arts,232,29.0,85051,8,12.8,288300.0,94.66
+333,2024,5429,Cortez High School,Mathematics,233,23.0,85051,3,17.8,288300.0,94.66
+334,2024,5429,Cortez High School,Mathematics,233,23.0,85051,8,12.8,288300.0,94.66
+335,2024,5430,Moon Valley High School,English Language Arts,345,36.0,85029,1,12.6,307800.0,96.81
+336,2024,5430,Moon Valley High School,English Language Arts,345,36.0,85029,8,12.8,307800.0,96.81
+337,2024,5430,Moon Valley High School,Mathematics,345,30.0,85029,1,12.6,307800.0,96.81
+338,2024,5430,Moon Valley High School,Mathematics,345,30.0,85029,8,12.8,307800.0,96.81
+339,2024,5432,Thunderbird High School,English Language Arts,381,54.0,85023,1,12.6,359200.0,97.22
+340,2024,5432,Thunderbird High School,English Language Arts,381,54.0,85023,8,12.8,359200.0,97.22
+341,2024,5432,Thunderbird High School,Mathematics,381,43.0,85023,1,12.6,359200.0,97.22
+342,2024,5432,Thunderbird High School,Mathematics,381,43.0,85023,8,12.8,359200.0,97.22
+343,2024,5433,Greenway High School,English Language Arts,278,48.0,85053,8,12.8,329500.0,95.51
+344,2024,5433,Greenway High School,Mathematics,279,37.0,85053,8,12.8,329500.0,95.51
+345,2024,78809,Horizon Honors Secondary School,English Language Arts,349,59.0,85048,4,14.1,538500.0,99.73
+346,2024,78809,Horizon Honors Secondary School,Mathematics,358,52.0,85048,4,14.1,538500.0,99.73
+347,2024,92621,Horizon Honors Elementary School,English Language Arts,479,75.0,85048,4,14.1,538500.0,99.73
+348,2024,92621,Horizon Honors Elementary School,Mathematics,479,49.0,85048,4,14.1,538500.0,99.73
+349,2024,89562,Imagine Camelback Middle,English Language Arts,177,12.0,85015,1,12.6,312600.0,94.07
+350,2024,89562,Imagine Camelback Middle,English Language Arts,177,12.0,85015,3,17.8,312600.0,94.07
+351,2024,89562,Imagine Camelback Middle,English Language Arts,177,12.0,85015,8,12.8,312600.0,94.07
+352,2024,88366,Imagine Camelback Elementary,English Language Arts,153,8.0,85015,1,12.6,312600.0,94.07
+353,2024,88366,Imagine Camelback Elementary,English Language Arts,153,8.0,85015,3,17.8,312600.0,94.07
+354,2024,88366,Imagine Camelback Elementary,English Language Arts,153,8.0,85015,8,12.8,312600.0,94.07
+355,2024,88368,Imagine Desert West Elementary,English Language Arts,369,13.0,85035,3,17.8,244300.0,95.77
+356,2024,88368,Imagine Desert West Elementary,Mathematics,373,14.0,85035,3,17.8,244300.0,95.77
+357,2024,89564,Imagine Desert West Middle,English Language Arts,426,18.0,85035,3,17.8,244300.0,95.77
+358,2024,89564,Imagine Desert West Middle,Mathematics,427,8.0,85035,3,17.8,244300.0,95.77
+359,2024,5234,Isaac Middle School,English Language Arts,468,12.0,85009,3,17.8,215300.0,94.75
+360,2024,5234,Isaac Middle School,Mathematics,479,8.0,85009,3,17.8,215300.0,94.75
+361,2024,5235,J B Sutton Elementary School,English Language Arts,249,17.0,85009,3,17.8,215300.0,94.75
+362,2024,5235,J B Sutton Elementary School,Mathematics,249,18.0,85009,3,17.8,215300.0,94.75
+363,2024,5236,Alta E Butler School,English Language Arts,272,20.0,85009,3,17.8,215300.0,94.75
+364,2024,5236,Alta E Butler School,Mathematics,275,16.0,85009,3,17.8,215300.0,94.75
+365,2024,5237,P T Coe Elementary School,English Language Arts,176,19.0,85009,3,17.8,215300.0,94.75
+366,2024,5237,P T Coe Elementary School,Mathematics,179,14.0,85009,3,17.8,215300.0,94.75
+367,2024,5238,Joseph Zito Elementary School,English Language Arts,164,30.0,85035,3,17.8,244300.0,95.77
+368,2024,5238,Joseph Zito Elementary School,Mathematics,168,28.0,85035,3,17.8,244300.0,95.77
+369,2024,5239,Mitchell Elementary School,English Language Arts,167,26.0,85009,3,17.8,215300.0,94.75
+370,2024,5239,Mitchell Elementary School,Mathematics,171,21.0,85009,3,17.8,215300.0,94.75
+371,2024,5240,Esperanza Elementary School,English Language Arts,177,23.0,85009,3,17.8,215300.0,94.75
+372,2024,5240,Esperanza Elementary School,Mathematics,178,20.0,85009,3,17.8,215300.0,94.75
+373,2024,5243,Pueblo Del Sol Middle School,English Language Arts,514,19.0,85019,3,17.8,255700.0,91.91
+374,2024,5243,Pueblo Del Sol Middle School,English Language Arts,514,19.0,85019,8,12.8,255700.0,91.91
+375,2024,5243,Pueblo Del Sol Middle School,Mathematics,520,16.0,85019,3,17.8,255700.0,91.91
+376,2024,5243,Pueblo Del Sol Middle School,Mathematics,520,16.0,85019,8,12.8,255700.0,91.91
+377,2024,78934,Morris K. Udall Escuela de Bellas Artes,English Language Arts,549,17.0,85009,3,17.8,215300.0,94.75
+378,2024,78934,Morris K. Udall Escuela de Bellas Artes,Mathematics,551,8.0,85009,3,17.8,215300.0,94.75
+379,2024,79821,Moya Elementary,English Language Arts,168,12.0,85009,3,17.8,215300.0,94.75
+380,2024,79821,Moya Elementary,Mathematics,177,12.0,85009,3,17.8,215300.0,94.75
+381,2024,1001624,Isaac Online Prep Academy,English Language Arts,61,34.0,85009,3,17.8,215300.0,94.75
+382,2024,92246,Glenview College Preparatory High School,English Language Arts,111,56.0,85019,3,17.8,255700.0,91.91
+383,2024,92246,Glenview College Preparatory High School,English Language Arts,111,56.0,85019,8,12.8,255700.0,91.91
+384,2024,92246,Glenview College Preparatory High School,Mathematics,111,34.0,85019,3,17.8,255700.0,91.91
+385,2024,92246,Glenview College Preparatory High School,Mathematics,111,34.0,85019,8,12.8,255700.0,91.91
+386,2024,78851,Kaizen Education Foundation dba South Pointe Elementary School,English Language Arts,150,14.0,85040,3,17.8,294800.0,92.34
+387,2024,79178,South Pointe Junior High School,English Language Arts,111,20.0,85042,3,17.8,353400.0,95.53
+388,2024,79178,South Pointe Junior High School,English Language Arts,111,20.0,85042,4,14.1,353400.0,95.53
+389,2024,1000277,Kaleidoscope School,English Language Arts,137,44.0,85022,1,12.6,385900.0,96.75
+390,2024,1000277,Kaleidoscope School,Mathematics,137,43.0,85022,1,12.6,385900.0,96.75
+391,2024,10884,Keystone Montessori Charter School,English Language Arts,130,65.0,85048,4,14.1,538500.0,99.73
+392,2024,10884,Keystone Montessori Charter School,Mathematics,132,35.0,85048,4,14.1,538500.0,99.73
+393,2024,5547,Khalsa Montessori Elementary School - Phoenix,English Language Arts,51,92.0,85004,3,17.8,365500.0,98.27
+394,2024,5547,Khalsa Montessori Elementary School - Phoenix,Mathematics,51,63.0,85004,3,17.8,365500.0,98.27
+395,2024,5297,Kyrene Altadena Middle School,English Language Arts,911,64.0,85048,4,14.1,538500.0,99.73
+396,2024,5297,Kyrene Altadena Middle School,Mathematics,912,50.0,85048,4,14.1,538500.0,99.73
+397,2024,5298,Kyrene Akimel A-Al Middle School,English Language Arts,782,49.0,85048,4,14.1,538500.0,99.73
+398,2024,5298,Kyrene Akimel A-Al Middle School,Mathematics,784,33.0,85048,4,14.1,538500.0,99.73
+399,2024,5299,Kyrene Centennial Middle School,English Language Arts,549,30.0,85044,3,17.8,437400.0,97.88
+400,2024,5299,Kyrene Centennial Middle School,English Language Arts,549,30.0,85044,4,14.1,437400.0,97.88
+401,2024,5299,Kyrene Centennial Middle School,Mathematics,557,24.0,85044,3,17.8,437400.0,97.88
+402,2024,5299,Kyrene Centennial Middle School,Mathematics,557,24.0,85044,4,14.1,437400.0,97.88
+403,2024,5304,Kyrene de las Lomas School,English Language Arts,219,34.0,85044,3,17.8,437400.0,97.88
+404,2024,5304,Kyrene de las Lomas School,English Language Arts,219,34.0,85044,4,14.1,437400.0,97.88
+405,2024,5304,Kyrene de las Lomas School,Mathematics,219,29.0,85044,3,17.8,437400.0,97.88
+406,2024,5304,Kyrene de las Lomas School,Mathematics,219,29.0,85044,4,14.1,437400.0,97.88
+407,2024,5308,Kyrene de la Colina School,English Language Arts,214,41.0,85044,3,17.8,437400.0,97.88
+408,2024,5308,Kyrene de la Colina School,English Language Arts,214,41.0,85044,4,14.1,437400.0,97.88
+409,2024,5308,Kyrene de la Colina School,Mathematics,213,39.0,85044,3,17.8,437400.0,97.88
+410,2024,5308,Kyrene de la Colina School,Mathematics,213,39.0,85044,4,14.1,437400.0,97.88
+411,2024,5311,Kyrene De Los Lagos School,English Language Arts,227,64.0,85048,4,14.1,538500.0,99.73
+412,2024,5311,Kyrene De Los Lagos School,Mathematics,227,62.0,85048,4,14.1,538500.0,99.73
+413,2024,5312,Kyrene Monte Vista School,English Language Arts,256,67.0,85048,4,14.1,538500.0,99.73
+414,2024,5312,Kyrene Monte Vista School,Mathematics,256,64.0,85048,4,14.1,538500.0,99.73
+415,2024,5313,Kyrene de la Sierra School,English Language Arts,238,67.0,85048,4,14.1,538500.0,99.73
+416,2024,5313,Kyrene de la Sierra School,Mathematics,239,60.0,85048,4,14.1,538500.0,99.73
+417,2024,5315,Kyrene de la Esperanza School,English Language Arts,227,38.0,85044,3,17.8,437400.0,97.88
+418,2024,5315,Kyrene de la Esperanza School,English Language Arts,227,38.0,85044,4,14.1,437400.0,97.88
+419,2024,5315,Kyrene de la Esperanza School,Mathematics,230,36.0,85044,3,17.8,437400.0,97.88
+420,2024,5315,Kyrene de la Esperanza School,Mathematics,230,36.0,85044,4,14.1,437400.0,97.88
+421,2024,5317,Kyrene de los Cerritos School,English Language Arts,208,62.0,85048,4,14.1,538500.0,99.73
+422,2024,5317,Kyrene de los Cerritos School,Mathematics,208,64.0,85048,4,14.1,538500.0,99.73
+423,2024,78923,Kyrene de la Estrella Elementary School,English Language Arts,234,41.0,85048,4,14.1,538500.0,99.73
+424,2024,78923,Kyrene de la Estrella Elementary School,Mathematics,239,37.0,85048,4,14.1,538500.0,99.73
+425,2024,79143,Kyrene del Milenio,English Language Arts,229,30.0,85048,4,14.1,538500.0,99.73
+426,2024,79143,Kyrene del Milenio,Mathematics,231,38.0,85048,4,14.1,538500.0,99.73
+427,2024,5357,Maurice C. Cash Elementary School,English Language Arts,490,24.0,85041,3,17.8,310100.0,96.59
+428,2024,5357,Maurice C. Cash Elementary School,Mathematics,492,25.0,85041,3,17.8,310100.0,96.59
+429,2024,1001424,Legacy Traditional School - Deer Valley,English Language Arts,199,40.0,85027,1,12.6,316100.0,95.3
+430,2024,1001424,Legacy Traditional School - Deer Valley,English Language Arts,199,40.0,85027,8,12.8,316100.0,95.3
+431,2024,1001424,Legacy Traditional School - Deer Valley,Mathematics,200,35.0,85027,1,12.6,316100.0,95.3
+432,2024,1001424,Legacy Traditional School - Deer Valley,Mathematics,200,35.0,85027,8,12.8,316100.0,95.3
+433,2024,1000569,Legacy Traditional School - North Phoenix,English Language Arts,511,39.0,85037,3,17.8,290600.0,96.37
+434,2024,1000569,Legacy Traditional School - North Phoenix,Mathematics,516,16.0,85037,3,17.8,290600.0,96.37
+435,2024,112572,Legacy Traditional School - Phoenix,English Language Arts,603,48.0,85037,3,17.8,290600.0,96.37
+436,2024,112572,Legacy Traditional School - Phoenix,Mathematics,605,40.0,85037,3,17.8,290600.0,96.37
+437,2024,78811,Liberty Traditional Charter School,English Language Arts,119,17.0,85031,3,17.8,240300.0,93.95
+438,2024,78811,Liberty Traditional Charter School,Mathematics,119,13.0,85031,3,17.8,240300.0,93.95
+439,2024,81175,Phoenix College Preparatory Academy,English Language Arts,59,41.0,85013,1,12.6,476200.0,96.09
+440,2024,81175,Phoenix College Preparatory Academy,English Language Arts,59,41.0,85013,3,17.8,476200.0,96.09
+441,2024,81175,Phoenix College Preparatory Academy,Mathematics,59,36.0,85013,1,12.6,476200.0,96.09
+442,2024,81175,Phoenix College Preparatory Academy,Mathematics,59,36.0,85013,3,17.8,476200.0,96.09
+443,2024,5324,Madison #1 Elementary School,English Language Arts,870,45.0,85016,1,12.6,508400.0,96.92
+444,2024,5324,Madison #1 Elementary School,English Language Arts,870,45.0,85016,3,17.8,508400.0,96.92
+445,2024,5324,Madison #1 Elementary School,Mathematics,877,32.0,85016,1,12.6,508400.0,96.92
+446,2024,5324,Madison #1 Elementary School,Mathematics,877,32.0,85016,3,17.8,508400.0,96.92
+447,2024,5325,Madison Camelview Elementary,English Language Arts,204,38.0,85016,1,12.6,508400.0,96.92
+448,2024,5325,Madison Camelview Elementary,English Language Arts,204,38.0,85016,3,17.8,508400.0,96.92
+449,2024,5325,Madison Camelview Elementary,Mathematics,209,37.0,85016,1,12.6,508400.0,96.92
+450,2024,5325,Madison Camelview Elementary,Mathematics,209,37.0,85016,3,17.8,508400.0,96.92
+451,2024,5326,Madison Richard Simis School,English Language Arts,358,70.0,85020,1,12.6,400800.0,95.62
+452,2024,5326,Madison Richard Simis School,Mathematics,359,66.0,85020,1,12.6,400800.0,95.62
+453,2024,5327,Madison Rose Lane School,English Language Arts,254,55.0,85014,1,12.6,447500.0,94.3
+454,2024,5327,Madison Rose Lane School,English Language Arts,254,55.0,85014,3,17.8,447500.0,94.3
+455,2024,5327,Madison Rose Lane School,Mathematics,257,47.0,85014,1,12.6,447500.0,94.3
+456,2024,5327,Madison Rose Lane School,Mathematics,257,47.0,85014,3,17.8,447500.0,94.3
+457,2024,5328,Madison Park School,English Language Arts,410,25.0,85014,1,12.6,447500.0,94.3
+458,2024,5328,Madison Park School,English Language Arts,410,25.0,85014,3,17.8,447500.0,94.3
+459,2024,5328,Madison Park School,Mathematics,410,14.0,85014,1,12.6,447500.0,94.3
+460,2024,5328,Madison Park School,Mathematics,410,14.0,85014,3,17.8,447500.0,94.3
+461,2024,5329,Madison Meadows School,English Language Arts,793,55.0,85013,1,12.6,476200.0,96.09
+462,2024,5329,Madison Meadows School,English Language Arts,793,55.0,85013,3,17.8,476200.0,96.09
+463,2024,5329,Madison Meadows School,Mathematics,794,39.0,85013,1,12.6,476200.0,96.09
+464,2024,5329,Madison Meadows School,Mathematics,794,39.0,85013,3,17.8,476200.0,96.09
+465,2024,5330,Madison Heights Elementary School,English Language Arts,233,70.0,85020,1,12.6,400800.0,95.62
+466,2024,5330,Madison Heights Elementary School,Mathematics,233,63.0,85020,1,12.6,400800.0,95.62
+467,2024,89622,Madison Traditional Academy,English Language Arts,509,80.0,85014,1,12.6,447500.0,94.3
+468,2024,89622,Madison Traditional Academy,English Language Arts,509,80.0,85014,3,17.8,447500.0,94.3
+469,2024,89622,Madison Traditional Academy,Mathematics,510,77.0,85014,1,12.6,447500.0,94.3
+470,2024,89622,Madison Traditional Academy,Mathematics,510,77.0,85014,3,17.8,447500.0,94.3
+471,2024,92605,Madison Highland Prep,English Language Arts,112,44.0,85014,1,12.6,447500.0,94.3
+472,2024,92605,Madison Highland Prep,English Language Arts,112,44.0,85014,3,17.8,447500.0,94.3
+473,2024,92605,Madison Highland Prep,Mathematics,112,50.0,85014,1,12.6,447500.0,94.3
+474,2024,92605,Madison Highland Prep,Mathematics,112,50.0,85014,3,17.8,447500.0,94.3
+475,2024,5480,Gateway Early College High School,English Language Arts,71,38.0,85034,3,17.8,397400.0,95.22
+476,2024,5480,Gateway Early College High School,English Language Arts,71,38.0,85034,4,14.1,397400.0,95.22
+477,2024,5480,Gateway Early College High School,Mathematics,71,21.0,85034,3,17.8,397400.0,95.22
+478,2024,5480,Gateway Early College High School,Mathematics,71,21.0,85034,4,14.1,397400.0,95.22
+479,2024,91781,Great Hearts Academies - Maryvale Prep,English Language Arts,582,27.0,85031,3,17.8,240300.0,93.95
+480,2024,91781,Great Hearts Academies - Maryvale Prep,Mathematics,579,27.0,85031,3,17.8,240300.0,93.95
+481,2024,10847,Metropolitan Arts Institute,English Language Arts,98,52.0,85007,3,17.8,447000.0,91.14
+482,2024,10847,Metropolitan Arts Institute,Mathematics,105,13.0,85007,3,17.8,447000.0,91.14
+483,2024,78843,Milestones Charter School,English Language Arts,98,59.0,85032,1,12.6,387900.0,96.03
+484,2024,78843,Milestones Charter School,Mathematics,98,69.0,85032,1,12.6,387900.0,96.03
+485,2024,5544,Montessori Day Public Schools Chartered - Mountainside,English Language Arts,97,61.0,85020,1,12.6,400800.0,95.62
+486,2024,5544,Montessori Day Public Schools Chartered - Mountainside,Mathematics,97,42.0,85020,1,12.6,400800.0,95.62
+487,2024,5291,Jack L Kuban Elementary School,English Language Arts,247,17.0,85009,3,17.8,215300.0,94.75
+488,2024,5291,Jack L Kuban Elementary School,Mathematics,248,15.0,85009,3,17.8,215300.0,94.75
+489,2024,5292,William R Sullivan Elementary School,English Language Arts,363,17.0,85009,3,17.8,215300.0,94.75
+490,2024,5292,William R Sullivan Elementary School,Mathematics,367,11.0,85009,3,17.8,215300.0,94.75
+491,2024,117994,Phoenix Modern,English Language Arts,71,49.0,85012,1,12.6,701200.0,97.21
+492,2024,117994,Phoenix Modern,English Language Arts,71,49.0,85012,3,17.8,701200.0,97.21
+493,2024,117994,Phoenix Modern,Mathematics,74,29.0,85012,1,12.6,701200.0,97.21
+494,2024,117994,Phoenix Modern,Mathematics,74,29.0,85012,3,17.8,701200.0,97.21
+495,2024,78883,New World Educational Center,English Language Arts,138,33.0,85014,1,12.6,447500.0,94.3
+496,2024,78883,New World Educational Center,English Language Arts,138,33.0,85014,3,17.8,447500.0,94.3
+497,2024,78883,New World Educational Center,Mathematics,138,19.0,85014,1,12.6,447500.0,94.3
+498,2024,78883,New World Educational Center,Mathematics,138,19.0,85014,3,17.8,447500.0,94.3
+499,2024,91422,Great Hearts Academies - North Phoenix Prep,English Language Arts,430,69.0,85022,1,12.6,385900.0,96.75
+500,2024,91422,Great Hearts Academies - North Phoenix Prep,Mathematics,437,55.0,85022,1,12.6,385900.0,96.75
+501,2024,5278,Clarendon School,English Language Arts,379,33.0,85013,1,12.6,476200.0,96.09
+502,2024,5278,Clarendon School,English Language Arts,379,33.0,85013,3,17.8,476200.0,96.09
+503,2024,5278,Clarendon School,Mathematics,380,22.0,85013,1,12.6,476200.0,96.09
+504,2024,5278,Clarendon School,Mathematics,380,22.0,85013,3,17.8,476200.0,96.09
+505,2024,5279,Encanto School,English Language Arts,150,37.0,85013,1,12.6,476200.0,96.09
+506,2024,5279,Encanto School,English Language Arts,150,37.0,85013,3,17.8,476200.0,96.09
+507,2024,5279,Encanto School,Mathematics,153,38.0,85013,1,12.6,476200.0,96.09
+508,2024,5279,Encanto School,Mathematics,153,38.0,85013,3,17.8,476200.0,96.09
+509,2024,5280,Osborn Middle School,English Language Arts,439,30.0,85013,1,12.6,476200.0,96.09
+510,2024,5280,Osborn Middle School,English Language Arts,439,30.0,85013,3,17.8,476200.0,96.09
+511,2024,5280,Osborn Middle School,Mathematics,439,15.0,85013,1,12.6,476200.0,96.09
+512,2024,5280,Osborn Middle School,Mathematics,439,15.0,85013,3,17.8,476200.0,96.09
+513,2024,5281,Solano School,English Language Arts,186,9.0,85015,1,12.6,312600.0,94.07
+514,2024,5281,Solano School,English Language Arts,186,9.0,85015,3,17.8,312600.0,94.07
+515,2024,5281,Solano School,English Language Arts,186,9.0,85015,8,12.8,312600.0,94.07
+516,2024,5282,Longview Elementary School,English Language Arts,247,19.0,85014,1,12.6,447500.0,94.3
+517,2024,5282,Longview Elementary School,English Language Arts,247,19.0,85014,3,17.8,447500.0,94.3
+518,2024,5282,Longview Elementary School,Mathematics,250,11.0,85014,1,12.6,447500.0,94.3
+519,2024,5282,Longview Elementary School,Mathematics,250,11.0,85014,3,17.8,447500.0,94.3
+520,2024,79579,Pan-American Charter School,English Language Arts,648,29.0,85017,3,17.8,242900.0,94.94
+521,2024,79579,Pan-American Charter School,English Language Arts,648,29.0,85017,8,12.8,242900.0,94.94
+522,2024,79579,Pan-American Charter School,Mathematics,654,12.0,85017,3,17.8,242900.0,94.94
+523,2024,79579,Pan-American Charter School,Mathematics,654,12.0,85017,8,12.8,242900.0,94.94
+524,2024,5074,Campo Bello Elementary School,English Language Arts,315,28.0,85032,1,12.6,387900.0,96.03
+525,2024,5074,Campo Bello Elementary School,Mathematics,317,26.0,85032,1,12.6,387900.0,96.03
+526,2024,5078,Eagle Ridge Elementary School,English Language Arts,210,35.0,85024,1,12.6,430400.0,98.4
+527,2024,5078,Eagle Ridge Elementary School,English Language Arts,210,35.0,85024,8,12.8,430400.0,98.4
+528,2024,5078,Eagle Ridge Elementary School,Mathematics,210,36.0,85024,1,12.6,430400.0,98.4
+529,2024,5078,Eagle Ridge Elementary School,Mathematics,210,36.0,85024,8,12.8,430400.0,98.4
+530,2024,5079,Hidden Hills Elementary School,English Language Arts,176,46.0,85022,1,12.6,385900.0,96.75
+531,2024,5079,Hidden Hills Elementary School,Mathematics,176,44.0,85022,1,12.6,385900.0,96.75
+532,2024,5080,Desert Cove Elementary School,English Language Arts,252,48.0,85028,1,12.6,583000.0,98.59
+533,2024,5080,Desert Cove Elementary School,Mathematics,253,42.0,85028,1,12.6,583000.0,98.59
+534,2024,5081,Quail Run Elementary School,English Language Arts,293,66.0,85050,1,12.6,564200.0,99.57
+535,2024,5081,Quail Run Elementary School,Mathematics,295,61.0,85050,1,12.6,564200.0,99.57
+536,2024,5082,Cactus View Elementary School,English Language Arts,282,32.0,85022,1,12.6,385900.0,96.75
+537,2024,5082,Cactus View Elementary School,Mathematics,284,24.0,85022,1,12.6,385900.0,96.75
+538,2024,5086,Indian Bend Elementary School,English Language Arts,299,23.0,85032,1,12.6,387900.0,96.03
+539,2024,5086,Indian Bend Elementary School,Mathematics,300,25.0,85032,1,12.6,387900.0,96.03
+540,2024,5087,Desert Trails Elementary School,English Language Arts,337,81.0,85050,1,12.6,564200.0,99.57
+541,2024,5087,Desert Trails Elementary School,Mathematics,338,81.0,85050,1,12.6,564200.0,99.57
+542,2024,5088,Whispering Wind Academy,English Language Arts,255,39.0,85032,1,12.6,387900.0,96.03
+543,2024,5088,Whispering Wind Academy,Mathematics,255,31.0,85032,1,12.6,387900.0,96.03
+544,2024,5089,Larkspur Elementary School,English Language Arts,170,23.0,85032,1,12.6,387900.0,96.03
+545,2024,5089,Larkspur Elementary School,Mathematics,172,26.0,85032,1,12.6,387900.0,96.03
+546,2024,5091,Boulder Creek Elementary School,English Language Arts,343,78.0,85024,1,12.6,430400.0,98.4
+547,2024,5091,Boulder Creek Elementary School,English Language Arts,343,78.0,85024,8,12.8,430400.0,98.4
+548,2024,5091,Boulder Creek Elementary School,Mathematics,343,78.0,85024,1,12.6,430400.0,98.4
+549,2024,5091,Boulder Creek Elementary School,Mathematics,343,78.0,85024,8,12.8,430400.0,98.4
+550,2024,5092,Mercury Mine Elementary School,English Language Arts,276,71.0,85028,1,12.6,583000.0,98.59
+551,2024,5092,Mercury Mine Elementary School,Mathematics,277,64.0,85028,1,12.6,583000.0,98.59
+552,2024,5093,Echo Mountain Primary School,English Language Arts,104,31.0,85022,1,12.6,385900.0,96.75
+553,2024,5093,Echo Mountain Primary School,Mathematics,104,38.0,85022,1,12.6,385900.0,96.75
+554,2024,5094,Palomino Primary School,English Language Arts,127,14.0,85032,1,12.6,387900.0,96.03
+555,2024,5094,Palomino Primary School,Mathematics,127,28.0,85032,1,12.6,387900.0,96.03
+556,2024,5100,Vista Verde Middle School,English Language Arts,399,22.0,85032,1,12.6,387900.0,96.03
+557,2024,5100,Vista Verde Middle School,Mathematics,392,14.0,85032,1,12.6,387900.0,96.03
+558,2024,5101,Greenway Middle School,English Language Arts,405,18.0,85032,1,12.6,387900.0,96.03
+559,2024,5101,Greenway Middle School,Mathematics,413,12.0,85032,1,12.6,387900.0,96.03
+560,2024,5102,Explorer Middle School,English Language Arts,627,59.0,85050,1,12.6,564200.0,99.57
+561,2024,5102,Explorer Middle School,Mathematics,626,62.0,85050,1,12.6,564200.0,99.57
+562,2024,5104,Shea Middle School,English Language Arts,479,35.0,85028,1,12.6,583000.0,98.59
+563,2024,5104,Shea Middle School,Mathematics,476,21.0,85028,1,12.6,583000.0,98.59
+564,2024,5105,Paradise Valley High School,English Language Arts,488,53.0,85032,1,12.6,387900.0,96.03
+565,2024,5105,Paradise Valley High School,Mathematics,509,45.0,85032,1,12.6,387900.0,96.03
+566,2024,5107,North Canyon High School,English Language Arts,383,27.0,85024,1,12.6,430400.0,98.4
+567,2024,5107,North Canyon High School,English Language Arts,383,27.0,85024,8,12.8,430400.0,98.4
+568,2024,5107,North Canyon High School,Mathematics,402,17.0,85024,1,12.6,430400.0,98.4
+569,2024,5107,North Canyon High School,Mathematics,402,17.0,85024,8,12.8,430400.0,98.4
+570,2024,5108,Shadow Mountain High School,English Language Arts,252,53.0,85028,1,12.6,583000.0,98.59
+571,2024,5108,Shadow Mountain High School,Mathematics,255,41.0,85028,1,12.6,583000.0,98.59
+572,2024,78920,Sunset Canyon School,English Language Arts,170,36.0,85050,1,12.6,564200.0,99.57
+573,2024,78920,Sunset Canyon School,Mathematics,172,39.0,85050,1,12.6,564200.0,99.57
+574,2024,79268,Pinnacle High School,English Language Arts,591,66.0,85050,1,12.6,564200.0,99.57
+575,2024,79268,Pinnacle High School,Mathematics,594,63.0,85050,1,12.6,564200.0,99.57
+576,2024,79729,Mountain Trail Middle School,English Language Arts,702,52.0,85024,1,12.6,430400.0,98.4
+577,2024,79729,Mountain Trail Middle School,English Language Arts,702,52.0,85024,8,12.8,430400.0,98.4
+578,2024,79729,Mountain Trail Middle School,Mathematics,701,47.0,85024,1,12.6,430400.0,98.4
+579,2024,79729,Mountain Trail Middle School,Mathematics,701,47.0,85024,8,12.8,430400.0,98.4
+580,2024,80055,Echo Mountain Intermediate School,English Language Arts,348,25.0,85022,1,12.6,385900.0,96.75
+581,2024,80055,Echo Mountain Intermediate School,Mathematics,349,19.0,85022,1,12.6,385900.0,96.75
+582,2024,81026,Palomino Intermediate School,English Language Arts,393,27.0,85032,1,12.6,387900.0,96.03
+583,2024,81026,Palomino Intermediate School,Mathematics,396,18.0,85032,1,12.6,387900.0,96.03
+584,2024,88406,Wildfire Elementary School,English Language Arts,275,74.0,85050,1,12.6,564200.0,99.57
+585,2024,88406,Wildfire Elementary School,Mathematics,276,66.0,85050,1,12.6,564200.0,99.57
+586,2024,90782,pvONLINE,English Language Arts,59,49.0,85032,1,12.6,387900.0,96.03
+587,2024,90782,pvONLINE,Mathematics,60,26.0,85032,1,12.6,387900.0,96.03
+588,2024,91754,Fireside Elementary School,English Language Arts,418,81.0,85050,1,12.6,564200.0,99.57
+589,2024,91754,Fireside Elementary School,Mathematics,418,81.0,85050,1,12.6,564200.0,99.57
+590,2024,92611,Sweetwater Community School,English Language Arts,100,16.0,85032,1,12.6,387900.0,96.03
+591,2024,1001667,Sky Crossing Elementary School,English Language Arts,280,77.0,85050,1,12.6,564200.0,99.57
+592,2024,1001667,Sky Crossing Elementary School,Mathematics,280,75.0,85050,1,12.6,564200.0,99.57
+593,2024,79509,Imagine Cortez Park Elementary,English Language Arts,236,16.0,85051,3,17.8,288300.0,94.66
+594,2024,79509,Imagine Cortez Park Elementary,English Language Arts,236,16.0,85051,8,12.8,288300.0,94.66
+595,2024,79509,Imagine Cortez Park Elementary,Mathematics,241,14.0,85051,3,17.8,288300.0,94.66
+596,2024,79509,Imagine Cortez Park Elementary,Mathematics,241,14.0,85051,8,12.8,288300.0,94.66
+597,2024,5417,Pendergast Elementary School,English Language Arts,438,23.0,85037,3,17.8,290600.0,96.37
+598,2024,5417,Pendergast Elementary School,Mathematics,442,19.0,85037,3,17.8,290600.0,96.37
+599,2024,5418,Desert Horizon Elementary School,English Language Arts,479,15.0,85037,3,17.8,290600.0,96.37
+600,2024,5418,Desert Horizon Elementary School,Mathematics,494,7.0,85037,3,17.8,290600.0,96.37
+601,2024,5420,Villa De Paz Elementary School,English Language Arts,341,20.0,85037,3,17.8,290600.0,96.37
+602,2024,5420,Villa De Paz Elementary School,Mathematics,342,10.0,85037,3,17.8,290600.0,96.37
+603,2024,5423,Copper King Elementary,English Language Arts,497,31.0,85037,3,17.8,290600.0,96.37
+604,2024,5423,Copper King Elementary,Mathematics,500,24.0,85037,3,17.8,290600.0,96.37
+605,2024,80417,Westwind Elementary School,English Language Arts,673,32.0,85037,3,17.8,290600.0,96.37
+606,2024,80417,Westwind Elementary School,Mathematics,677,26.0,85037,3,17.8,290600.0,96.37
+607,2024,80419,Amberlea Elementary School,English Language Arts,352,15.0,85037,3,17.8,290600.0,96.37
+608,2024,80419,Amberlea Elementary School,Mathematics,363,6.0,85037,3,17.8,290600.0,96.37
+609,2024,5195,Mary Mcleod Bethune School,English Language Arts,244,14.0,85007,3,17.8,447000.0,91.14
+610,2024,5195,Mary Mcleod Bethune School,Mathematics,253,9.0,85007,3,17.8,447000.0,91.14
+611,2024,5196,Capitol Elementary School,English Language Arts,256,24.0,85007,3,17.8,447000.0,91.14
+612,2024,5196,Capitol Elementary School,Mathematics,256,15.0,85007,3,17.8,447000.0,91.14
+613,2024,5197,Paul Dunbar Lawrence School,English Language Arts,75,31.0,85007,3,17.8,447000.0,91.14
+614,2024,5197,Paul Dunbar Lawrence School,Mathematics,75,22.0,85007,3,17.8,447000.0,91.14
+615,2024,5198,Thomas A Edison School,English Language Arts,325,14.0,85006,3,17.8,376600.0,92.59
+616,2024,5198,Thomas A Edison School,Mathematics,335,13.0,85006,3,17.8,376600.0,92.59
+617,2024,5199,Ralph Waldo Emerson Elementary School,English Language Arts,180,23.0,85006,3,17.8,376600.0,92.59
+618,2024,5199,Ralph Waldo Emerson Elementary School,Mathematics,185,10.0,85006,3,17.8,376600.0,92.59
+619,2024,5200,Garfield School,English Language Arts,275,15.0,85006,3,17.8,376600.0,92.59
+620,2024,5200,Garfield School,Mathematics,275,13.0,85006,3,17.8,376600.0,92.59
+621,2024,5201,Magnet Traditional School,English Language Arts,254,51.0,85009,3,17.8,215300.0,94.75
+622,2024,5201,Magnet Traditional School,Mathematics,256,44.0,85009,3,17.8,215300.0,94.75
+623,2024,5203,Maie Bartlett Heard School,English Language Arts,298,19.0,85015,1,12.6,312600.0,94.07
+624,2024,5203,Maie Bartlett Heard School,English Language Arts,298,19.0,85015,3,17.8,312600.0,94.07
+625,2024,5203,Maie Bartlett Heard School,English Language Arts,298,19.0,85015,8,12.8,312600.0,94.07
+626,2024,5203,Maie Bartlett Heard School,Mathematics,303,8.0,85015,1,12.6,312600.0,94.07
+627,2024,5203,Maie Bartlett Heard School,Mathematics,303,8.0,85015,3,17.8,312600.0,94.07
+628,2024,5203,Maie Bartlett Heard School,Mathematics,303,8.0,85015,8,12.8,312600.0,94.07
+629,2024,5204,Silvestre S Herrera School,English Language Arts,267,27.0,85034,3,17.8,397400.0,95.22
+630,2024,5204,Silvestre S Herrera School,English Language Arts,267,27.0,85034,4,14.1,397400.0,95.22
+631,2024,5204,Silvestre S Herrera School,Mathematics,274,19.0,85034,3,17.8,397400.0,95.22
+632,2024,5204,Silvestre S Herrera School,Mathematics,274,19.0,85034,4,14.1,397400.0,95.22
+633,2024,5205,Kenilworth Elementary School,English Language Arts,317,33.0,85003,3,17.8,577700.0,87.21
+634,2024,5205,Kenilworth Elementary School,Mathematics,317,21.0,85003,3,17.8,577700.0,87.21
+635,2024,5206,Lowell Elementary School,English Language Arts,199,12.0,85003,3,17.8,577700.0,87.21
+636,2024,5206,Lowell Elementary School,Mathematics,202,8.0,85003,3,17.8,577700.0,87.21
+637,2024,5209,Whittier Elementary School,English Language Arts,246,21.0,85006,3,17.8,376600.0,92.59
+638,2024,5209,Whittier Elementary School,Mathematics,247,11.0,85006,3,17.8,376600.0,92.59
+639,2024,79616,Augustus H. Shaw Montessori,English Language Arts,184,72.0,85006,3,17.8,376600.0,92.59
+640,2024,79616,Augustus H. Shaw Montessori,Mathematics,184,58.0,85006,3,17.8,376600.0,92.59
+641,2024,292305,Phoenix International Academy,English Language Arts,119,66.0,85040,3,17.8,294800.0,92.34
+642,2024,292305,Phoenix International Academy,Mathematics,119,43.0,85040,3,17.8,294800.0,92.34
+643,2024,5436,Alhambra High School,English Language Arts,430,9.0,85019,3,17.8,255700.0,91.91
+644,2024,5436,Alhambra High School,English Language Arts,430,9.0,85019,8,12.8,255700.0,91.91
+645,2024,5436,Alhambra High School,Mathematics,468,7.0,85019,3,17.8,255700.0,91.91
+646,2024,5436,Alhambra High School,Mathematics,468,7.0,85019,8,12.8,255700.0,91.91
+647,2024,5437,Trevor Browne High School,English Language Arts,586,15.0,85033,3,17.8,245900.0,96.74
+648,2024,5437,Trevor Browne High School,Mathematics,622,11.0,85033,3,17.8,245900.0,96.74
+649,2024,5438,Camelback High School,English Language Arts,463,18.0,85016,1,12.6,508400.0,96.92
+650,2024,5438,Camelback High School,English Language Arts,463,18.0,85016,3,17.8,508400.0,96.92
+651,2024,5438,Camelback High School,Mathematics,482,10.0,85016,1,12.6,508400.0,96.92
+652,2024,5438,Camelback High School,Mathematics,482,10.0,85016,3,17.8,508400.0,96.92
+653,2024,5439,Central High School,English Language Arts,397,15.0,85012,1,12.6,701200.0,97.21
+654,2024,5439,Central High School,English Language Arts,397,15.0,85012,3,17.8,701200.0,97.21
+655,2024,5439,Central High School,Mathematics,416,9.0,85012,1,12.6,701200.0,97.21
+656,2024,5439,Central High School,Mathematics,416,9.0,85012,3,17.8,701200.0,97.21
+657,2024,5440,Carl Hayden High School,English Language Arts,433,12.0,85009,3,17.8,215300.0,94.75
+658,2024,5440,Carl Hayden High School,Mathematics,467,7.0,85009,3,17.8,215300.0,94.75
+659,2024,5441,Maryvale High School,English Language Arts,545,15.0,85033,3,17.8,245900.0,96.74
+660,2024,5441,Maryvale High School,Mathematics,570,8.0,85033,3,17.8,245900.0,96.74
+661,2024,5442,North High School,English Language Arts,388,18.0,85014,1,12.6,447500.0,94.3
+662,2024,5442,North High School,English Language Arts,388,18.0,85014,3,17.8,447500.0,94.3
+663,2024,5442,North High School,Mathematics,412,11.0,85014,1,12.6,447500.0,94.3
+664,2024,5442,North High School,Mathematics,412,11.0,85014,3,17.8,447500.0,94.3
+665,2024,5443,South Mountain High School,English Language Arts,411,12.0,85040,3,17.8,294800.0,92.34
+666,2024,5443,South Mountain High School,Mathematics,423,7.0,85040,3,17.8,294800.0,92.34
+667,2024,6248,Metro Tech High School,English Language Arts,509,28.0,85015,1,12.6,312600.0,94.07
+668,2024,6248,Metro Tech High School,English Language Arts,509,28.0,85015,3,17.8,312600.0,94.07
+669,2024,6248,Metro Tech High School,English Language Arts,509,28.0,85015,8,12.8,312600.0,94.07
+670,2024,6248,Metro Tech High School,Mathematics,519,20.0,85015,1,12.6,312600.0,94.07
+671,2024,6248,Metro Tech High School,Mathematics,519,20.0,85015,3,17.8,312600.0,94.07
+672,2024,6248,Metro Tech High School,Mathematics,519,20.0,85015,8,12.8,312600.0,94.07
+673,2024,88407,Phoenix Union Bioscience High School,English Language Arts,90,82.0,85004,3,17.8,365500.0,98.27
+674,2024,88407,Phoenix Union Bioscience High School,Mathematics,90,75.0,85004,3,17.8,365500.0,98.27
+675,2024,89778,Franklin Police and Fire High School,English Language Arts,57,37.0,85007,3,17.8,447000.0,91.14
+676,2024,89778,Franklin Police and Fire High School,Mathematics,57,26.0,85007,3,17.8,447000.0,91.14
+677,2024,128903,Phoenix Union-Wilson College Preparatory,English Language Arts,47,27.0,85008,1,12.6,323600.0,95.95
+678,2024,128903,Phoenix Union-Wilson College Preparatory,English Language Arts,47,27.0,85008,3,17.8,323600.0,95.95
+679,2024,128903,Phoenix Union-Wilson College Preparatory,English Language Arts,47,27.0,85008,4,14.1,323600.0,95.95
+680,2024,128903,Phoenix Union-Wilson College Preparatory,Mathematics,48,23.0,85008,1,12.6,323600.0,95.95
+681,2024,128903,Phoenix Union-Wilson College Preparatory,Mathematics,48,23.0,85008,3,17.8,323600.0,95.95
+682,2024,128903,Phoenix Union-Wilson College Preparatory,Mathematics,48,23.0,85008,4,14.1,323600.0,95.95
+683,2024,221992,Phoenix Coding Academy,English Language Arts,50,58.0,85012,1,12.6,701200.0,97.21
+684,2024,221992,Phoenix Coding Academy,English Language Arts,50,58.0,85012,3,17.8,701200.0,97.21
+685,2024,221992,Phoenix Coding Academy,Mathematics,50,44.0,85012,1,12.6,701200.0,97.21
+686,2024,221992,Phoenix Coding Academy,Mathematics,50,44.0,85012,3,17.8,701200.0,97.21
+687,2024,875776,Phoenix Digital Academy,English Language Arts,253,11.0,85019,3,17.8,255700.0,91.91
+688,2024,875776,Phoenix Digital Academy,English Language Arts,253,11.0,85019,8,12.8,255700.0,91.91
+689,2024,875776,Phoenix Digital Academy,Mathematics,256,5.0,85019,3,17.8,255700.0,91.91
+690,2024,875776,Phoenix Digital Academy,Mathematics,256,5.0,85019,8,12.8,255700.0,91.91
+691,2024,90141,Pioneer Preparatory - A Challenge Foundation,English Language Arts,225,15.0,85033,3,17.8,245900.0,96.74
+692,2024,90141,Pioneer Preparatory - A Challenge Foundation,Mathematics,229,11.0,85033,3,17.8,245900.0,96.74
+693,2024,5515,Pioneer Technology & Arts Academy of Arizona,English Language Arts,318,17.0,85040,3,17.8,294800.0,92.34
+694,2024,5515,Pioneer Technology & Arts Academy of Arizona,Mathematics,320,10.0,85040,3,17.8,294800.0,92.34
+695,2024,91318,Reid Traditional Schools' Painted Rock Academy,English Language Arts,267,66.0,85023,1,12.6,359200.0,97.22
+696,2024,91318,Reid Traditional Schools' Painted Rock Academy,English Language Arts,267,66.0,85023,8,12.8,359200.0,97.22
+697,2024,91318,Reid Traditional Schools' Painted Rock Academy,Mathematics,268,56.0,85023,1,12.6,359200.0,97.22
+698,2024,91318,Reid Traditional Schools' Painted Rock Academy,Mathematics,268,56.0,85023,8,12.8,359200.0,97.22
+699,2024,5471,Reid Traditional Schools' Valley Academy,English Language Arts,420,83.0,85027,1,12.6,316100.0,95.3
+700,2024,5471,Reid Traditional Schools' Valley Academy,English Language Arts,420,83.0,85027,8,12.8,316100.0,95.3
+701,2024,5471,Reid Traditional Schools' Valley Academy,Mathematics,421,78.0,85027,1,12.6,316100.0,95.3
+702,2024,5471,Reid Traditional Schools' Valley Academy,Mathematics,421,78.0,85027,8,12.8,316100.0,95.3
+703,2024,5467,"Ridgeline Academy, Inc.",English Language Arts,580,63.0,85085,8,12.8,589000.0,98.13
+704,2024,5467,"Ridgeline Academy, Inc.",Mathematics,579,49.0,85085,8,12.8,589000.0,98.13
+705,2024,5210,Riverside Traditional School,English Language Arts,184,29.0,85043,3,17.8,288900.0,95.66
+706,2024,5210,Riverside Traditional School,Mathematics,185,23.0,85043,3,17.8,288900.0,95.66
+707,2024,84660,Kings Ridge School,English Language Arts,374,17.0,85043,3,17.8,288900.0,95.66
+708,2024,84660,Kings Ridge School,Mathematics,374,10.0,85043,3,17.8,288900.0,95.66
+709,2024,92961,Maricopa Institute of Technology (MIT),English Language Arts,56,63.0,85043,3,17.8,288900.0,95.66
+710,2024,92961,Maricopa Institute of Technology (MIT),Mathematics,56,29.0,85043,3,17.8,288900.0,95.66
+711,2024,5363,Cesar E Chavez Community School,English Language Arts,273,14.0,85040,3,17.8,294800.0,92.34
+712,2024,5363,Cesar E Chavez Community School,Mathematics,274,6.0,85040,3,17.8,294800.0,92.34
+713,2024,5364,Percy L Julian School,English Language Arts,260,16.0,85040,3,17.8,294800.0,92.34
+714,2024,5364,Percy L Julian School,Mathematics,260,12.0,85040,3,17.8,294800.0,92.34
+715,2024,5365,Sunland Elementary School,English Language Arts,389,18.0,85041,3,17.8,310100.0,96.59
+716,2024,5365,Sunland Elementary School,Mathematics,392,18.0,85041,3,17.8,310100.0,96.59
+717,2024,5367,Valley View School,English Language Arts,379,27.0,85041,3,17.8,310100.0,96.59
+718,2024,5367,Valley View School,Mathematics,381,18.0,85041,3,17.8,310100.0,96.59
+719,2024,5368,C J Jorgensen School,English Language Arts,199,11.0,85041,3,17.8,310100.0,96.59
+720,2024,5368,C J Jorgensen School,Mathematics,201,7.0,85041,3,17.8,310100.0,96.59
+721,2024,5370,Irene Lopez School,English Language Arts,318,23.0,85040,3,17.8,294800.0,92.34
+722,2024,5370,Irene Lopez School,Mathematics,326,16.0,85040,3,17.8,294800.0,92.34
+723,2024,5371,Martin Luther King Early Childhood Center,English Language Arts,51,22.0,85040,3,17.8,294800.0,92.34
+724,2024,5372,T G Barr School,English Language Arts,252,15.0,85042,3,17.8,353400.0,95.53
+725,2024,5372,T G Barr School,English Language Arts,252,15.0,85042,4,14.1,353400.0,95.53
+726,2024,5372,T G Barr School,Mathematics,252,18.0,85042,3,17.8,353400.0,95.53
+727,2024,5372,T G Barr School,Mathematics,252,18.0,85042,4,14.1,353400.0,95.53
+728,2024,5373,V H Lassen Elementary School,English Language Arts,201,23.0,85041,3,17.8,310100.0,96.59
+729,2024,5373,V H Lassen Elementary School,Mathematics,203,9.0,85041,3,17.8,310100.0,96.59
+730,2024,5374,John F Kennedy Elementary School,English Language Arts,101,18.0,85042,3,17.8,353400.0,95.53
+731,2024,5374,John F Kennedy Elementary School,English Language Arts,101,18.0,85042,4,14.1,353400.0,95.53
+732,2024,5374,John F Kennedy Elementary School,Mathematics,102,18.0,85042,3,17.8,353400.0,95.53
+733,2024,5374,John F Kennedy Elementary School,Mathematics,102,18.0,85042,4,14.1,353400.0,95.53
+734,2024,5376,C O Greenfield School,English Language Arts,465,18.0,85042,3,17.8,353400.0,95.53
+735,2024,5376,C O Greenfield School,English Language Arts,465,18.0,85042,4,14.1,353400.0,95.53
+736,2024,5376,C O Greenfield School,Mathematics,467,11.0,85042,3,17.8,353400.0,95.53
+737,2024,5376,C O Greenfield School,Mathematics,467,11.0,85042,4,14.1,353400.0,95.53
+738,2024,5377,Ignacio Conchos School,English Language Arts,234,17.0,85041,3,17.8,310100.0,96.59
+739,2024,5377,Ignacio Conchos School,Mathematics,238,9.0,85041,3,17.8,310100.0,96.59
+740,2024,5378,John R Davis School,English Language Arts,224,23.0,85041,3,17.8,310100.0,96.59
+741,2024,5378,John R Davis School,Mathematics,229,8.0,85041,3,17.8,310100.0,96.59
+742,2024,5379,Maxine O Bush Elementary School,English Language Arts,186,15.0,85042,3,17.8,353400.0,95.53
+743,2024,5379,Maxine O Bush Elementary School,English Language Arts,186,15.0,85042,4,14.1,353400.0,95.53
+744,2024,5379,Maxine O Bush Elementary School,Mathematics,187,10.0,85042,3,17.8,353400.0,95.53
+745,2024,5379,Maxine O Bush Elementary School,Mathematics,187,10.0,85042,4,14.1,353400.0,95.53
+746,2024,5380,Southwest Elementary School,English Language Arts,335,19.0,85041,3,17.8,310100.0,96.59
+747,2024,5380,Southwest Elementary School,Mathematics,343,10.0,85041,3,17.8,310100.0,96.59
+748,2024,79012,Cloves C Campbell Sr Elementary School,English Language Arts,252,39.0,85042,3,17.8,353400.0,95.53
+749,2024,79012,Cloves C Campbell Sr Elementary School,English Language Arts,252,39.0,85042,4,14.1,353400.0,95.53
+750,2024,79012,Cloves C Campbell Sr Elementary School,Mathematics,251,31.0,85042,3,17.8,353400.0,95.53
+751,2024,79012,Cloves C Campbell Sr Elementary School,Mathematics,251,31.0,85042,4,14.1,353400.0,95.53
+752,2024,79013,Ed & Verma Pastor Elementary School,English Language Arts,344,18.0,85041,3,17.8,310100.0,96.59
+753,2024,87883,Bernard Black Elementary School,English Language Arts,389,21.0,85041,3,17.8,310100.0,96.59
+754,2024,87883,Bernard Black Elementary School,Mathematics,398,12.0,85041,3,17.8,310100.0,96.59
+755,2024,89415,Sage Academy,English Language Arts,48,33.0,85021,1,12.6,433000.0,95.91
+756,2024,89415,Sage Academy,English Language Arts,48,33.0,85021,8,12.8,433000.0,95.91
+757,2024,1000380,Scholars Academy Sunnyslope,English Language Arts,134,25.0,85022,1,12.6,385900.0,96.75
+758,2024,1000380,Scholars Academy Sunnyslope,Mathematics,136,22.0,85022,1,12.6,385900.0,96.75
+759,2024,5044,Tavan Elementary School,English Language Arts,280,52.0,85018,1,12.6,805800.0,95.75
+760,2024,5044,Tavan Elementary School,English Language Arts,280,52.0,85018,3,17.8,805800.0,95.75
+761,2024,5044,Tavan Elementary School,Mathematics,283,50.0,85018,1,12.6,805800.0,95.75
+762,2024,5044,Tavan Elementary School,Mathematics,283,50.0,85018,3,17.8,805800.0,95.75
+763,2024,5049,Hopi Elementary School,English Language Arts,312,72.0,85018,1,12.6,805800.0,95.75
+764,2024,5049,Hopi Elementary School,English Language Arts,312,72.0,85018,3,17.8,805800.0,95.75
+765,2024,5049,Hopi Elementary School,Mathematics,313,64.0,85018,1,12.6,805800.0,95.75
+766,2024,5049,Hopi Elementary School,Mathematics,313,64.0,85018,3,17.8,805800.0,95.75
+767,2024,5062,Ingleside Middle School,English Language Arts,764,52.0,85018,1,12.6,805800.0,95.75
+768,2024,5062,Ingleside Middle School,English Language Arts,764,52.0,85018,3,17.8,805800.0,95.75
+769,2024,5062,Ingleside Middle School,Mathematics,764,50.0,85018,1,12.6,805800.0,95.75
+770,2024,5062,Ingleside Middle School,Mathematics,764,50.0,85018,3,17.8,805800.0,95.75
+771,2024,5066,Arcadia High School,English Language Arts,369,62.0,85018,1,12.6,805800.0,95.75
+772,2024,5066,Arcadia High School,English Language Arts,369,62.0,85018,3,17.8,805800.0,95.75
+773,2024,5066,Arcadia High School,Mathematics,373,49.0,85018,1,12.6,805800.0,95.75
+774,2024,5066,Arcadia High School,Mathematics,373,49.0,85018,3,17.8,805800.0,95.75
+775,2024,92890,Self Development Academy-Phoenix,English Language Arts,157,31.0,85014,1,12.6,447500.0,94.3
+776,2024,92890,Self Development Academy-Phoenix,English Language Arts,157,31.0,85014,3,17.8,447500.0,94.3
+777,2024,92890,Self Development Academy-Phoenix,Mathematics,158,40.0,85014,1,12.6,447500.0,94.3
+778,2024,92890,Self Development Academy-Phoenix,Mathematics,158,40.0,85014,3,17.8,447500.0,94.3
+779,2024,91109,South Phoenix Prep and Arts Academy,English Language Arts,119,20.0,85040,3,17.8,294800.0,92.34
+780,2024,91109,South Phoenix Prep and Arts Academy,Mathematics,123,21.0,85040,3,17.8,294800.0,92.34
+781,2024,91122,South Valley Prep and Arts School,English Language Arts,227,22.0,85040,3,17.8,294800.0,92.34
+782,2024,91122,South Valley Prep and Arts School,Mathematics,227,8.0,85040,3,17.8,294800.0,92.34
+783,2024,90193,Sun Valley Academy,English Language Arts,390,21.0,85041,3,17.8,310100.0,96.59
+784,2024,90193,Sun Valley Academy,Mathematics,394,11.0,85041,3,17.8,310100.0,96.59
+785,2024,962403,Synergy Public School,English Language Arts,314,25.0,85017,3,17.8,242900.0,94.94
+786,2024,962403,Synergy Public School,English Language Arts,314,25.0,85017,8,12.8,242900.0,94.94
+787,2024,962403,Synergy Public School,Mathematics,314,11.0,85017,3,17.8,242900.0,94.94
+788,2024,962403,Synergy Public School,Mathematics,314,11.0,85017,8,12.8,242900.0,94.94
+789,2024,5224,Nevitt Elementary School,English Language Arts,303,21.0,85042,3,17.8,353400.0,95.53
+790,2024,5224,Nevitt Elementary School,English Language Arts,303,21.0,85042,4,14.1,353400.0,95.53
+791,2024,5224,Nevitt Elementary School,Mathematics,321,19.0,85042,3,17.8,353400.0,95.53
+792,2024,5224,Nevitt Elementary School,Mathematics,321,19.0,85042,4,14.1,353400.0,95.53
+793,2024,5448,Mountain Pointe High School,English Language Arts,368,37.0,85044,3,17.8,437400.0,97.88
+794,2024,5448,Mountain Pointe High School,English Language Arts,368,37.0,85044,4,14.1,437400.0,97.88
+795,2024,5448,Mountain Pointe High School,Mathematics,372,27.0,85044,3,17.8,437400.0,97.88
+796,2024,5448,Mountain Pointe High School,Mathematics,372,27.0,85044,4,14.1,437400.0,97.88
+797,2024,5449,Desert Vista High School,English Language Arts,696,66.0,85048,4,14.1,538500.0,99.73
+798,2024,5449,Desert Vista High School,Mathematics,703,53.0,85048,4,14.1,538500.0,99.73
+799,2024,92247,Mission Montessori Academy's Middle Years Program,English Language Arts,50,66.0,85028,1,12.6,583000.0,98.59
+800,2024,92247,Mission Montessori Academy's Middle Years Program,Mathematics,50,50.0,85028,1,12.6,583000.0,98.59
+801,2024,91775,The Paideia Academy of South Phoenix,English Language Arts,351,31.0,85042,3,17.8,353400.0,95.53
+802,2024,91775,The Paideia Academy of South Phoenix,English Language Arts,351,31.0,85042,4,14.1,353400.0,95.53
+803,2024,91775,The Paideia Academy of South Phoenix,Mathematics,353,14.0,85042,3,17.8,353400.0,95.53
+804,2024,91775,The Paideia Academy of South Phoenix,Mathematics,353,14.0,85042,4,14.1,353400.0,95.53
+805,2024,1001431,Paideia Liberal Arts Academy,English Language Arts,174,33.0,85042,3,17.8,353400.0,95.53
+806,2024,1001431,Paideia Liberal Arts Academy,English Language Arts,174,33.0,85042,4,14.1,353400.0,95.53
+807,2024,1001431,Paideia Liberal Arts Academy,Mathematics,173,11.0,85042,3,17.8,353400.0,95.53
+808,2024,1001431,Paideia Liberal Arts Academy,Mathematics,173,11.0,85042,4,14.1,353400.0,95.53
+809,2024,79402,Sheely Farms Elementary School,English Language Arts,422,27.0,85037,3,17.8,290600.0,96.37
+810,2024,79402,Sheely Farms Elementary School,Mathematics,422,20.0,85037,3,17.8,290600.0,96.37
+811,2024,87526,Desert Oasis Elementary School,English Language Arts,438,20.0,85037,3,17.8,290600.0,96.37
+812,2024,87526,Desert Oasis Elementary School,Mathematics,443,13.0,85037,3,17.8,290600.0,96.37
+813,2024,5475,Bennett Academy,English Language Arts,96,22.0,85017,3,17.8,242900.0,94.94
+814,2024,5475,Bennett Academy,English Language Arts,96,22.0,85017,8,12.8,242900.0,94.94
+815,2024,5475,Bennett Academy,Mathematics,97,15.0,85017,3,17.8,242900.0,94.94
+816,2024,5475,Bennett Academy,Mathematics,97,15.0,85017,8,12.8,242900.0,94.94
+817,2024,79958,Desert Marigold School,English Language Arts,162,41.0,85042,3,17.8,353400.0,95.53
+818,2024,79958,Desert Marigold School,English Language Arts,162,41.0,85042,4,14.1,353400.0,95.53
+819,2024,79958,Desert Marigold School,Mathematics,167,13.0,85042,3,17.8,353400.0,95.53
+820,2024,79958,Desert Marigold School,Mathematics,167,13.0,85042,4,14.1,353400.0,95.53
+821,2024,80994,Great Hearts Academies - Veritas Prep,English Language Arts,513,64.0,85018,1,12.6,805800.0,95.75
+822,2024,80994,Great Hearts Academies - Veritas Prep,English Language Arts,513,64.0,85018,3,17.8,805800.0,95.75
+823,2024,80994,Great Hearts Academies - Veritas Prep,Mathematics,518,52.0,85018,1,12.6,805800.0,95.75
+824,2024,80994,Great Hearts Academies - Veritas Prep,Mathematics,518,52.0,85018,3,17.8,805800.0,95.75
+825,2024,829726,Victory Collegiate Academy,English Language Arts,198,18.0,85033,3,17.8,245900.0,96.74
+826,2024,829726,Victory Collegiate Academy,Mathematics,198,11.0,85033,3,17.8,245900.0,96.74
+827,2024,5513,Villa Montessori - Phoenix Campus,English Language Arts,326,66.0,85016,1,12.6,508400.0,96.92
+828,2024,5513,Villa Montessori - Phoenix Campus,English Language Arts,326,66.0,85016,3,17.8,508400.0,96.92
+829,2024,5513,Villa Montessori - Phoenix Campus,Mathematics,326,55.0,85016,1,12.6,508400.0,96.92
+830,2024,5513,Villa Montessori - Phoenix Campus,Mathematics,326,55.0,85016,3,17.8,508400.0,96.92
+831,2024,92177,Vista College Preparatory - Hadley,English Language Arts,84,42.0,85003,3,17.8,577700.0,87.21
+832,2024,92177,Vista College Preparatory - Hadley,Mathematics,87,34.0,85003,3,17.8,577700.0,87.21
+833,2024,425015,Vista College Prep - Sueño Park,English Language Arts,503,25.0,85035,3,17.8,244300.0,95.77
+834,2024,425015,Vista College Prep - Sueño Park,Mathematics,502,21.0,85035,3,17.8,244300.0,95.77
+835,2024,551692,Vista College Prep - Maryvale,English Language Arts,176,18.0,85035,3,17.8,244300.0,95.77
+836,2024,551692,Vista College Prep - Maryvale,Mathematics,178,23.0,85035,3,17.8,244300.0,95.77
+837,2024,1000375,Vista College Preparatory - Metro North Elementary,English Language Arts,50,22.0,85029,1,12.6,307800.0,96.81
+838,2024,1000375,Vista College Preparatory - Metro North Elementary,English Language Arts,50,22.0,85029,8,12.8,307800.0,96.81
+839,2024,1000375,Vista College Preparatory - Metro North Elementary,Mathematics,50,24.0,85029,1,12.6,307800.0,96.81
+840,2024,1000375,Vista College Preparatory - Metro North Elementary,Mathematics,50,24.0,85029,8,12.8,307800.0,96.81
+841,2024,1000376,Vista College Preparatory - Metro North Middle,English Language Arts,116,20.0,85029,1,12.6,307800.0,96.81
+842,2024,1000376,Vista College Preparatory - Metro North Middle,English Language Arts,116,20.0,85029,8,12.8,307800.0,96.81
+843,2024,1000376,Vista College Preparatory - Metro North Middle,Mathematics,117,17.0,85029,1,12.6,307800.0,96.81
+844,2024,1000376,Vista College Preparatory - Metro North Middle,Mathematics,117,17.0,85029,8,12.8,307800.0,96.81
+845,2024,5244,Acacia Elementary School,English Language Arts,438,48.0,85053,8,12.8,329500.0,95.51
+846,2024,5244,Acacia Elementary School,Mathematics,436,35.0,85053,8,12.8,329500.0,95.51
+847,2024,5245,Alta Vista Elementary School,English Language Arts,307,20.0,85051,3,17.8,288300.0,94.66
+848,2024,5245,Alta Vista Elementary School,English Language Arts,307,20.0,85051,8,12.8,288300.0,94.66
+849,2024,5245,Alta Vista Elementary School,Mathematics,307,15.0,85051,3,17.8,288300.0,94.66
+850,2024,5245,Alta Vista Elementary School,Mathematics,307,15.0,85051,8,12.8,288300.0,94.66
+851,2024,5247,Cactus Wren Elementary School,English Language Arts,187,17.0,85051,3,17.8,288300.0,94.66
+852,2024,5247,Cactus Wren Elementary School,English Language Arts,187,17.0,85051,8,12.8,288300.0,94.66
+853,2024,5247,Cactus Wren Elementary School,Mathematics,203,14.0,85051,3,17.8,288300.0,94.66
+854,2024,5247,Cactus Wren Elementary School,Mathematics,203,14.0,85051,8,12.8,288300.0,94.66
+855,2024,5248,Chaparral Elementary School,English Language Arts,230,38.0,85029,1,12.6,307800.0,96.81
+856,2024,5248,Chaparral Elementary School,English Language Arts,230,38.0,85029,8,12.8,307800.0,96.81
+857,2024,5248,Chaparral Elementary School,Mathematics,232,21.0,85029,1,12.6,307800.0,96.81
+858,2024,5248,Chaparral Elementary School,Mathematics,232,21.0,85029,8,12.8,307800.0,96.81
+859,2024,5249,Cholla Middle School,English Language Arts,623,29.0,85029,1,12.6,307800.0,96.81
+860,2024,5249,Cholla Middle School,English Language Arts,623,29.0,85029,8,12.8,307800.0,96.81
+861,2024,5249,Cholla Middle School,Mathematics,627,29.0,85029,1,12.6,307800.0,96.81
+862,2024,5249,Cholla Middle School,Mathematics,627,29.0,85029,8,12.8,307800.0,96.81
+863,2024,5250,Desert Foothills Middle School,English Language Arts,608,35.0,85053,8,12.8,329500.0,95.51
+864,2024,5250,Desert Foothills Middle School,Mathematics,606,21.0,85053,8,12.8,329500.0,95.51
+865,2024,5251,Desert View Elementary School,English Language Arts,171,30.0,85020,1,12.6,400800.0,95.62
+866,2024,5251,Desert View Elementary School,Mathematics,170,29.0,85020,1,12.6,400800.0,95.62
+867,2024,5252,Ironwood Elementary School,English Language Arts,262,36.0,85053,8,12.8,329500.0,95.51
+868,2024,5252,Ironwood Elementary School,Mathematics,262,35.0,85053,8,12.8,329500.0,95.51
+869,2024,5253,John Jacobs Elementary School,English Language Arts,226,33.0,85023,1,12.6,359200.0,97.22
+870,2024,5253,John Jacobs Elementary School,English Language Arts,226,33.0,85023,8,12.8,359200.0,97.22
+871,2024,5253,John Jacobs Elementary School,Mathematics,226,29.0,85023,1,12.6,359200.0,97.22
+872,2024,5253,John Jacobs Elementary School,Mathematics,226,29.0,85023,8,12.8,359200.0,97.22
+873,2024,5254,Lakeview Elementary School,English Language Arts,264,25.0,85029,1,12.6,307800.0,96.81
+874,2024,5254,Lakeview Elementary School,English Language Arts,264,25.0,85029,8,12.8,307800.0,96.81
+875,2024,5254,Lakeview Elementary School,Mathematics,268,28.0,85029,1,12.6,307800.0,96.81
+876,2024,5254,Lakeview Elementary School,Mathematics,268,28.0,85029,8,12.8,307800.0,96.81
+877,2024,5255,Lookout Mountain School,English Language Arts,525,59.0,85023,1,12.6,359200.0,97.22
+878,2024,5255,Lookout Mountain School,English Language Arts,525,59.0,85023,8,12.8,359200.0,97.22
+879,2024,5255,Lookout Mountain School,Mathematics,526,59.0,85023,1,12.6,359200.0,97.22
+880,2024,5255,Lookout Mountain School,Mathematics,526,59.0,85023,8,12.8,359200.0,97.22
+881,2024,5256,Manzanita Elementary School,English Language Arts,293,26.0,85051,3,17.8,288300.0,94.66
+882,2024,5256,Manzanita Elementary School,English Language Arts,293,26.0,85051,8,12.8,288300.0,94.66
+883,2024,5256,Manzanita Elementary School,Mathematics,308,25.0,85051,3,17.8,288300.0,94.66
+884,2024,5256,Manzanita Elementary School,Mathematics,308,25.0,85051,8,12.8,288300.0,94.66
+885,2024,5257,Maryland Elementary School,English Language Arts,382,23.0,85015,1,12.6,312600.0,94.07
+886,2024,5257,Maryland Elementary School,English Language Arts,382,23.0,85015,3,17.8,312600.0,94.07
+887,2024,5257,Maryland Elementary School,English Language Arts,382,23.0,85015,8,12.8,312600.0,94.07
+888,2024,5257,Maryland Elementary School,Mathematics,380,16.0,85015,1,12.6,312600.0,94.07
+889,2024,5257,Maryland Elementary School,Mathematics,380,16.0,85015,3,17.8,312600.0,94.07
+890,2024,5257,Maryland Elementary School,Mathematics,380,16.0,85015,8,12.8,312600.0,94.07
+891,2024,5258,Moon Mountain School,English Language Arts,270,29.0,85029,1,12.6,307800.0,96.81
+892,2024,5258,Moon Mountain School,English Language Arts,270,29.0,85029,8,12.8,307800.0,96.81
+893,2024,5258,Moon Mountain School,Mathematics,272,29.0,85029,1,12.6,307800.0,96.81
+894,2024,5258,Moon Mountain School,Mathematics,272,29.0,85029,8,12.8,307800.0,96.81
+895,2024,5259,Mountain Sky Middle School,English Language Arts,669,32.0,85023,1,12.6,359200.0,97.22
+896,2024,5259,Mountain Sky Middle School,English Language Arts,669,32.0,85023,8,12.8,359200.0,97.22
+897,2024,5259,Mountain Sky Middle School,Mathematics,667,23.0,85023,1,12.6,359200.0,97.22
+898,2024,5259,Mountain Sky Middle School,Mathematics,667,23.0,85023,8,12.8,359200.0,97.22
+899,2024,5260,Mountain View Elementary School,English Language Arts,651,13.0,85029,1,12.6,307800.0,96.81
+900,2024,5260,Mountain View Elementary School,English Language Arts,651,13.0,85029,8,12.8,307800.0,96.81
+901,2024,5260,Mountain View Elementary School,Mathematics,657,6.0,85029,1,12.6,307800.0,96.81
+902,2024,5260,Mountain View Elementary School,Mathematics,657,6.0,85029,8,12.8,307800.0,96.81
+903,2024,5261,Ocotillo School,English Language Arts,342,23.0,85017,3,17.8,242900.0,94.94
+904,2024,5261,Ocotillo School,English Language Arts,342,23.0,85017,8,12.8,242900.0,94.94
+905,2024,5261,Ocotillo School,Mathematics,343,18.0,85017,3,17.8,242900.0,94.94
+906,2024,5261,Ocotillo School,Mathematics,343,18.0,85017,8,12.8,242900.0,94.94
+907,2024,5262,Orangewood School,English Language Arts,538,34.0,85021,1,12.6,433000.0,95.91
+908,2024,5262,Orangewood School,English Language Arts,538,34.0,85021,8,12.8,433000.0,95.91
+909,2024,5262,Orangewood School,Mathematics,542,28.0,85021,1,12.6,433000.0,95.91
+910,2024,5262,Orangewood School,Mathematics,542,28.0,85021,8,12.8,433000.0,95.91
+911,2024,5263,Palo Verde Middle School,English Language Arts,758,21.0,85051,3,17.8,288300.0,94.66
+912,2024,5263,Palo Verde Middle School,English Language Arts,758,21.0,85051,8,12.8,288300.0,94.66
+913,2024,5263,Palo Verde Middle School,Mathematics,767,13.0,85051,3,17.8,288300.0,94.66
+914,2024,5263,Palo Verde Middle School,Mathematics,767,13.0,85051,8,12.8,288300.0,94.66
+915,2024,5264,Richard E Miller School,English Language Arts,186,16.0,85021,1,12.6,433000.0,95.91
+916,2024,5264,Richard E Miller School,English Language Arts,186,16.0,85021,8,12.8,433000.0,95.91
+917,2024,5264,Richard E Miller School,Mathematics,188,17.0,85021,1,12.6,433000.0,95.91
+918,2024,5264,Richard E Miller School,Mathematics,188,17.0,85021,8,12.8,433000.0,95.91
+919,2024,5265,Roadrunner Elementary School,English Language Arts,383,23.0,85051,3,17.8,288300.0,94.66
+920,2024,5265,Roadrunner Elementary School,English Language Arts,383,23.0,85051,8,12.8,288300.0,94.66
+921,2024,5265,Roadrunner Elementary School,Mathematics,385,18.0,85051,3,17.8,288300.0,94.66
+922,2024,5265,Roadrunner Elementary School,Mathematics,385,18.0,85051,8,12.8,288300.0,94.66
+923,2024,5266,Royal Palm Middle School,English Language Arts,452,31.0,85021,1,12.6,433000.0,95.91
+924,2024,5266,Royal Palm Middle School,English Language Arts,452,31.0,85021,8,12.8,433000.0,95.91
+925,2024,5266,Royal Palm Middle School,Mathematics,456,23.0,85021,1,12.6,433000.0,95.91
+926,2024,5266,Royal Palm Middle School,Mathematics,456,23.0,85021,8,12.8,433000.0,95.91
+927,2024,5267,Sahuaro School,English Language Arts,331,39.0,85029,1,12.6,307800.0,96.81
+928,2024,5267,Sahuaro School,English Language Arts,331,39.0,85029,8,12.8,307800.0,96.81
+929,2024,5267,Sahuaro School,Mathematics,329,42.0,85029,1,12.6,307800.0,96.81
+930,2024,5267,Sahuaro School,Mathematics,329,42.0,85029,8,12.8,307800.0,96.81
+931,2024,5268,Shaw Butte School,English Language Arts,344,22.0,85029,1,12.6,307800.0,96.81
+932,2024,5268,Shaw Butte School,English Language Arts,344,22.0,85029,8,12.8,307800.0,96.81
+933,2024,5268,Shaw Butte School,Mathematics,351,20.0,85029,1,12.6,307800.0,96.81
+934,2024,5268,Shaw Butte School,Mathematics,351,20.0,85029,8,12.8,307800.0,96.81
+935,2024,5271,Sunnyslope Elementary School,English Language Arts,477,21.0,85020,1,12.6,400800.0,95.62
+936,2024,5271,Sunnyslope Elementary School,Mathematics,482,16.0,85020,1,12.6,400800.0,95.62
+937,2024,5273,Tumbleweed Elementary School,English Language Arts,281,29.0,85029,1,12.6,307800.0,96.81
+938,2024,5273,Tumbleweed Elementary School,English Language Arts,281,29.0,85029,8,12.8,307800.0,96.81
+939,2024,5273,Tumbleweed Elementary School,Mathematics,280,22.0,85029,1,12.6,307800.0,96.81
+940,2024,5273,Tumbleweed Elementary School,Mathematics,280,22.0,85029,8,12.8,307800.0,96.81
+941,2024,5274,Abraham Lincoln Traditional School,English Language Arts,375,57.0,85051,3,17.8,288300.0,94.66
+942,2024,5274,Abraham Lincoln Traditional School,English Language Arts,375,57.0,85051,8,12.8,288300.0,94.66
+943,2024,5274,Abraham Lincoln Traditional School,Mathematics,375,48.0,85051,3,17.8,288300.0,94.66
+944,2024,5274,Abraham Lincoln Traditional School,Mathematics,375,48.0,85051,8,12.8,288300.0,94.66
+945,2024,5275,Washington Elementary School,English Language Arts,370,14.0,85051,3,17.8,288300.0,94.66
+946,2024,5275,Washington Elementary School,English Language Arts,370,14.0,85051,8,12.8,288300.0,94.66
+947,2024,5275,Washington Elementary School,Mathematics,378,11.0,85051,3,17.8,288300.0,94.66
+948,2024,5275,Washington Elementary School,Mathematics,378,11.0,85051,8,12.8,288300.0,94.66
+949,2024,1001888,Washington Elementary School District Online Learning Academy,English Language Arts,76,39.0,85021,1,12.6,433000.0,95.91
+950,2024,1001888,Washington Elementary School District Online Learning Academy,English Language Arts,76,39.0,85021,8,12.8,433000.0,95.91
+951,2024,1001821,Imagine Online Academy of Arizona,English Language Arts,73,36.0,85053,8,12.8,329500.0,95.51
+952,2024,92619,Western School of Science and Technology,English Language Arts,242,14.0,85033,3,17.8,245900.0,96.74
+953,2024,92619,Western School of Science and Technology,Mathematics,248,5.0,85033,3,17.8,245900.0,96.74
+954,2024,5276,Wilson Elementary School,English Language Arts,486,15.0,85008,1,12.6,323600.0,95.95
+955,2024,5276,Wilson Elementary School,English Language Arts,486,15.0,85008,3,17.8,323600.0,95.95
+956,2024,5276,Wilson Elementary School,English Language Arts,486,15.0,85008,4,14.1,323600.0,95.95
+957,2024,5276,Wilson Elementary School,Mathematics,508,12.0,85008,1,12.6,323600.0,95.95
+958,2024,5276,Wilson Elementary School,Mathematics,508,12.0,85008,3,17.8,323600.0,95.95
+959,2024,5276,Wilson Elementary School,Mathematics,508,12.0,85008,4,14.1,323600.0,95.95
+960,2024,5277,Wilson Primary School,English Language Arts,117,21.0,85008,1,12.6,323600.0,95.95
+961,2024,5277,Wilson Primary School,English Language Arts,117,21.0,85008,3,17.8,323600.0,95.95
+962,2024,5277,Wilson Primary School,English Language Arts,117,21.0,85008,4,14.1,323600.0,95.95
+963,2024,5277,Wilson Primary School,Mathematics,119,28.0,85008,1,12.6,323600.0,95.95
+964,2024,5277,Wilson Primary School,Mathematics,119,28.0,85008,3,17.8,323600.0,95.95
+965,2024,5277,Wilson Primary School,Mathematics,119,28.0,85008,4,14.1,323600.0,95.95
+966,2024,90271,ASU Preparatory Academy- Phoenix Elementary,English Language Arts,154,21.0,85006,3,17.8,376600.0,92.59
+967,2024,90271,ASU Preparatory Academy- Phoenix Elementary,Mathematics,155,13.0,85006,3,17.8,376600.0,92.59
+968,2024,90274,ASU Preparatory Academy - South Phoenix Intermediate,English Language Arts,82,17.0,85040,3,17.8,294800.0,92.34
+969,2024,91304,ASU Preparatory Academy- Phoenix High School,English Language Arts,*,21.0,85006,3,17.8,376600.0,92.59
+970,2024,91304,ASU Preparatory Academy- Phoenix High School,Mathematics,*,22.0,85006,3,17.8,376600.0,92.59
+971,2024,92326,ASU Preparatory Academy - Phoenix Middle School,English Language Arts,361,24.0,85006,3,17.8,376600.0,92.59
+972,2024,92326,ASU Preparatory Academy - Phoenix Middle School,Mathematics,364,11.0,85006,3,17.8,376600.0,92.59
+973,2024,92248,ASU Preparatory Academy - South Phoenix High School,English Language Arts,90,15.0,85040,3,17.8,294800.0,92.34
+974,2024,92248,ASU Preparatory Academy - South Phoenix High School,Mathematics,92,13.0,85040,3,17.8,294800.0,92.34
+975,2024,92769,Academy of Math and Science Camelback,English Language Arts,548,28.0,85033,3,17.8,245900.0,96.74
+976,2024,92769,Academy of Math and Science Camelback,Mathematics,550,25.0,85033,3,17.8,245900.0,96.74
+977,2024,5496,ACCLAIM Academy,English Language Arts,180,35.0,85033,3,17.8,245900.0,96.74
+978,2024,5496,ACCLAIM Academy,Mathematics,180,22.0,85033,3,17.8,245900.0,96.74
+979,2024,5381,Alhambra Traditional School,English Language Arts,486,75.0,85017,3,17.8,242900.0,94.94
+980,2024,5381,Alhambra Traditional School,English Language Arts,486,75.0,85017,8,12.8,242900.0,94.94
+981,2024,5381,Alhambra Traditional School,Mathematics,487,77.0,85017,3,17.8,242900.0,94.94
+982,2024,5381,Alhambra Traditional School,Mathematics,487,77.0,85017,8,12.8,242900.0,94.94
+983,2024,5383,James W. Rice Elementary School,English Language Arts,448,18.0,85031,3,17.8,240300.0,93.95
+984,2024,5383,James W. Rice Elementary School,Mathematics,454,22.0,85031,3,17.8,240300.0,93.95
+985,2024,5385,Catalina Ventura School,English Language Arts,553,35.0,85019,3,17.8,255700.0,91.91
+986,2024,5385,Catalina Ventura School,English Language Arts,553,35.0,85019,8,12.8,255700.0,91.91
+987,2024,5385,Catalina Ventura School,Mathematics,556,25.0,85019,3,17.8,255700.0,91.91
+988,2024,5385,Catalina Ventura School,Mathematics,556,25.0,85019,8,12.8,255700.0,91.91
+989,2024,5386,Cordova Elementary School,English Language Arts,366,19.0,85017,3,17.8,242900.0,94.94
+990,2024,5386,Cordova Elementary School,English Language Arts,366,19.0,85017,8,12.8,242900.0,94.94
+991,2024,5386,Cordova Elementary School,Mathematics,367,21.0,85017,3,17.8,242900.0,94.94
+992,2024,5386,Cordova Elementary School,Mathematics,367,21.0,85017,8,12.8,242900.0,94.94
+993,2024,5387,Granada Elementary School-East Campus,English Language Arts,574,16.0,85017,3,17.8,242900.0,94.94
+994,2024,5387,Granada Elementary School-East Campus,English Language Arts,574,16.0,85017,8,12.8,242900.0,94.94
+995,2024,5387,Granada Elementary School-East Campus,Mathematics,574,14.0,85017,3,17.8,242900.0,94.94
+996,2024,5387,Granada Elementary School-East Campus,Mathematics,574,14.0,85017,8,12.8,242900.0,94.94
+997,2024,5388,Granada Elementary School-West Campus,English Language Arts,290,25.0,85017,3,17.8,242900.0,94.94
+998,2024,5388,Granada Elementary School-West Campus,English Language Arts,290,25.0,85017,8,12.8,242900.0,94.94
+999,2024,5388,Granada Elementary School-West Campus,Mathematics,301,25.0,85017,3,17.8,242900.0,94.94
+1000,2024,5388,Granada Elementary School-West Campus,Mathematics,301,25.0,85017,8,12.8,242900.0,94.94
+1001,2024,5390,Sevilla Elementary School-East Campus,English Language Arts,259,21.0,85019,3,17.8,255700.0,91.91
+1002,2024,5390,Sevilla Elementary School-East Campus,English Language Arts,259,21.0,85019,8,12.8,255700.0,91.91
+1003,2024,5390,Sevilla Elementary School-East Campus,Mathematics,262,24.0,85019,3,17.8,255700.0,91.91
+1004,2024,5390,Sevilla Elementary School-East Campus,Mathematics,262,24.0,85019,8,12.8,255700.0,91.91
+1005,2024,5391,Choice Learning Academy,English Language Arts,427,12.0,85015,1,12.6,312600.0,94.07
+1006,2024,5391,Choice Learning Academy,English Language Arts,427,12.0,85015,3,17.8,312600.0,94.07
+1007,2024,5391,Choice Learning Academy,English Language Arts,427,12.0,85015,8,12.8,312600.0,94.07
+1008,2024,5391,Choice Learning Academy,Mathematics,424,9.0,85015,1,12.6,312600.0,94.07
+1009,2024,5391,Choice Learning Academy,Mathematics,424,9.0,85015,3,17.8,312600.0,94.07
+1010,2024,5391,Choice Learning Academy,Mathematics,424,9.0,85015,8,12.8,312600.0,94.07
+1011,2024,5392,Westwood Elementary School,English Language Arts,219,17.0,85015,1,12.6,312600.0,94.07
+1012,2024,5392,Westwood Elementary School,English Language Arts,219,17.0,85015,3,17.8,312600.0,94.07
+1013,2024,5392,Westwood Elementary School,English Language Arts,219,17.0,85015,8,12.8,312600.0,94.07
+1014,2024,5392,Westwood Elementary School,Mathematics,221,12.0,85015,1,12.6,312600.0,94.07
+1015,2024,5392,Westwood Elementary School,Mathematics,221,12.0,85015,3,17.8,312600.0,94.07
+1016,2024,5392,Westwood Elementary School,Mathematics,221,12.0,85015,8,12.8,312600.0,94.07
+1017,2024,79203,Sevilla Elementary School-West Campus,English Language Arts,582,27.0,85019,3,17.8,255700.0,91.91
+1018,2024,79203,Sevilla Elementary School-West Campus,English Language Arts,582,27.0,85019,8,12.8,255700.0,91.91
+1019,2024,79203,Sevilla Elementary School-West Campus,Mathematics,591,32.0,85019,3,17.8,255700.0,91.91
+1020,2024,79203,Sevilla Elementary School-West Campus,Mathematics,591,32.0,85019,8,12.8,255700.0,91.91
+1021,2024,1000041,Madrid Neighborhood School,English Language Arts,390,20.0,85019,3,17.8,255700.0,91.91
+1022,2024,1000041,Madrid Neighborhood School,English Language Arts,390,20.0,85019,8,12.8,255700.0,91.91
+1023,2024,1000041,Madrid Neighborhood School,Mathematics,392,11.0,85019,3,17.8,255700.0,91.91
+1024,2024,1000041,Madrid Neighborhood School,Mathematics,392,11.0,85019,8,12.8,255700.0,91.91
+1025,2024,1000259,Global Academy of Phoenix,English Language Arts,208,47.0,85019,3,17.8,255700.0,91.91
+1026,2024,1000259,Global Academy of Phoenix,English Language Arts,208,47.0,85019,8,12.8,255700.0,91.91
+1027,2024,1000259,Global Academy of Phoenix,Mathematics,209,45.0,85019,3,17.8,255700.0,91.91
+1028,2024,1000259,Global Academy of Phoenix,Mathematics,209,45.0,85019,8,12.8,255700.0,91.91
+1029,2024,80990,South Pointe High School,English Language Arts,116,12.0,85042,3,17.8,353400.0,95.53
+1030,2024,80990,South Pointe High School,English Language Arts,116,12.0,85042,4,14.1,353400.0,95.53
+1031,2024,88335,South Ridge High School,English Language Arts,*,34.0,85043,3,17.8,288900.0,95.66
+1032,2024,88335,South Ridge High School,Mathematics,*,18.0,85043,3,17.8,288900.0,95.66
+1033,2024,92315,Great Hearts Academies - Archway Cicero,English Language Arts,*,62.0,85018,1,12.6,805800.0,95.75
+1034,2024,92315,Great Hearts Academies - Archway Cicero,English Language Arts,*,62.0,85018,3,17.8,805800.0,95.75
+1035,2024,92315,Great Hearts Academies - Archway Cicero,Mathematics,*,60.0,85018,1,12.6,805800.0,95.75
+1036,2024,92315,Great Hearts Academies - Archway Cicero,Mathematics,*,60.0,85018,3,17.8,805800.0,95.75
+1037,2024,91785,Great Hearts Academies - Archway North Phoenix,English Language Arts,*,72.0,85032,1,12.6,387900.0,96.03
+1038,2024,91785,Great Hearts Academies - Archway North Phoenix,Mathematics,*,76.0,85032,1,12.6,387900.0,96.03
+1039,2024,1001717,Great Hearts Online - Arizona,English Language Arts,130,44.0,85034,3,17.8,397400.0,95.22
+1040,2024,1001717,Great Hearts Online - Arizona,English Language Arts,130,44.0,85034,4,14.1,397400.0,95.22
+1041,2024,1001717,Great Hearts Online - Arizona,Mathematics,130,30.0,85034,3,17.8,397400.0,95.22
+1042,2024,1001717,Great Hearts Online - Arizona,Mathematics,130,30.0,85034,4,14.1,397400.0,95.22
+1043,2024,91000,Great Hearts Academies - Archway Veritas,English Language Arts,*,69.0,85018,1,12.6,805800.0,95.75
+1044,2024,91000,Great Hearts Academies - Archway Veritas,English Language Arts,*,69.0,85018,3,17.8,805800.0,95.75
+1045,2024,91000,Great Hearts Academies - Archway Veritas,Mathematics,*,74.0,85018,1,12.6,805800.0,95.75
+1046,2024,91000,Great Hearts Academies - Archway Veritas,Mathematics,*,74.0,85018,3,17.8,805800.0,95.75
+1047,2024,6344,AAEC - Paradise Valley,English Language Arts,*,75.0,85050,1,12.6,564200.0,99.57
+1048,2024,6344,AAEC - Paradise Valley,Mathematics,*,68.0,85050,1,12.6,564200.0,99.57
+1049,2024,5503,AAEC - SMCC Campus,English Language Arts,*,41.0,85042,3,17.8,353400.0,95.53
+1050,2024,5503,AAEC - SMCC Campus,English Language Arts,*,41.0,85042,4,14.1,353400.0,95.53
+1051,2024,5503,AAEC - SMCC Campus,Mathematics,*,15.0,85042,3,17.8,353400.0,95.53
+1052,2024,5503,AAEC - SMCC Campus,Mathematics,*,15.0,85042,4,14.1,353400.0,95.53
+1053,2024,92567,Arizona Language Preparatory,English Language Arts,27,75.0,85032,1,12.6,387900.0,96.03
+1054,2024,92567,Arizona Language Preparatory,Mathematics,27,71.0,85032,1,12.6,387900.0,96.03
+1055,2024,5519,Arizona School For The Arts,English Language Arts,*,64.0,85004,3,17.8,365500.0,98.27
+1056,2024,5519,Arizona School For The Arts,Mathematics,*,39.0,85004,3,17.8,365500.0,98.27
+1057,2024,91343,BASIS Phoenix,English Language Arts,528,88.0,85028,1,12.6,583000.0,98.59
+1058,2024,91343,BASIS Phoenix,Mathematics,532,87.0,85028,1,12.6,583000.0,98.59
+1059,2024,92030,BASIS Ahwatukee,English Language Arts,503,82.0,85044,3,17.8,437400.0,97.88
+1060,2024,92030,BASIS Ahwatukee,English Language Arts,503,82.0,85044,4,14.1,437400.0,97.88
+1061,2024,92030,BASIS Ahwatukee,Mathematics,503,86.0,85044,3,17.8,437400.0,97.88
+1062,2024,92030,BASIS Ahwatukee,Mathematics,503,86.0,85044,4,14.1,437400.0,97.88
+1063,2024,92350,BASIS Phoenix Central Primary,English Language Arts,*,65.0,85012,1,12.6,701200.0,97.21
+1064,2024,92350,BASIS Phoenix Central Primary,English Language Arts,*,65.0,85012,3,17.8,701200.0,97.21
+1065,2024,92350,BASIS Phoenix Central Primary,Mathematics,*,56.0,85012,1,12.6,701200.0,97.21
+1066,2024,92350,BASIS Phoenix Central Primary,Mathematics,*,56.0,85012,3,17.8,701200.0,97.21
+1067,2024,139682,BASIS Phoenix South ,English Language Arts,*,41.0,85041,3,17.8,310100.0,96.59
+1068,2024,139682,BASIS Phoenix South ,Mathematics,*,34.0,85041,3,17.8,310100.0,96.59
+1069,2024,469376,BASIS Phoenix Primary,English Language Arts,413,79.0,85028,1,12.6,583000.0,98.59
+1070,2024,469376,BASIS Phoenix Primary,Mathematics,414,77.0,85028,1,12.6,583000.0,98.59
+1071,2024,10730,"Hearn Academy, The - A Ball Charter School",English Language Arts,*,68.0,85023,1,12.6,359200.0,97.22
+1072,2024,10730,"Hearn Academy, The - A Ball Charter School",English Language Arts,*,68.0,85023,8,12.8,359200.0,97.22
+1073,2024,10730,"Hearn Academy, The - A Ball Charter School",Mathematics,*,61.0,85023,1,12.6,359200.0,97.22
+1074,2024,10730,"Hearn Academy, The - A Ball Charter School",Mathematics,*,61.0,85023,8,12.8,359200.0,97.22
+1075,2024,5319,Pat Tillman Middle School,English Language Arts,518,18.0,85008,1,12.6,323600.0,95.95
+1076,2024,5319,Pat Tillman Middle School,English Language Arts,518,18.0,85008,3,17.8,323600.0,95.95
+1077,2024,5319,Pat Tillman Middle School,English Language Arts,518,18.0,85008,4,14.1,323600.0,95.95
+1078,2024,5319,Pat Tillman Middle School,Mathematics,520,6.0,85008,1,12.6,323600.0,95.95
+1079,2024,5319,Pat Tillman Middle School,Mathematics,520,6.0,85008,3,17.8,323600.0,95.95
+1080,2024,5319,Pat Tillman Middle School,Mathematics,520,6.0,85008,4,14.1,323600.0,95.95
+1081,2024,5320,David Crockett Elementary School,English Language Arts,225,31.0,85008,1,12.6,323600.0,95.95
+1082,2024,5320,David Crockett Elementary School,English Language Arts,225,31.0,85008,3,17.8,323600.0,95.95
+1083,2024,5320,David Crockett Elementary School,English Language Arts,225,31.0,85008,4,14.1,323600.0,95.95
+1084,2024,5320,David Crockett Elementary School,Mathematics,229,17.0,85008,1,12.6,323600.0,95.95
+1085,2024,5320,David Crockett Elementary School,Mathematics,229,17.0,85008,3,17.8,323600.0,95.95
+1086,2024,5320,David Crockett Elementary School,Mathematics,229,17.0,85008,4,14.1,323600.0,95.95
+1087,2024,5321,Griffith Elementary School,English Language Arts,186,19.0,85008,1,12.6,323600.0,95.95
+1088,2024,5321,Griffith Elementary School,English Language Arts,186,19.0,85008,3,17.8,323600.0,95.95
+1089,2024,5321,Griffith Elementary School,English Language Arts,186,19.0,85008,4,14.1,323600.0,95.95
+1090,2024,5321,Griffith Elementary School,Mathematics,187,25.0,85008,1,12.6,323600.0,95.95
+1091,2024,5321,Griffith Elementary School,Mathematics,187,25.0,85008,3,17.8,323600.0,95.95
+1092,2024,5321,Griffith Elementary School,Mathematics,187,25.0,85008,4,14.1,323600.0,95.95
+1093,2024,81141,Brunson-Lee Elementary School,English Language Arts,161,10.0,85008,1,12.6,323600.0,95.95
+1094,2024,81141,Brunson-Lee Elementary School,English Language Arts,161,10.0,85008,3,17.8,323600.0,95.95
+1095,2024,81141,Brunson-Lee Elementary School,English Language Arts,161,10.0,85008,4,14.1,323600.0,95.95
+1096,2024,81141,Brunson-Lee Elementary School,Mathematics,161,20.0,85008,1,12.6,323600.0,95.95
+1097,2024,81141,Brunson-Lee Elementary School,Mathematics,161,20.0,85008,3,17.8,323600.0,95.95
+1098,2024,81141,Brunson-Lee Elementary School,Mathematics,161,20.0,85008,4,14.1,323600.0,95.95
+1099,2024,79507,Imagine Bell Canyon,English Language Arts,137,31.0,85053,8,12.8,329500.0,95.51
+1100,2024,79507,Imagine Bell Canyon,Mathematics,137,15.0,85053,8,12.8,329500.0,95.51
+1101,2024,78803,Benchmark School,English Language Arts,*,72.0,85032,1,12.6,387900.0,96.03
+1102,2024,78803,Benchmark School,Mathematics,*,59.0,85032,1,12.6,387900.0,96.03
+1103,2024,92498,CASA Academy,English Language Arts,148,22.0,85015,1,12.6,312600.0,94.07
+1104,2024,92498,CASA Academy,English Language Arts,148,22.0,85015,3,17.8,312600.0,94.07
+1105,2024,92498,CASA Academy,English Language Arts,148,22.0,85015,8,12.8,312600.0,94.07
+1106,2024,92498,CASA Academy,Mathematics,149,15.0,85015,1,12.6,312600.0,94.07
+1107,2024,92498,CASA Academy,Mathematics,149,15.0,85015,3,17.8,312600.0,94.07
+1108,2024,92498,CASA Academy,Mathematics,149,15.0,85015,8,12.8,312600.0,94.07
+1109,2024,5398,Cartwright School,English Language Arts,425,9.0,85035,3,17.8,244300.0,95.77
+1110,2024,5398,Cartwright School,Mathematics,437,6.0,85035,3,17.8,244300.0,95.77
+1111,2024,5399,Glenn L. Downs Social Sciences Academy,English Language Arts,420,24.0,85031,3,17.8,240300.0,93.95
+1112,2024,5399,Glenn L. Downs Social Sciences Academy,Mathematics,424,16.0,85031,3,17.8,240300.0,93.95
+1113,2024,5400,John F. Long,English Language Arts,322,33.0,85031,3,17.8,240300.0,93.95
+1114,2024,5400,John F. Long,Mathematics,322,33.0,85031,3,17.8,240300.0,93.95
+1115,2024,5401,Justine Spitalny STE3AM School,English Language Arts,378,16.0,85031,3,17.8,240300.0,93.95
+1116,2024,5401,Justine Spitalny STE3AM School,Mathematics,380,11.0,85031,3,17.8,240300.0,93.95
+1117,2024,5402,Holiday Park School,English Language Arts,304,22.0,85033,3,17.8,245900.0,96.74
+1118,2024,5402,Holiday Park School,Mathematics,304,23.0,85033,3,17.8,245900.0,96.74
+1119,2024,5403,Sunset School,English Language Arts,392,33.0,85033,3,17.8,245900.0,96.74
+1120,2024,5403,Sunset School,Mathematics,393,43.0,85033,3,17.8,245900.0,96.74
+1121,2024,5404,Starlight Park College Preparatory and Community School,English Language Arts,374,21.0,85033,3,17.8,245900.0,96.74
+1122,2024,5404,Starlight Park College Preparatory and Community School,Mathematics,375,21.0,85033,3,17.8,245900.0,96.74
+1123,2024,5405,Charles W. Harris School,English Language Arts,560,21.0,85035,3,17.8,244300.0,95.77
+1124,2024,5405,Charles W. Harris School,Mathematics,562,19.0,85035,3,17.8,244300.0,95.77
+1125,2024,5406,Desert Sands Academy of Mass Communication & Journalism ,English Language Arts,430,12.0,85033,3,17.8,245900.0,96.74
+1126,2024,5406,Desert Sands Academy of Mass Communication & Journalism ,Mathematics,438,8.0,85033,3,17.8,245900.0,96.74
+1127,2024,5407,Frank Borman School,English Language Arts,622,21.0,85031,3,17.8,240300.0,93.95
+1128,2024,5407,Frank Borman School,Mathematics,627,11.0,85031,3,17.8,240300.0,93.95
+1129,2024,5409,Heatherbrae School,English Language Arts,321,23.0,85033,3,17.8,245900.0,96.74
+1130,2024,5409,Heatherbrae School,Mathematics,321,19.0,85033,3,17.8,245900.0,96.74
+1131,2024,5411,Estrella Middle School,English Language Arts,594,20.0,85033,3,17.8,245900.0,96.74
+1132,2024,5411,Estrella Middle School,Mathematics,595,8.0,85033,3,17.8,245900.0,96.74
+1133,2024,5412,Palm Lane,English Language Arts,338,24.0,85035,3,17.8,244300.0,95.77
+1134,2024,5412,Palm Lane,Mathematics,338,12.0,85035,3,17.8,244300.0,95.77
+1135,2024,5413,Peralta School,English Language Arts,449,18.0,85035,3,17.8,244300.0,95.77
+1136,2024,5413,Peralta School,Mathematics,451,16.0,85035,3,17.8,244300.0,95.77
+1137,2024,5415,Tomahawk School,English Language Arts,446,27.0,85033,3,17.8,245900.0,96.74
+1138,2024,5415,Tomahawk School,Mathematics,447,14.0,85033,3,17.8,245900.0,96.74
+1139,2024,6032,G. Frank Davidson,English Language Arts,391,13.0,85033,3,17.8,245900.0,96.74
+1140,2024,6032,G. Frank Davidson,Mathematics,393,7.0,85033,3,17.8,245900.0,96.74
+1141,2024,78980,Marc T. Atkinson Middle School & Gifted Academy,English Language Arts,*,58.0,85031,3,17.8,240300.0,93.95
+1142,2024,78980,Marc T. Atkinson Middle School & Gifted Academy,Mathematics,*,51.0,85031,3,17.8,240300.0,93.95
+1143,2024,79283,Bret R. Tarver Leadership Academy,English Language Arts,296,23.0,85031,3,17.8,240300.0,93.95
+1144,2024,79283,Bret R. Tarver Leadership Academy,Mathematics,296,19.0,85031,3,17.8,240300.0,93.95
+1145,2024,81109,Manuel Pena Jr. School,English Language Arts,381,26.0,85035,3,17.8,244300.0,95.77
+1146,2024,81109,Manuel Pena Jr. School,Mathematics,383,20.0,85035,3,17.8,244300.0,95.77
+1147,2024,89955,Raúl H. Castro Middle School: Academy of Fine Arts,English Language Arts,477,21.0,85035,3,17.8,244300.0,95.77
+1148,2024,89955,Raúl H. Castro Middle School: Academy of Fine Arts,Mathematics,477,6.0,85035,3,17.8,244300.0,95.77
+1149,2024,78911,Sonoran Trails Middle School,English Language Arts,606,56.0,85085,8,12.8,589000.0,98.13
+1150,2024,78911,Sonoran Trails Middle School,Mathematics,606,46.0,85085,8,12.8,589000.0,98.13
+1151,2024,87477,Horseshoe Trails Elementary School,English Language Arts,243,71.0,85085,8,12.8,589000.0,98.13
+1152,2024,87477,Horseshoe Trails Elementary School,Mathematics,243,68.0,85085,8,12.8,589000.0,98.13
+1153,2024,90139,Adams Traditional Academy,English Language Arts,286,68.0,85027,1,12.6,316100.0,95.3
+1154,2024,90139,Adams Traditional Academy,English Language Arts,286,68.0,85027,8,12.8,316100.0,95.3
+1155,2024,90139,Adams Traditional Academy,Mathematics,286,69.0,85027,1,12.6,316100.0,95.3
+1156,2024,90139,Adams Traditional Academy,Mathematics,286,69.0,85027,8,12.8,316100.0,95.3
+1157,2024,10801,Westland School,English Language Arts,90,26.0,85033,3,17.8,245900.0,96.74
+1158,2024,79989,Imagine Cortez Park Middle,English Language Arts,211,30.0,85051,3,17.8,288300.0,94.66
+1159,2024,79989,Imagine Cortez Park Middle,English Language Arts,211,30.0,85051,8,12.8,288300.0,94.66
+1160,2024,79989,Imagine Cortez Park Middle,Mathematics,234,10.0,85051,3,17.8,288300.0,94.66
+1161,2024,79989,Imagine Cortez Park Middle,Mathematics,234,10.0,85051,8,12.8,288300.0,94.66
+1162,2024,5283,The Creighton Academy,English Language Arts,232,19.0,85008,1,12.6,323600.0,95.95
+1163,2024,5283,The Creighton Academy,English Language Arts,232,19.0,85008,3,17.8,323600.0,95.95
+1164,2024,5283,The Creighton Academy,English Language Arts,232,19.0,85008,4,14.1,323600.0,95.95
+1165,2024,5283,The Creighton Academy,Mathematics,238,7.0,85008,1,12.6,323600.0,95.95
+1166,2024,5283,The Creighton Academy,Mathematics,238,7.0,85008,3,17.8,323600.0,95.95
+1167,2024,5283,The Creighton Academy,Mathematics,238,7.0,85008,4,14.1,323600.0,95.95
+1168,2024,5284,Larry C Kennedy School,English Language Arts,194,12.0,85016,1,12.6,508400.0,96.92
+1169,2024,5284,Larry C Kennedy School,English Language Arts,194,12.0,85016,3,17.8,508400.0,96.92
+1170,2024,5284,Larry C Kennedy School,Mathematics,198,9.0,85016,1,12.6,508400.0,96.92
+1171,2024,5284,Larry C Kennedy School,Mathematics,198,9.0,85016,3,17.8,508400.0,96.92
+1172,2024,5285,Loma Linda Elementary School,English Language Arts,253,13.0,85016,1,12.6,508400.0,96.92
+1173,2024,5285,Loma Linda Elementary School,English Language Arts,253,13.0,85016,3,17.8,508400.0,96.92
+1174,2024,5285,Loma Linda Elementary School,Mathematics,254,10.0,85016,1,12.6,508400.0,96.92
+1175,2024,5285,Loma Linda Elementary School,Mathematics,254,10.0,85016,3,17.8,508400.0,96.92
+1176,2024,5286,William T Machan Elementary School,English Language Arts,292,12.0,85006,3,17.8,376600.0,92.59
+1177,2024,5286,William T Machan Elementary School,Mathematics,295,8.0,85006,3,17.8,376600.0,92.59
+1178,2024,5287,Monte Vista Elementary School,English Language Arts,456,16.0,85018,1,12.6,805800.0,95.75
+1179,2024,5287,Monte Vista Elementary School,English Language Arts,456,16.0,85018,3,17.8,805800.0,95.75
+1180,2024,5287,Monte Vista Elementary School,Mathematics,464,12.0,85018,1,12.6,805800.0,95.75
+1181,2024,5287,Monte Vista Elementary School,Mathematics,464,12.0,85018,3,17.8,805800.0,95.75
+1182,2024,5288,Papago School,English Language Arts,450,16.0,85008,1,12.6,323600.0,95.95
+1183,2024,5288,Papago School,English Language Arts,450,16.0,85008,3,17.8,323600.0,95.95
+1184,2024,5288,Papago School,English Language Arts,450,16.0,85008,4,14.1,323600.0,95.95
+1185,2024,5288,Papago School,Mathematics,450,8.0,85008,1,12.6,323600.0,95.95
+1186,2024,5288,Papago School,Mathematics,450,8.0,85008,3,17.8,323600.0,95.95
+1187,2024,5288,Papago School,Mathematics,450,8.0,85008,4,14.1,323600.0,95.95
+1188,2024,5289,Biltmore Preparatory Academy,English Language Arts,*,38.0,85018,1,12.6,805800.0,95.75
+1189,2024,5289,Biltmore Preparatory Academy,English Language Arts,*,38.0,85018,3,17.8,805800.0,95.75
+1190,2024,5289,Biltmore Preparatory Academy,Mathematics,*,25.0,85018,1,12.6,805800.0,95.75
+1191,2024,5289,Biltmore Preparatory Academy,Mathematics,*,25.0,85018,3,17.8,805800.0,95.75
+1192,2024,6023,Gateway School,English Language Arts,334,12.0,85008,1,12.6,323600.0,95.95
+1193,2024,6023,Gateway School,English Language Arts,334,12.0,85008,3,17.8,323600.0,95.95
+1194,2024,6023,Gateway School,English Language Arts,334,12.0,85008,4,14.1,323600.0,95.95
+1195,2024,6023,Gateway School,Mathematics,340,7.0,85008,1,12.6,323600.0,95.95
+1196,2024,6023,Gateway School,Mathematics,340,7.0,85008,3,17.8,323600.0,95.95
+1197,2024,6023,Gateway School,Mathematics,340,7.0,85008,4,14.1,323600.0,95.95
+1198,2024,79285,Excelencia School,English Language Arts,301,18.0,85006,3,17.8,376600.0,92.59
+1199,2024,79285,Excelencia School,Mathematics,307,15.0,85006,3,17.8,376600.0,92.59
+1200,2024,5142,Deer Valley Middle School,English Language Arts,411,31.0,85027,1,12.6,316100.0,95.3
+1201,2024,5142,Deer Valley Middle School,English Language Arts,411,31.0,85027,8,12.8,316100.0,95.3
+1202,2024,5142,Deer Valley Middle School,Mathematics,413,15.0,85027,1,12.6,316100.0,95.3
+1203,2024,5142,Deer Valley Middle School,Mathematics,413,15.0,85027,8,12.8,316100.0,95.3
+1204,2024,5143,Village Meadows Elementary School,English Language Arts,159,42.0,85023,1,12.6,359200.0,97.22
+1205,2024,5143,Village Meadows Elementary School,English Language Arts,159,42.0,85023,8,12.8,359200.0,97.22
+1206,2024,5143,Village Meadows Elementary School,Mathematics,160,36.0,85023,1,12.6,359200.0,97.22
+1207,2024,5143,Village Meadows Elementary School,Mathematics,160,36.0,85023,8,12.8,359200.0,97.22
+1208,2024,5146,Constitution Elementary School,English Language Arts,215,35.0,85023,1,12.6,359200.0,97.22
+1209,2024,5146,Constitution Elementary School,English Language Arts,215,35.0,85023,8,12.8,359200.0,97.22
+1210,2024,5146,Constitution Elementary School,Mathematics,216,25.0,85023,1,12.6,359200.0,97.22
+1211,2024,5146,Constitution Elementary School,Mathematics,216,25.0,85023,8,12.8,359200.0,97.22
+1212,2024,5147,Sunrise Elementary School,English Language Arts,198,29.0,85053,8,12.8,329500.0,95.51
+1213,2024,5147,Sunrise Elementary School,Mathematics,198,20.0,85053,8,12.8,329500.0,95.51
+1214,2024,5157,Esperanza Elementary School,English Language Arts,214,31.0,85027,1,12.6,316100.0,95.3
+1215,2024,5157,Esperanza Elementary School,English Language Arts,214,31.0,85027,8,12.8,316100.0,95.3
+1216,2024,5157,Esperanza Elementary School,Mathematics,215,21.0,85027,1,12.6,316100.0,95.3
+1217,2024,5157,Esperanza Elementary School,Mathematics,215,21.0,85027,8,12.8,316100.0,95.3
+1218,2024,5162,Barry Goldwater High School,English Language Arts,331,39.0,85027,1,12.6,316100.0,95.3
+1219,2024,5162,Barry Goldwater High School,English Language Arts,331,39.0,85027,8,12.8,316100.0,95.3
+1220,2024,5162,Barry Goldwater High School,Mathematics,342,29.0,85027,1,12.6,316100.0,95.3
+1221,2024,5162,Barry Goldwater High School,Mathematics,342,29.0,85027,8,12.8,316100.0,95.3
+1222,2024,6016,Paseo Hills School,English Language Arts,458,34.0,85027,1,12.6,316100.0,95.3
+1223,2024,6016,Paseo Hills School,English Language Arts,458,34.0,85027,8,12.8,316100.0,95.3
+1224,2024,6016,Paseo Hills School,Mathematics,457,26.0,85027,1,12.6,316100.0,95.3
+1225,2024,6016,Paseo Hills School,Mathematics,457,26.0,85027,8,12.8,316100.0,95.3
+1226,2024,79414,"Aspire, Deer Valley's Online Academy",English Language Arts,96,59.0,85027,1,12.6,316100.0,95.3
+1227,2024,79414,"Aspire, Deer Valley's Online Academy",English Language Arts,96,59.0,85027,8,12.8,316100.0,95.3
+1228,2024,79414,"Aspire, Deer Valley's Online Academy",Mathematics,95,35.0,85027,1,12.6,316100.0,95.3
+1229,2024,79414,"Aspire, Deer Valley's Online Academy",Mathematics,95,35.0,85027,8,12.8,316100.0,95.3
+1230,2024,79573,Stetson Hills School ,English Language Arts,607,62.0,85083,8,12.8,572600.0,98.5
+1231,2024,79573,Stetson Hills School ,Mathematics,611,72.0,85083,8,12.8,572600.0,98.5
+1232,2024,89953,Norterra Canyon School,English Language Arts,370,57.0,85085,8,12.8,589000.0,98.13
+1233,2024,89953,Norterra Canyon School,Mathematics,371,55.0,85085,8,12.8,589000.0,98.13
+1234,2024,92907,Sonoran Foothills School,English Language Arts,609,75.0,85085,8,12.8,589000.0,98.13
+1235,2024,92907,Sonoran Foothills School,Mathematics,612,71.0,85085,8,12.8,589000.0,98.13
+1236,2024,1001159,Union Park School,English Language Arts,479,68.0,85027,1,12.6,316100.0,95.3
+1237,2024,1001159,Union Park School,English Language Arts,479,68.0,85027,8,12.8,316100.0,95.3
+1238,2024,1001159,Union Park School,Mathematics,480,62.0,85027,1,12.6,316100.0,95.3
+1239,2024,1001159,Union Park School,Mathematics,480,62.0,85027,8,12.8,316100.0,95.3
+1240,2024,92563,EAGLE College Prep Maryvale,English Language Arts,198,25.0,85031,3,17.8,240300.0,93.95
+1241,2024,92563,EAGLE College Prep Maryvale,Mathematics,198,9.0,85031,3,17.8,240300.0,93.95
+1242,2024,89851,EAGLE College Prep,English Language Arts,284,32.0,85041,3,17.8,310100.0,96.59
+1243,2024,89851,EAGLE College Prep,Mathematics,284,30.0,85041,3,17.8,310100.0,96.59
+1244,2024,79263,Arizona Conservatory for Arts and Academics Elementary School,English Language Arts,62,25.0,85053,8,12.8,329500.0,95.51
+1245,2024,90349,Arizona Conservatory for Arts and Academics,English Language Arts,125,37.0,85053,8,12.8,329500.0,95.51
+1246,2024,90349,Arizona Conservatory for Arts and Academics,Mathematics,125,15.0,85053,8,12.8,329500.0,95.51
+1247,2024,91783,Empower College Prep,English Language Arts,388,25.0,85015,1,12.6,312600.0,94.07
+1248,2024,91783,Empower College Prep,English Language Arts,388,25.0,85015,3,17.8,312600.0,94.07
+1249,2024,91783,Empower College Prep,English Language Arts,388,25.0,85015,8,12.8,312600.0,94.07
+1250,2024,91783,Empower College Prep,Mathematics,387,20.0,85015,1,12.6,312600.0,94.07
+1251,2024,91783,Empower College Prep,Mathematics,387,20.0,85015,3,17.8,312600.0,94.07
+1252,2024,91783,Empower College Prep,Mathematics,387,20.0,85015,8,12.8,312600.0,94.07
+1253,2024,5507,NFL YET College Prep Academy,English Language Arts,122,35.0,85040,3,17.8,294800.0,92.34
+1254,2024,5507,NFL YET College Prep Academy,Mathematics,123,30.0,85040,3,17.8,294800.0,92.34
+1255,2024,85886,Reyes Maria Ruiz Leadership Academy,English Language Arts,200,28.0,85040,3,17.8,294800.0,92.34
+1256,2024,85886,Reyes Maria Ruiz Leadership Academy,Mathematics,201,30.0,85040,3,17.8,294800.0,92.34
+1257,2024,181823,Maricopa Institute of Technology,English Language Arts,*,68.0,85043,3,17.8,288900.0,95.66
+1258,2024,181823,Maricopa Institute of Technology,Mathematics,*,46.0,85043,3,17.8,288900.0,95.66
+1259,2024,78820,Champion Schools,English Language Arts,307,27.0,85042,3,17.8,353400.0,95.53
+1260,2024,78820,Champion Schools,English Language Arts,307,27.0,85042,4,14.1,353400.0,95.53
+1261,2024,78820,Champion Schools,Mathematics,308,17.0,85042,3,17.8,353400.0,95.53
+1262,2024,78820,Champion Schools,Mathematics,308,17.0,85042,4,14.1,353400.0,95.53
+1263,2024,5351,Fowler Elementary School,English Language Arts,152,22.0,85043,3,17.8,288900.0,95.66
+1264,2024,5351,Fowler Elementary School,Mathematics,153,23.0,85043,3,17.8,288900.0,95.66
+1265,2024,5352,Sunridge Elementary School,English Language Arts,169,15.0,85043,3,17.8,288900.0,95.66
+1266,2024,5352,Sunridge Elementary School,Mathematics,170,7.0,85043,3,17.8,288900.0,95.66
+1267,2024,5353,Santa Maria Middle School,English Language Arts,491,18.0,85043,3,17.8,288900.0,95.66
+1268,2024,5353,Santa Maria Middle School,Mathematics,494,6.0,85043,3,17.8,288900.0,95.66
+1269,2024,80315,Sun Canyon School,English Language Arts,242,28.0,85043,3,17.8,288900.0,95.66
+1270,2024,80315,Sun Canyon School,Mathematics,243,32.0,85043,3,17.8,288900.0,95.66
+1271,2024,80915,Western Valley Elementary School,English Language Arts,230,22.0,85043,3,17.8,288900.0,95.66
+1272,2024,80915,Western Valley Elementary School,Mathematics,233,21.0,85043,3,17.8,288900.0,95.66
+1273,2024,80916,Western Valley Middle School,English Language Arts,451,16.0,85043,3,17.8,288900.0,95.66
+1274,2024,80916,Western Valley Middle School,Mathematics,460,4.0,85043,3,17.8,288900.0,95.66
+1275,2024,87521,Tuscano Elementary School,English Language Arts,216,19.0,85043,3,17.8,288900.0,95.66
+1276,2024,87521,Tuscano Elementary School,Mathematics,217,20.0,85043,3,17.8,288900.0,95.66
+1277,2024,92597,Franklin Phonetic Primary School-Sunnyslope,English Language Arts,*,34.0,85020,1,12.6,400800.0,95.62
+1278,2024,92597,Franklin Phonetic Primary School-Sunnyslope,Mathematics,*,34.0,85020,1,12.6,400800.0,95.62
+1279,2024,80472,Freedom Academy,English Language Arts,208,30.0,85032,1,12.6,387900.0,96.03
+1280,2024,80472,Freedom Academy,Mathematics,209,24.0,85032,1,12.6,387900.0,96.03
+1281,2024,6036,Friendly House Academia Del Pueblo Elem,English Language Arts,169,13.0,85004,3,17.8,365500.0,98.27
+1282,2024,6036,Friendly House Academia Del Pueblo Elem,Mathematics,169,14.0,85004,3,17.8,365500.0,98.27
+1283,2024,91712,George Gervin Prep Academy,English Language Arts,78,28.0,85040,3,17.8,294800.0,92.34
+1284,2024,5427,Sunnyslope High School,English Language Arts,*,55.0,85021,1,12.6,433000.0,95.91
+1285,2024,5427,Sunnyslope High School,English Language Arts,*,55.0,85021,8,12.8,433000.0,95.91
+1286,2024,5427,Sunnyslope High School,Mathematics,*,47.0,85021,1,12.6,433000.0,95.91
+1287,2024,5427,Sunnyslope High School,Mathematics,*,47.0,85021,8,12.8,433000.0,95.91
+1288,2024,5428,Washington High School,English Language Arts,*,36.0,85021,1,12.6,433000.0,95.91
+1289,2024,5428,Washington High School,English Language Arts,*,36.0,85021,8,12.8,433000.0,95.91
+1290,2024,5428,Washington High School,Mathematics,*,29.0,85021,1,12.6,433000.0,95.91
+1291,2024,5428,Washington High School,Mathematics,*,29.0,85021,8,12.8,433000.0,95.91
+1292,2024,5429,Cortez High School,English Language Arts,218,30.0,85051,3,17.8,288300.0,94.66
+1293,2024,5429,Cortez High School,English Language Arts,218,30.0,85051,8,12.8,288300.0,94.66
+1294,2024,5429,Cortez High School,Mathematics,219,24.0,85051,3,17.8,288300.0,94.66
+1295,2024,5429,Cortez High School,Mathematics,219,24.0,85051,8,12.8,288300.0,94.66
+1296,2024,5430,Moon Valley High School,English Language Arts,326,37.0,85029,1,12.6,307800.0,96.81
+1297,2024,5430,Moon Valley High School,English Language Arts,326,37.0,85029,8,12.8,307800.0,96.81
+1298,2024,5430,Moon Valley High School,Mathematics,326,31.0,85029,1,12.6,307800.0,96.81
+1299,2024,5430,Moon Valley High School,Mathematics,326,31.0,85029,8,12.8,307800.0,96.81
+1300,2024,5432,Thunderbird High School,English Language Arts,370,54.0,85023,1,12.6,359200.0,97.22
+1301,2024,5432,Thunderbird High School,English Language Arts,370,54.0,85023,8,12.8,359200.0,97.22
+1302,2024,5432,Thunderbird High School,Mathematics,370,43.0,85023,1,12.6,359200.0,97.22
+1303,2024,5432,Thunderbird High School,Mathematics,370,43.0,85023,8,12.8,359200.0,97.22
+1304,2024,5433,Greenway High School,English Language Arts,*,48.0,85053,8,12.8,329500.0,95.51
+1305,2024,5433,Greenway High School,Mathematics,*,38.0,85053,8,12.8,329500.0,95.51
+1306,2024,78809,Horizon Honors Secondary School,English Language Arts,*,59.0,85048,4,14.1,538500.0,99.73
+1307,2024,78809,Horizon Honors Secondary School,Mathematics,*,52.0,85048,4,14.1,538500.0,99.73
+1308,2024,92621,Horizon Honors Elementary School,English Language Arts,*,75.0,85048,4,14.1,538500.0,99.73
+1309,2024,92621,Horizon Honors Elementary School,Mathematics,*,49.0,85048,4,14.1,538500.0,99.73
+1310,2024,89562,Imagine Camelback Middle,English Language Arts,130,11.0,85015,1,12.6,312600.0,94.07
+1311,2024,89562,Imagine Camelback Middle,English Language Arts,130,11.0,85015,3,17.8,312600.0,94.07
+1312,2024,89562,Imagine Camelback Middle,English Language Arts,130,11.0,85015,8,12.8,312600.0,94.07
+1313,2024,88368,Imagine Desert West Elementary,English Language Arts,326,13.0,85035,3,17.8,244300.0,95.77
+1314,2024,88368,Imagine Desert West Elementary,Mathematics,330,14.0,85035,3,17.8,244300.0,95.77
+1315,2024,89564,Imagine Desert West Middle,English Language Arts,371,18.0,85035,3,17.8,244300.0,95.77
+1316,2024,89564,Imagine Desert West Middle,Mathematics,371,8.0,85035,3,17.8,244300.0,95.77
+1317,2024,5234,Isaac Middle School,English Language Arts,413,13.0,85009,3,17.8,215300.0,94.75
+1318,2024,5234,Isaac Middle School,Mathematics,417,8.0,85009,3,17.8,215300.0,94.75
+1319,2024,5235,J B Sutton Elementary School,English Language Arts,216,19.0,85009,3,17.8,215300.0,94.75
+1320,2024,5235,J B Sutton Elementary School,Mathematics,216,19.0,85009,3,17.8,215300.0,94.75
+1321,2024,5236,Alta E Butler School,English Language Arts,242,22.0,85009,3,17.8,215300.0,94.75
+1322,2024,5236,Alta E Butler School,Mathematics,245,17.0,85009,3,17.8,215300.0,94.75
+1323,2024,5237,P T Coe Elementary School,English Language Arts,150,21.0,85009,3,17.8,215300.0,94.75
+1324,2024,5237,P T Coe Elementary School,Mathematics,151,16.0,85009,3,17.8,215300.0,94.75
+1325,2024,5238,Joseph Zito Elementary School,English Language Arts,146,31.0,85035,3,17.8,244300.0,95.77
+1326,2024,5238,Joseph Zito Elementary School,Mathematics,149,30.0,85035,3,17.8,244300.0,95.77
+1327,2024,5239,Mitchell Elementary School,English Language Arts,134,30.0,85009,3,17.8,215300.0,94.75
+1328,2024,5239,Mitchell Elementary School,Mathematics,137,23.0,85009,3,17.8,215300.0,94.75
+1329,2024,5240,Esperanza Elementary School,English Language Arts,*,24.0,85009,3,17.8,215300.0,94.75
+1330,2024,5240,Esperanza Elementary School,Mathematics,*,21.0,85009,3,17.8,215300.0,94.75
+1331,2024,5243,Pueblo Del Sol Middle School,English Language Arts,446,19.0,85019,3,17.8,255700.0,91.91
+1332,2024,5243,Pueblo Del Sol Middle School,English Language Arts,446,19.0,85019,8,12.8,255700.0,91.91
+1333,2024,5243,Pueblo Del Sol Middle School,Mathematics,448,16.0,85019,3,17.8,255700.0,91.91
+1334,2024,5243,Pueblo Del Sol Middle School,Mathematics,448,16.0,85019,8,12.8,255700.0,91.91
+1335,2024,78934,Morris K. Udall Escuela de Bellas Artes,English Language Arts,487,18.0,85009,3,17.8,215300.0,94.75
+1336,2024,78934,Morris K. Udall Escuela de Bellas Artes,Mathematics,485,9.0,85009,3,17.8,215300.0,94.75
+1337,2024,79821,Moya Elementary,English Language Arts,147,12.0,85009,3,17.8,215300.0,94.75
+1338,2024,79821,Moya Elementary,Mathematics,154,13.0,85009,3,17.8,215300.0,94.75
+1339,2024,1001624,Isaac Online Prep Academy,English Language Arts,40,41.0,85009,3,17.8,215300.0,94.75
+1340,2024,92246,Glenview College Preparatory High School,English Language Arts,*,56.0,85019,3,17.8,255700.0,91.91
+1341,2024,92246,Glenview College Preparatory High School,English Language Arts,*,56.0,85019,8,12.8,255700.0,91.91
+1342,2024,92246,Glenview College Preparatory High School,Mathematics,*,35.0,85019,3,17.8,255700.0,91.91
+1343,2024,92246,Glenview College Preparatory High School,Mathematics,*,35.0,85019,8,12.8,255700.0,91.91
+1344,2024,78851,Kaizen Education Foundation dba South Pointe Elementary School,English Language Arts,134,14.0,85040,3,17.8,294800.0,92.34
+1345,2024,79178,South Pointe Junior High School,English Language Arts,90,22.0,85042,3,17.8,353400.0,95.53
+1346,2024,79178,South Pointe Junior High School,English Language Arts,90,22.0,85042,4,14.1,353400.0,95.53
+1347,2024,1000277,Kaleidoscope School,English Language Arts,125,45.0,85022,1,12.6,385900.0,96.75
+1348,2024,1000277,Kaleidoscope School,Mathematics,125,45.0,85022,1,12.6,385900.0,96.75
+1349,2024,10884,Keystone Montessori Charter School,English Language Arts,*,66.0,85048,4,14.1,538500.0,99.73
+1350,2024,10884,Keystone Montessori Charter School,Mathematics,*,36.0,85048,4,14.1,538500.0,99.73
+1351,2024,5547,Khalsa Montessori Elementary School - Phoenix,English Language Arts,51,92.0,85004,3,17.8,365500.0,98.27
+1352,2024,5547,Khalsa Montessori Elementary School - Phoenix,Mathematics,51,63.0,85004,3,17.8,365500.0,98.27
+1353,2024,5297,Kyrene Altadena Middle School,English Language Arts,885,64.0,85048,4,14.1,538500.0,99.73
+1354,2024,5297,Kyrene Altadena Middle School,Mathematics,886,50.0,85048,4,14.1,538500.0,99.73
+1355,2024,5298,Kyrene Akimel A-Al Middle School,English Language Arts,737,49.0,85048,4,14.1,538500.0,99.73
+1356,2024,5298,Kyrene Akimel A-Al Middle School,Mathematics,738,34.0,85048,4,14.1,538500.0,99.73
+1357,2024,5299,Kyrene Centennial Middle School,English Language Arts,473,32.0,85044,3,17.8,437400.0,97.88
+1358,2024,5299,Kyrene Centennial Middle School,English Language Arts,473,32.0,85044,4,14.1,437400.0,97.88
+1359,2024,5299,Kyrene Centennial Middle School,Mathematics,479,27.0,85044,3,17.8,437400.0,97.88
+1360,2024,5299,Kyrene Centennial Middle School,Mathematics,479,27.0,85044,4,14.1,437400.0,97.88
+1361,2024,5304,Kyrene de las Lomas School,English Language Arts,192,37.0,85044,3,17.8,437400.0,97.88
+1362,2024,5304,Kyrene de las Lomas School,English Language Arts,192,37.0,85044,4,14.1,437400.0,97.88
+1363,2024,5304,Kyrene de las Lomas School,Mathematics,194,31.0,85044,3,17.8,437400.0,97.88
+1364,2024,5304,Kyrene de las Lomas School,Mathematics,194,31.0,85044,4,14.1,437400.0,97.88
+1365,2024,5308,Kyrene de la Colina School,English Language Arts,183,43.0,85044,3,17.8,437400.0,97.88
+1366,2024,5308,Kyrene de la Colina School,English Language Arts,183,43.0,85044,4,14.1,437400.0,97.88
+1367,2024,5308,Kyrene de la Colina School,Mathematics,183,43.0,85044,3,17.8,437400.0,97.88
+1368,2024,5308,Kyrene de la Colina School,Mathematics,183,43.0,85044,4,14.1,437400.0,97.88
+1369,2024,5311,Kyrene De Los Lagos School,English Language Arts,*,63.0,85048,4,14.1,538500.0,99.73
+1370,2024,5311,Kyrene De Los Lagos School,Mathematics,*,62.0,85048,4,14.1,538500.0,99.73
+1371,2024,5312,Kyrene Monte Vista School,English Language Arts,244,67.0,85048,4,14.1,538500.0,99.73
+1372,2024,5312,Kyrene Monte Vista School,Mathematics,244,66.0,85048,4,14.1,538500.0,99.73
+1373,2024,5313,Kyrene de la Sierra School,English Language Arts,*,68.0,85048,4,14.1,538500.0,99.73
+1374,2024,5313,Kyrene de la Sierra School,Mathematics,*,61.0,85048,4,14.1,538500.0,99.73
+1375,2024,5315,Kyrene de la Esperanza School,English Language Arts,201,41.0,85044,3,17.8,437400.0,97.88
+1376,2024,5315,Kyrene de la Esperanza School,English Language Arts,201,41.0,85044,4,14.1,437400.0,97.88
+1377,2024,5315,Kyrene de la Esperanza School,Mathematics,204,39.0,85044,3,17.8,437400.0,97.88
+1378,2024,5315,Kyrene de la Esperanza School,Mathematics,204,39.0,85044,4,14.1,437400.0,97.88
+1379,2024,5317,Kyrene de los Cerritos School,English Language Arts,*,63.0,85048,4,14.1,538500.0,99.73
+1380,2024,5317,Kyrene de los Cerritos School,Mathematics,*,65.0,85048,4,14.1,538500.0,99.73
+1381,2024,78923,Kyrene de la Estrella Elementary School,English Language Arts,211,43.0,85048,4,14.1,538500.0,99.73
+1382,2024,78923,Kyrene de la Estrella Elementary School,Mathematics,215,38.0,85048,4,14.1,538500.0,99.73
+1383,2024,79143,Kyrene del Milenio,English Language Arts,210,31.0,85048,4,14.1,538500.0,99.73
+1384,2024,79143,Kyrene del Milenio,Mathematics,211,39.0,85048,4,14.1,538500.0,99.73
+1385,2024,5357,Maurice C. Cash Elementary School,English Language Arts,448,25.0,85041,3,17.8,310100.0,96.59
+1386,2024,5357,Maurice C. Cash Elementary School,Mathematics,449,27.0,85041,3,17.8,310100.0,96.59
+1387,2024,1001424,Legacy Traditional School - Deer Valley,English Language Arts,183,40.0,85027,1,12.6,316100.0,95.3
+1388,2024,1001424,Legacy Traditional School - Deer Valley,English Language Arts,183,40.0,85027,8,12.8,316100.0,95.3
+1389,2024,1001424,Legacy Traditional School - Deer Valley,Mathematics,184,36.0,85027,1,12.6,316100.0,95.3
+1390,2024,1001424,Legacy Traditional School - Deer Valley,Mathematics,184,36.0,85027,8,12.8,316100.0,95.3
+1391,2024,1000569,Legacy Traditional School - North Phoenix,English Language Arts,464,39.0,85037,3,17.8,290600.0,96.37
+1392,2024,1000569,Legacy Traditional School - North Phoenix,Mathematics,467,16.0,85037,3,17.8,290600.0,96.37
+1393,2024,112572,Legacy Traditional School - Phoenix,English Language Arts,561,48.0,85037,3,17.8,290600.0,96.37
+1394,2024,112572,Legacy Traditional School - Phoenix,Mathematics,564,40.0,85037,3,17.8,290600.0,96.37
+1395,2024,78811,Liberty Traditional Charter School,English Language Arts,*,17.0,85031,3,17.8,240300.0,93.95
+1396,2024,78811,Liberty Traditional Charter School,Mathematics,*,14.0,85031,3,17.8,240300.0,93.95
+1397,2024,81175,Phoenix College Preparatory Academy,English Language Arts,*,41.0,85013,1,12.6,476200.0,96.09
+1398,2024,81175,Phoenix College Preparatory Academy,English Language Arts,*,41.0,85013,3,17.8,476200.0,96.09
+1399,2024,81175,Phoenix College Preparatory Academy,Mathematics,*,36.0,85013,1,12.6,476200.0,96.09
+1400,2024,81175,Phoenix College Preparatory Academy,Mathematics,*,36.0,85013,3,17.8,476200.0,96.09
+1401,2024,5324,Madison #1 Elementary School,English Language Arts,823,47.0,85016,1,12.6,508400.0,96.92
+1402,2024,5324,Madison #1 Elementary School,English Language Arts,823,47.0,85016,3,17.8,508400.0,96.92
+1403,2024,5324,Madison #1 Elementary School,Mathematics,823,33.0,85016,1,12.6,508400.0,96.92
+1404,2024,5324,Madison #1 Elementary School,Mathematics,823,33.0,85016,3,17.8,508400.0,96.92
+1405,2024,5325,Madison Camelview Elementary,English Language Arts,189,41.0,85016,1,12.6,508400.0,96.92
+1406,2024,5325,Madison Camelview Elementary,English Language Arts,189,41.0,85016,3,17.8,508400.0,96.92
+1407,2024,5325,Madison Camelview Elementary,Mathematics,194,39.0,85016,1,12.6,508400.0,96.92
+1408,2024,5325,Madison Camelview Elementary,Mathematics,194,39.0,85016,3,17.8,508400.0,96.92
+1409,2024,5326,Madison Richard Simis School,English Language Arts,*,72.0,85020,1,12.6,400800.0,95.62
+1410,2024,5326,Madison Richard Simis School,Mathematics,*,67.0,85020,1,12.6,400800.0,95.62
+1411,2024,5327,Madison Rose Lane School,English Language Arts,235,57.0,85014,1,12.6,447500.0,94.3
+1412,2024,5327,Madison Rose Lane School,English Language Arts,235,57.0,85014,3,17.8,447500.0,94.3
+1413,2024,5327,Madison Rose Lane School,Mathematics,235,50.0,85014,1,12.6,447500.0,94.3
+1414,2024,5327,Madison Rose Lane School,Mathematics,235,50.0,85014,3,17.8,447500.0,94.3
+1415,2024,5328,Madison Park School,English Language Arts,373,24.0,85014,1,12.6,447500.0,94.3
+1416,2024,5328,Madison Park School,English Language Arts,373,24.0,85014,3,17.8,447500.0,94.3
+1417,2024,5328,Madison Park School,Mathematics,373,15.0,85014,1,12.6,447500.0,94.3
+1418,2024,5328,Madison Park School,Mathematics,373,15.0,85014,3,17.8,447500.0,94.3
+1419,2024,5329,Madison Meadows School,English Language Arts,781,56.0,85013,1,12.6,476200.0,96.09
+1420,2024,5329,Madison Meadows School,English Language Arts,781,56.0,85013,3,17.8,476200.0,96.09
+1421,2024,5329,Madison Meadows School,Mathematics,782,39.0,85013,1,12.6,476200.0,96.09
+1422,2024,5329,Madison Meadows School,Mathematics,782,39.0,85013,3,17.8,476200.0,96.09
+1423,2024,5330,Madison Heights Elementary School,English Language Arts,*,70.0,85020,1,12.6,400800.0,95.62
+1424,2024,5330,Madison Heights Elementary School,Mathematics,*,64.0,85020,1,12.6,400800.0,95.62
+1425,2024,89622,Madison Traditional Academy,English Language Arts,496,82.0,85014,1,12.6,447500.0,94.3
+1426,2024,89622,Madison Traditional Academy,English Language Arts,496,82.0,85014,3,17.8,447500.0,94.3
+1427,2024,89622,Madison Traditional Academy,Mathematics,496,78.0,85014,1,12.6,447500.0,94.3
+1428,2024,89622,Madison Traditional Academy,Mathematics,496,78.0,85014,3,17.8,447500.0,94.3
+1429,2024,92605,Madison Highland Prep,English Language Arts,*,45.0,85014,1,12.6,447500.0,94.3
+1430,2024,92605,Madison Highland Prep,English Language Arts,*,45.0,85014,3,17.8,447500.0,94.3
+1431,2024,92605,Madison Highland Prep,Mathematics,*,51.0,85014,1,12.6,447500.0,94.3
+1432,2024,92605,Madison Highland Prep,Mathematics,*,51.0,85014,3,17.8,447500.0,94.3
+1433,2024,5480,Gateway Early College High School,English Language Arts,*,38.0,85034,3,17.8,397400.0,95.22
+1434,2024,5480,Gateway Early College High School,English Language Arts,*,38.0,85034,4,14.1,397400.0,95.22
+1435,2024,5480,Gateway Early College High School,Mathematics,*,22.0,85034,3,17.8,397400.0,95.22
+1436,2024,5480,Gateway Early College High School,Mathematics,*,22.0,85034,4,14.1,397400.0,95.22
+1437,2024,91781,Great Hearts Academies - Maryvale Prep,English Language Arts,*,27.0,85031,3,17.8,240300.0,93.95
+1438,2024,91781,Great Hearts Academies - Maryvale Prep,Mathematics,*,26.0,85031,3,17.8,240300.0,93.95
+1439,2024,10847,Metropolitan Arts Institute,English Language Arts,*,52.0,85007,3,17.8,447000.0,91.14
+1440,2024,10847,Metropolitan Arts Institute,Mathematics,*,14.0,85007,3,17.8,447000.0,91.14
+1441,2024,78843,Milestones Charter School,English Language Arts,*,58.0,85032,1,12.6,387900.0,96.03
+1442,2024,78843,Milestones Charter School,Mathematics,*,67.0,85032,1,12.6,387900.0,96.03
+1443,2024,5544,Montessori Day Public Schools Chartered - Mountainside,English Language Arts,*,61.0,85020,1,12.6,400800.0,95.62
+1444,2024,5544,Montessori Day Public Schools Chartered - Mountainside,Mathematics,*,43.0,85020,1,12.6,400800.0,95.62
+1445,2024,5291,Jack L Kuban Elementary School,English Language Arts,220,18.0,85009,3,17.8,215300.0,94.75
+1446,2024,5291,Jack L Kuban Elementary School,Mathematics,220,17.0,85009,3,17.8,215300.0,94.75
+1447,2024,5292,William R Sullivan Elementary School,English Language Arts,298,20.0,85009,3,17.8,215300.0,94.75
+1448,2024,5292,William R Sullivan Elementary School,Mathematics,298,13.0,85009,3,17.8,215300.0,94.75
+1449,2024,117994,Phoenix Modern,English Language Arts,*,49.0,85012,1,12.6,701200.0,97.21
+1450,2024,117994,Phoenix Modern,English Language Arts,*,49.0,85012,3,17.8,701200.0,97.21
+1451,2024,117994,Phoenix Modern,Mathematics,*,30.0,85012,1,12.6,701200.0,97.21
+1452,2024,117994,Phoenix Modern,Mathematics,*,30.0,85012,3,17.8,701200.0,97.21
+1453,2024,78883,New World Educational Center,English Language Arts,119,35.0,85014,1,12.6,447500.0,94.3
+1454,2024,78883,New World Educational Center,English Language Arts,119,35.0,85014,3,17.8,447500.0,94.3
+1455,2024,78883,New World Educational Center,Mathematics,119,21.0,85014,1,12.6,447500.0,94.3
+1456,2024,78883,New World Educational Center,Mathematics,119,21.0,85014,3,17.8,447500.0,94.3
+1457,2024,91422,Great Hearts Academies - North Phoenix Prep,English Language Arts,403,70.0,85022,1,12.6,385900.0,96.75
+1458,2024,91422,Great Hearts Academies - North Phoenix Prep,Mathematics,409,56.0,85022,1,12.6,385900.0,96.75
+1459,2024,5278,Clarendon School,English Language Arts,349,33.0,85013,1,12.6,476200.0,96.09
+1460,2024,5278,Clarendon School,English Language Arts,349,33.0,85013,3,17.8,476200.0,96.09
+1461,2024,5278,Clarendon School,Mathematics,350,23.0,85013,1,12.6,476200.0,96.09
+1462,2024,5278,Clarendon School,Mathematics,350,23.0,85013,3,17.8,476200.0,96.09
+1463,2024,5279,Encanto School,English Language Arts,138,38.0,85013,1,12.6,476200.0,96.09
+1464,2024,5279,Encanto School,English Language Arts,138,38.0,85013,3,17.8,476200.0,96.09
+1465,2024,5279,Encanto School,Mathematics,140,42.0,85013,1,12.6,476200.0,96.09
+1466,2024,5279,Encanto School,Mathematics,140,42.0,85013,3,17.8,476200.0,96.09
+1467,2024,5280,Osborn Middle School,English Language Arts,373,30.0,85013,1,12.6,476200.0,96.09
+1468,2024,5280,Osborn Middle School,English Language Arts,373,30.0,85013,3,17.8,476200.0,96.09
+1469,2024,5280,Osborn Middle School,Mathematics,374,15.0,85013,1,12.6,476200.0,96.09
+1470,2024,5280,Osborn Middle School,Mathematics,374,15.0,85013,3,17.8,476200.0,96.09
+1471,2024,5281,Solano School,English Language Arts,149,10.0,85015,1,12.6,312600.0,94.07
+1472,2024,5281,Solano School,English Language Arts,149,10.0,85015,3,17.8,312600.0,94.07
+1473,2024,5281,Solano School,English Language Arts,149,10.0,85015,8,12.8,312600.0,94.07
+1474,2024,5282,Longview Elementary School,English Language Arts,218,20.0,85014,1,12.6,447500.0,94.3
+1475,2024,5282,Longview Elementary School,English Language Arts,218,20.0,85014,3,17.8,447500.0,94.3
+1476,2024,5282,Longview Elementary School,Mathematics,220,12.0,85014,1,12.6,447500.0,94.3
+1477,2024,5282,Longview Elementary School,Mathematics,220,12.0,85014,3,17.8,447500.0,94.3
+1478,2024,79579,Pan-American Charter School,English Language Arts,608,29.0,85017,3,17.8,242900.0,94.94
+1479,2024,79579,Pan-American Charter School,English Language Arts,608,29.0,85017,8,12.8,242900.0,94.94
+1480,2024,79579,Pan-American Charter School,Mathematics,614,13.0,85017,3,17.8,242900.0,94.94
+1481,2024,79579,Pan-American Charter School,Mathematics,614,13.0,85017,8,12.8,242900.0,94.94
+1482,2024,5074,Campo Bello Elementary School,English Language Arts,277,30.0,85032,1,12.6,387900.0,96.03
+1483,2024,5074,Campo Bello Elementary School,Mathematics,278,27.0,85032,1,12.6,387900.0,96.03
+1484,2024,5078,Eagle Ridge Elementary School,English Language Arts,193,37.0,85024,1,12.6,430400.0,98.4
+1485,2024,5078,Eagle Ridge Elementary School,English Language Arts,193,37.0,85024,8,12.8,430400.0,98.4
+1486,2024,5078,Eagle Ridge Elementary School,Mathematics,193,38.0,85024,1,12.6,430400.0,98.4
+1487,2024,5078,Eagle Ridge Elementary School,Mathematics,193,38.0,85024,8,12.8,430400.0,98.4
+1488,2024,5079,Hidden Hills Elementary School,English Language Arts,*,48.0,85022,1,12.6,385900.0,96.75
+1489,2024,5079,Hidden Hills Elementary School,Mathematics,*,46.0,85022,1,12.6,385900.0,96.75
+1490,2024,5080,Desert Cove Elementary School,English Language Arts,231,50.0,85028,1,12.6,583000.0,98.59
+1491,2024,5080,Desert Cove Elementary School,Mathematics,232,42.0,85028,1,12.6,583000.0,98.59
+1492,2024,5081,Quail Run Elementary School,English Language Arts,281,67.0,85050,1,12.6,564200.0,99.57
+1493,2024,5081,Quail Run Elementary School,Mathematics,281,62.0,85050,1,12.6,564200.0,99.57
+1494,2024,5082,Cactus View Elementary School,English Language Arts,242,34.0,85022,1,12.6,385900.0,96.75
+1495,2024,5082,Cactus View Elementary School,Mathematics,244,25.0,85022,1,12.6,385900.0,96.75
+1496,2024,5086,Indian Bend Elementary School,English Language Arts,276,25.0,85032,1,12.6,387900.0,96.03
+1497,2024,5086,Indian Bend Elementary School,Mathematics,277,27.0,85032,1,12.6,387900.0,96.03
+1498,2024,5087,Desert Trails Elementary School,English Language Arts,*,81.0,85050,1,12.6,564200.0,99.57
+1499,2024,5087,Desert Trails Elementary School,Mathematics,*,81.0,85050,1,12.6,564200.0,99.57
+1500,2024,5088,Whispering Wind Academy,English Language Arts,231,39.0,85032,1,12.6,387900.0,96.03
+1501,2024,5088,Whispering Wind Academy,Mathematics,232,32.0,85032,1,12.6,387900.0,96.03
+1502,2024,5089,Larkspur Elementary School,English Language Arts,149,26.0,85032,1,12.6,387900.0,96.03
+1503,2024,5089,Larkspur Elementary School,Mathematics,151,30.0,85032,1,12.6,387900.0,96.03
+1504,2024,5091,Boulder Creek Elementary School,English Language Arts,330,78.0,85024,1,12.6,430400.0,98.4
+1505,2024,5091,Boulder Creek Elementary School,English Language Arts,330,78.0,85024,8,12.8,430400.0,98.4
+1506,2024,5091,Boulder Creek Elementary School,Mathematics,330,79.0,85024,1,12.6,430400.0,98.4
+1507,2024,5091,Boulder Creek Elementary School,Mathematics,330,79.0,85024,8,12.8,430400.0,98.4
+1508,2024,5092,Mercury Mine Elementary School,English Language Arts,*,72.0,85028,1,12.6,583000.0,98.59
+1509,2024,5092,Mercury Mine Elementary School,Mathematics,266,64.0,85028,1,12.6,583000.0,98.59
+1510,2024,5093,Echo Mountain Primary School,English Language Arts,90,36.0,85022,1,12.6,385900.0,96.75
+1511,2024,5093,Echo Mountain Primary School,Mathematics,90,42.0,85022,1,12.6,385900.0,96.75
+1512,2024,5094,Palomino Primary School,English Language Arts,113,14.0,85032,1,12.6,387900.0,96.03
+1513,2024,5094,Palomino Primary School,Mathematics,113,30.0,85032,1,12.6,387900.0,96.03
+1514,2024,5100,Vista Verde Middle School,English Language Arts,344,24.0,85032,1,12.6,387900.0,96.03
+1515,2024,5100,Vista Verde Middle School,Mathematics,340,16.0,85032,1,12.6,387900.0,96.03
+1516,2024,5101,Greenway Middle School,English Language Arts,361,20.0,85032,1,12.6,387900.0,96.03
+1517,2024,5101,Greenway Middle School,Mathematics,363,13.0,85032,1,12.6,387900.0,96.03
+1518,2024,5102,Explorer Middle School,English Language Arts,*,59.0,85050,1,12.6,564200.0,99.57
+1519,2024,5102,Explorer Middle School,Mathematics,*,62.0,85050,1,12.6,564200.0,99.57
+1520,2024,5104,Shea Middle School,English Language Arts,438,37.0,85028,1,12.6,583000.0,98.59
+1521,2024,5104,Shea Middle School,Mathematics,435,22.0,85028,1,12.6,583000.0,98.59
+1522,2024,5105,Paradise Valley High School,English Language Arts,469,53.0,85032,1,12.6,387900.0,96.03
+1523,2024,5105,Paradise Valley High School,Mathematics,489,46.0,85032,1,12.6,387900.0,96.03
+1524,2024,5107,North Canyon High School,English Language Arts,359,29.0,85024,1,12.6,430400.0,98.4
+1525,2024,5107,North Canyon High School,English Language Arts,359,29.0,85024,8,12.8,430400.0,98.4
+1526,2024,5107,North Canyon High School,Mathematics,375,18.0,85024,1,12.6,430400.0,98.4
+1527,2024,5107,North Canyon High School,Mathematics,375,18.0,85024,8,12.8,430400.0,98.4
+1528,2024,5108,Shadow Mountain High School,English Language Arts,238,56.0,85028,1,12.6,583000.0,98.59
+1529,2024,5108,Shadow Mountain High School,Mathematics,239,43.0,85028,1,12.6,583000.0,98.59
+1530,2024,78920,Sunset Canyon School,English Language Arts,152,37.0,85050,1,12.6,564200.0,99.57
+1531,2024,78920,Sunset Canyon School,Mathematics,153,41.0,85050,1,12.6,564200.0,99.57
+1532,2024,79268,Pinnacle High School,English Language Arts,576,67.0,85050,1,12.6,564200.0,99.57
+1533,2024,79268,Pinnacle High School,Mathematics,579,64.0,85050,1,12.6,564200.0,99.57
+1534,2024,79729,Mountain Trail Middle School,English Language Arts,676,53.0,85024,1,12.6,430400.0,98.4
+1535,2024,79729,Mountain Trail Middle School,English Language Arts,676,53.0,85024,8,12.8,430400.0,98.4
+1536,2024,79729,Mountain Trail Middle School,Mathematics,675,48.0,85024,1,12.6,430400.0,98.4
+1537,2024,79729,Mountain Trail Middle School,Mathematics,675,48.0,85024,8,12.8,430400.0,98.4
+1538,2024,80055,Echo Mountain Intermediate School,English Language Arts,284,26.0,85022,1,12.6,385900.0,96.75
+1539,2024,80055,Echo Mountain Intermediate School,Mathematics,287,21.0,85022,1,12.6,385900.0,96.75
+1540,2024,81026,Palomino Intermediate School,English Language Arts,348,29.0,85032,1,12.6,387900.0,96.03
+1541,2024,81026,Palomino Intermediate School,Mathematics,349,19.0,85032,1,12.6,387900.0,96.03
+1542,2024,88406,Wildfire Elementary School,English Language Arts,*,75.0,85050,1,12.6,564200.0,99.57
+1543,2024,88406,Wildfire Elementary School,Mathematics,*,66.0,85050,1,12.6,564200.0,99.57
+1544,2024,90782,pvONLINE,English Language Arts,28,57.0,85032,1,12.6,387900.0,96.03
+1545,2024,91754,Fireside Elementary School,English Language Arts,407,82.0,85050,1,12.6,564200.0,99.57
+1546,2024,91754,Fireside Elementary School,Mathematics,407,81.0,85050,1,12.6,564200.0,99.57
+1547,2024,1001667,Sky Crossing Elementary School,English Language Arts,*,77.0,85050,1,12.6,564200.0,99.57
+1548,2024,1001667,Sky Crossing Elementary School,Mathematics,*,75.0,85050,1,12.6,564200.0,99.57
+1549,2024,79509,Imagine Cortez Park Elementary,English Language Arts,201,17.0,85051,3,17.8,288300.0,94.66
+1550,2024,79509,Imagine Cortez Park Elementary,English Language Arts,201,17.0,85051,8,12.8,288300.0,94.66
+1551,2024,79509,Imagine Cortez Park Elementary,Mathematics,202,17.0,85051,3,17.8,288300.0,94.66
+1552,2024,79509,Imagine Cortez Park Elementary,Mathematics,202,17.0,85051,8,12.8,288300.0,94.66
+1553,2024,5417,Pendergast Elementary School,English Language Arts,377,25.0,85037,3,17.8,290600.0,96.37
+1554,2024,5417,Pendergast Elementary School,Mathematics,379,20.0,85037,3,17.8,290600.0,96.37
+1555,2024,5418,Desert Horizon Elementary School,English Language Arts,430,16.0,85037,3,17.8,290600.0,96.37
+1556,2024,5418,Desert Horizon Elementary School,Mathematics,440,7.0,85037,3,17.8,290600.0,96.37
+1557,2024,5420,Villa De Paz Elementary School,English Language Arts,285,21.0,85037,3,17.8,290600.0,96.37
+1558,2024,5420,Villa De Paz Elementary School,Mathematics,287,10.0,85037,3,17.8,290600.0,96.37
+1559,2024,5423,Copper King Elementary,English Language Arts,435,31.0,85037,3,17.8,290600.0,96.37
+1560,2024,5423,Copper King Elementary,Mathematics,438,25.0,85037,3,17.8,290600.0,96.37
+1561,2024,80417,Westwind Elementary School,English Language Arts,612,33.0,85037,3,17.8,290600.0,96.37
+1562,2024,80417,Westwind Elementary School,Mathematics,614,28.0,85037,3,17.8,290600.0,96.37
+1563,2024,80419,Amberlea Elementary School,English Language Arts,306,15.0,85037,3,17.8,290600.0,96.37
+1564,2024,80419,Amberlea Elementary School,Mathematics,314,7.0,85037,3,17.8,290600.0,96.37
+1565,2024,5195,Mary Mcleod Bethune School,English Language Arts,219,15.0,85007,3,17.8,447000.0,91.14
+1566,2024,5195,Mary Mcleod Bethune School,Mathematics,225,9.0,85007,3,17.8,447000.0,91.14
+1567,2024,5196,Capitol Elementary School,English Language Arts,217,27.0,85007,3,17.8,447000.0,91.14
+1568,2024,5196,Capitol Elementary School,Mathematics,217,17.0,85007,3,17.8,447000.0,91.14
+1569,2024,5197,Paul Dunbar Lawrence School,English Language Arts,63,30.0,85007,3,17.8,447000.0,91.14
+1570,2024,5197,Paul Dunbar Lawrence School,Mathematics,63,22.0,85007,3,17.8,447000.0,91.14
+1571,2024,5198,Thomas A Edison School,English Language Arts,267,14.0,85006,3,17.8,376600.0,92.59
+1572,2024,5198,Thomas A Edison School,Mathematics,271,14.0,85006,3,17.8,376600.0,92.59
+1573,2024,5199,Ralph Waldo Emerson Elementary School,English Language Arts,163,24.0,85006,3,17.8,376600.0,92.59
+1574,2024,5199,Ralph Waldo Emerson Elementary School,Mathematics,169,11.0,85006,3,17.8,376600.0,92.59
+1575,2024,5200,Garfield School,English Language Arts,245,15.0,85006,3,17.8,376600.0,92.59
+1576,2024,5200,Garfield School,Mathematics,246,13.0,85006,3,17.8,376600.0,92.59
+1577,2024,5201,Magnet Traditional School,English Language Arts,242,52.0,85009,3,17.8,215300.0,94.75
+1578,2024,5201,Magnet Traditional School,Mathematics,244,44.0,85009,3,17.8,215300.0,94.75
+1579,2024,5203,Maie Bartlett Heard School,English Language Arts,243,20.0,85015,1,12.6,312600.0,94.07
+1580,2024,5203,Maie Bartlett Heard School,English Language Arts,243,20.0,85015,3,17.8,312600.0,94.07
+1581,2024,5203,Maie Bartlett Heard School,English Language Arts,243,20.0,85015,8,12.8,312600.0,94.07
+1582,2024,5203,Maie Bartlett Heard School,Mathematics,246,9.0,85015,1,12.6,312600.0,94.07
+1583,2024,5203,Maie Bartlett Heard School,Mathematics,246,9.0,85015,3,17.8,312600.0,94.07
+1584,2024,5203,Maie Bartlett Heard School,Mathematics,246,9.0,85015,8,12.8,312600.0,94.07
+1585,2024,5204,Silvestre S Herrera School,English Language Arts,238,27.0,85034,3,17.8,397400.0,95.22
+1586,2024,5204,Silvestre S Herrera School,English Language Arts,238,27.0,85034,4,14.1,397400.0,95.22
+1587,2024,5204,Silvestre S Herrera School,Mathematics,242,20.0,85034,3,17.8,397400.0,95.22
+1588,2024,5204,Silvestre S Herrera School,Mathematics,242,20.0,85034,4,14.1,397400.0,95.22
+1589,2024,5205,Kenilworth Elementary School,English Language Arts,287,33.0,85003,3,17.8,577700.0,87.21
+1590,2024,5205,Kenilworth Elementary School,Mathematics,287,21.0,85003,3,17.8,577700.0,87.21
+1591,2024,5206,Lowell Elementary School,English Language Arts,166,13.0,85003,3,17.8,577700.0,87.21
+1592,2024,5206,Lowell Elementary School,Mathematics,168,7.0,85003,3,17.8,577700.0,87.21
+1593,2024,5209,Whittier Elementary School,English Language Arts,229,22.0,85006,3,17.8,376600.0,92.59
+1594,2024,5209,Whittier Elementary School,Mathematics,229,12.0,85006,3,17.8,376600.0,92.59
+1595,2024,79616,Augustus H. Shaw Montessori,English Language Arts,184,72.0,85006,3,17.8,376600.0,92.59
+1596,2024,79616,Augustus H. Shaw Montessori,Mathematics,184,58.0,85006,3,17.8,376600.0,92.59
+1597,2024,292305,Phoenix International Academy,English Language Arts,95,70.0,85040,3,17.8,294800.0,92.34
+1598,2024,292305,Phoenix International Academy,Mathematics,97,49.0,85040,3,17.8,294800.0,92.34
+1599,2024,5436,Alhambra High School,English Language Arts,400,10.0,85019,3,17.8,255700.0,91.91
+1600,2024,5436,Alhambra High School,English Language Arts,400,10.0,85019,8,12.8,255700.0,91.91
+1601,2024,5436,Alhambra High School,Mathematics,425,8.0,85019,3,17.8,255700.0,91.91
+1602,2024,5436,Alhambra High School,Mathematics,425,8.0,85019,8,12.8,255700.0,91.91
+1603,2024,5437,Trevor Browne High School,English Language Arts,543,16.0,85033,3,17.8,245900.0,96.74
+1604,2024,5437,Trevor Browne High School,Mathematics,572,11.0,85033,3,17.8,245900.0,96.74
+1605,2024,5438,Camelback High School,English Language Arts,437,19.0,85016,1,12.6,508400.0,96.92
+1606,2024,5438,Camelback High School,English Language Arts,437,19.0,85016,3,17.8,508400.0,96.92
+1607,2024,5438,Camelback High School,Mathematics,451,10.0,85016,1,12.6,508400.0,96.92
+1608,2024,5438,Camelback High School,Mathematics,451,10.0,85016,3,17.8,508400.0,96.92
+1609,2024,5439,Central High School,English Language Arts,358,15.0,85012,1,12.6,701200.0,97.21
+1610,2024,5439,Central High School,English Language Arts,358,15.0,85012,3,17.8,701200.0,97.21
+1611,2024,5439,Central High School,Mathematics,376,9.0,85012,1,12.6,701200.0,97.21
+1612,2024,5439,Central High School,Mathematics,376,9.0,85012,3,17.8,701200.0,97.21
+1613,2024,5440,Carl Hayden High School,English Language Arts,417,12.0,85009,3,17.8,215300.0,94.75
+1614,2024,5440,Carl Hayden High School,Mathematics,439,7.0,85009,3,17.8,215300.0,94.75
+1615,2024,5441,Maryvale High School,English Language Arts,520,15.0,85033,3,17.8,245900.0,96.74
+1616,2024,5441,Maryvale High School,Mathematics,538,9.0,85033,3,17.8,245900.0,96.74
+1617,2024,5442,North High School,English Language Arts,369,19.0,85014,1,12.6,447500.0,94.3
+1618,2024,5442,North High School,English Language Arts,369,19.0,85014,3,17.8,447500.0,94.3
+1619,2024,5442,North High School,Mathematics,388,12.0,85014,1,12.6,447500.0,94.3
+1620,2024,5442,North High School,Mathematics,388,12.0,85014,3,17.8,447500.0,94.3
+1621,2024,5443,South Mountain High School,English Language Arts,390,12.0,85040,3,17.8,294800.0,92.34
+1622,2024,5443,South Mountain High School,Mathematics,401,7.0,85040,3,17.8,294800.0,92.34
+1623,2024,6248,Metro Tech High School,English Language Arts,487,29.0,85015,1,12.6,312600.0,94.07
+1624,2024,6248,Metro Tech High School,English Language Arts,487,29.0,85015,3,17.8,312600.0,94.07
+1625,2024,6248,Metro Tech High School,English Language Arts,487,29.0,85015,8,12.8,312600.0,94.07
+1626,2024,6248,Metro Tech High School,Mathematics,492,21.0,85015,1,12.6,312600.0,94.07
+1627,2024,6248,Metro Tech High School,Mathematics,492,21.0,85015,3,17.8,312600.0,94.07
+1628,2024,6248,Metro Tech High School,Mathematics,492,21.0,85015,8,12.8,312600.0,94.07
+1629,2024,88407,Phoenix Union Bioscience High School,English Language Arts,90,82.0,85004,3,17.8,365500.0,98.27
+1630,2024,88407,Phoenix Union Bioscience High School,Mathematics,90,75.0,85004,3,17.8,365500.0,98.27
+1631,2024,89778,Franklin Police and Fire High School,English Language Arts,*,36.0,85007,3,17.8,447000.0,91.14
+1632,2024,89778,Franklin Police and Fire High School,Mathematics,*,27.0,85007,3,17.8,447000.0,91.14
+1633,2024,128903,Phoenix Union-Wilson College Preparatory,English Language Arts,*,28.0,85008,1,12.6,323600.0,95.95
+1634,2024,128903,Phoenix Union-Wilson College Preparatory,English Language Arts,*,28.0,85008,3,17.8,323600.0,95.95
+1635,2024,128903,Phoenix Union-Wilson College Preparatory,English Language Arts,*,28.0,85008,4,14.1,323600.0,95.95
+1636,2024,221992,Phoenix Coding Academy,English Language Arts,50,58.0,85012,1,12.6,701200.0,97.21
+1637,2024,221992,Phoenix Coding Academy,English Language Arts,50,58.0,85012,3,17.8,701200.0,97.21
+1638,2024,221992,Phoenix Coding Academy,Mathematics,50,44.0,85012,1,12.6,701200.0,97.21
+1639,2024,221992,Phoenix Coding Academy,Mathematics,50,44.0,85012,3,17.8,701200.0,97.21
+1640,2024,875776,Phoenix Digital Academy,English Language Arts,157,11.0,85019,3,17.8,255700.0,91.91
+1641,2024,875776,Phoenix Digital Academy,English Language Arts,157,11.0,85019,8,12.8,255700.0,91.91
+1642,2024,90141,Pioneer Preparatory - A Challenge Foundation,English Language Arts,201,15.0,85033,3,17.8,245900.0,96.74
+1643,2024,90141,Pioneer Preparatory - A Challenge Foundation,Mathematics,202,11.0,85033,3,17.8,245900.0,96.74
+1644,2024,5515,Pioneer Technology & Arts Academy of Arizona,English Language Arts,280,18.0,85040,3,17.8,294800.0,92.34
+1645,2024,5515,Pioneer Technology & Arts Academy of Arizona,Mathematics,280,11.0,85040,3,17.8,294800.0,92.34
+1646,2024,91318,Reid Traditional Schools' Painted Rock Academy,English Language Arts,243,68.0,85023,1,12.6,359200.0,97.22
+1647,2024,91318,Reid Traditional Schools' Painted Rock Academy,English Language Arts,243,68.0,85023,8,12.8,359200.0,97.22
+1648,2024,91318,Reid Traditional Schools' Painted Rock Academy,Mathematics,244,58.0,85023,1,12.6,359200.0,97.22
+1649,2024,91318,Reid Traditional Schools' Painted Rock Academy,Mathematics,244,58.0,85023,8,12.8,359200.0,97.22
+1650,2024,5471,Reid Traditional Schools' Valley Academy,English Language Arts,392,83.0,85027,1,12.6,316100.0,95.3
+1651,2024,5471,Reid Traditional Schools' Valley Academy,English Language Arts,392,83.0,85027,8,12.8,316100.0,95.3
+1652,2024,5471,Reid Traditional Schools' Valley Academy,Mathematics,392,78.0,85027,1,12.6,316100.0,95.3
+1653,2024,5471,Reid Traditional Schools' Valley Academy,Mathematics,392,78.0,85027,8,12.8,316100.0,95.3
+1654,2024,5467,"Ridgeline Academy, Inc.",English Language Arts,544,63.0,85085,8,12.8,589000.0,98.13
+1655,2024,5467,"Ridgeline Academy, Inc.",Mathematics,543,49.0,85085,8,12.8,589000.0,98.13
+1656,2024,5210,Riverside Traditional School,English Language Arts,157,30.0,85043,3,17.8,288900.0,95.66
+1657,2024,5210,Riverside Traditional School,Mathematics,158,23.0,85043,3,17.8,288900.0,95.66
+1658,2024,84660,Kings Ridge School,English Language Arts,311,19.0,85043,3,17.8,288900.0,95.66
+1659,2024,84660,Kings Ridge School,Mathematics,311,11.0,85043,3,17.8,288900.0,95.66
+1660,2024,92961,Maricopa Institute of Technology (MIT),English Language Arts,*,65.0,85043,3,17.8,288900.0,95.66
+1661,2024,92961,Maricopa Institute of Technology (MIT),Mathematics,*,26.0,85043,3,17.8,288900.0,95.66
+1662,2024,5363,Cesar E Chavez Community School,English Language Arts,259,15.0,85040,3,17.8,294800.0,92.34
+1663,2024,5363,Cesar E Chavez Community School,Mathematics,260,6.0,85040,3,17.8,294800.0,92.34
+1664,2024,5364,Percy L Julian School,English Language Arts,199,18.0,85040,3,17.8,294800.0,92.34
+1665,2024,5364,Percy L Julian School,Mathematics,200,14.0,85040,3,17.8,294800.0,92.34
+1666,2024,5365,Sunland Elementary School,English Language Arts,345,19.0,85041,3,17.8,310100.0,96.59
+1667,2024,5365,Sunland Elementary School,Mathematics,346,18.0,85041,3,17.8,310100.0,96.59
+1668,2024,5367,Valley View School,English Language Arts,335,29.0,85041,3,17.8,310100.0,96.59
+1669,2024,5367,Valley View School,Mathematics,336,20.0,85041,3,17.8,310100.0,96.59
+1670,2024,5368,C J Jorgensen School,English Language Arts,162,11.0,85041,3,17.8,310100.0,96.59
+1671,2024,5370,Irene Lopez School,English Language Arts,273,25.0,85040,3,17.8,294800.0,92.34
+1672,2024,5370,Irene Lopez School,Mathematics,275,18.0,85040,3,17.8,294800.0,92.34
+1673,2024,5372,T G Barr School,English Language Arts,220,17.0,85042,3,17.8,353400.0,95.53
+1674,2024,5372,T G Barr School,English Language Arts,220,17.0,85042,4,14.1,353400.0,95.53
+1675,2024,5372,T G Barr School,Mathematics,220,20.0,85042,3,17.8,353400.0,95.53
+1676,2024,5372,T G Barr School,Mathematics,220,20.0,85042,4,14.1,353400.0,95.53
+1677,2024,5373,V H Lassen Elementary School,English Language Arts,166,25.0,85041,3,17.8,310100.0,96.59
+1678,2024,5373,V H Lassen Elementary School,Mathematics,166,10.0,85041,3,17.8,310100.0,96.59
+1679,2024,5374,John F Kennedy Elementary School,English Language Arts,88,17.0,85042,3,17.8,353400.0,95.53
+1680,2024,5374,John F Kennedy Elementary School,English Language Arts,88,17.0,85042,4,14.1,353400.0,95.53
+1681,2024,5374,John F Kennedy Elementary School,Mathematics,88,18.0,85042,3,17.8,353400.0,95.53
+1682,2024,5374,John F Kennedy Elementary School,Mathematics,88,18.0,85042,4,14.1,353400.0,95.53
+1683,2024,5376,C O Greenfield School,English Language Arts,402,19.0,85042,3,17.8,353400.0,95.53
+1684,2024,5376,C O Greenfield School,English Language Arts,402,19.0,85042,4,14.1,353400.0,95.53
+1685,2024,5376,C O Greenfield School,Mathematics,401,12.0,85042,3,17.8,353400.0,95.53
+1686,2024,5376,C O Greenfield School,Mathematics,401,12.0,85042,4,14.1,353400.0,95.53
+1687,2024,5377,Ignacio Conchos School,English Language Arts,206,17.0,85041,3,17.8,310100.0,96.59
+1688,2024,5377,Ignacio Conchos School,Mathematics,209,9.0,85041,3,17.8,310100.0,96.59
+1689,2024,5378,John R Davis School,English Language Arts,185,26.0,85041,3,17.8,310100.0,96.59
+1690,2024,5378,John R Davis School,Mathematics,189,8.0,85041,3,17.8,310100.0,96.59
+1691,2024,5379,Maxine O Bush Elementary School,English Language Arts,156,16.0,85042,3,17.8,353400.0,95.53
+1692,2024,5379,Maxine O Bush Elementary School,English Language Arts,156,16.0,85042,4,14.1,353400.0,95.53
+1693,2024,5379,Maxine O Bush Elementary School,Mathematics,155,11.0,85042,3,17.8,353400.0,95.53
+1694,2024,5379,Maxine O Bush Elementary School,Mathematics,155,11.0,85042,4,14.1,353400.0,95.53
+1695,2024,5380,Southwest Elementary School,English Language Arts,282,21.0,85041,3,17.8,310100.0,96.59
+1696,2024,5380,Southwest Elementary School,Mathematics,287,10.0,85041,3,17.8,310100.0,96.59
+1697,2024,79012,Cloves C Campbell Sr Elementary School,English Language Arts,219,40.0,85042,3,17.8,353400.0,95.53
+1698,2024,79012,Cloves C Campbell Sr Elementary School,English Language Arts,219,40.0,85042,4,14.1,353400.0,95.53
+1699,2024,79012,Cloves C Campbell Sr Elementary School,Mathematics,218,34.0,85042,3,17.8,353400.0,95.53
+1700,2024,79012,Cloves C Campbell Sr Elementary School,Mathematics,218,34.0,85042,4,14.1,353400.0,95.53
+1701,2024,79013,Ed & Verma Pastor Elementary School,English Language Arts,275,20.0,85041,3,17.8,310100.0,96.59
+1702,2024,79013,Ed & Verma Pastor Elementary School,Mathematics,278,4.0,85041,3,17.8,310100.0,96.59
+1703,2024,87883,Bernard Black Elementary School,English Language Arts,296,23.0,85041,3,17.8,310100.0,96.59
+1704,2024,87883,Bernard Black Elementary School,Mathematics,301,15.0,85041,3,17.8,310100.0,96.59
+1705,2024,89415,Sage Academy,English Language Arts,*,27.0,85021,1,12.6,433000.0,95.91
+1706,2024,89415,Sage Academy,English Language Arts,*,27.0,85021,8,12.8,433000.0,95.91
+1707,2024,1000380,Scholars Academy Sunnyslope,English Language Arts,107,25.0,85022,1,12.6,385900.0,96.75
+1708,2024,1000380,Scholars Academy Sunnyslope,Mathematics,109,24.0,85022,1,12.6,385900.0,96.75
+1709,2024,5044,Tavan Elementary School,English Language Arts,261,52.0,85018,1,12.6,805800.0,95.75
+1710,2024,5044,Tavan Elementary School,English Language Arts,261,52.0,85018,3,17.8,805800.0,95.75
+1711,2024,5044,Tavan Elementary School,Mathematics,261,52.0,85018,1,12.6,805800.0,95.75
+1712,2024,5044,Tavan Elementary School,Mathematics,261,52.0,85018,3,17.8,805800.0,95.75
+1713,2024,5049,Hopi Elementary School,English Language Arts,*,72.0,85018,1,12.6,805800.0,95.75
+1714,2024,5049,Hopi Elementary School,English Language Arts,*,72.0,85018,3,17.8,805800.0,95.75
+1715,2024,5049,Hopi Elementary School,Mathematics,*,65.0,85018,1,12.6,805800.0,95.75
+1716,2024,5049,Hopi Elementary School,Mathematics,*,65.0,85018,3,17.8,805800.0,95.75
+1717,2024,5062,Ingleside Middle School,English Language Arts,712,54.0,85018,1,12.6,805800.0,95.75
+1718,2024,5062,Ingleside Middle School,English Language Arts,712,54.0,85018,3,17.8,805800.0,95.75
+1719,2024,5062,Ingleside Middle School,Mathematics,712,51.0,85018,1,12.6,805800.0,95.75
+1720,2024,5062,Ingleside Middle School,Mathematics,712,51.0,85018,3,17.8,805800.0,95.75
+1721,2024,5066,Arcadia High School,English Language Arts,*,62.0,85018,1,12.6,805800.0,95.75
+1722,2024,5066,Arcadia High School,English Language Arts,*,62.0,85018,3,17.8,805800.0,95.75
+1723,2024,5066,Arcadia High School,Mathematics,*,50.0,85018,1,12.6,805800.0,95.75
+1724,2024,5066,Arcadia High School,Mathematics,*,50.0,85018,3,17.8,805800.0,95.75
+1725,2024,92890,Self Development Academy-Phoenix,English Language Arts,141,33.0,85014,1,12.6,447500.0,94.3
+1726,2024,92890,Self Development Academy-Phoenix,English Language Arts,141,33.0,85014,3,17.8,447500.0,94.3
+1727,2024,92890,Self Development Academy-Phoenix,Mathematics,141,40.0,85014,1,12.6,447500.0,94.3
+1728,2024,92890,Self Development Academy-Phoenix,Mathematics,141,40.0,85014,3,17.8,447500.0,94.3
+1729,2024,91109,South Phoenix Prep and Arts Academy,English Language Arts,98,17.0,85040,3,17.8,294800.0,92.34
+1730,2024,91109,South Phoenix Prep and Arts Academy,Mathematics,100,22.0,85040,3,17.8,294800.0,92.34
+1731,2024,91122,South Valley Prep and Arts School,English Language Arts,202,25.0,85040,3,17.8,294800.0,92.34
+1732,2024,91122,South Valley Prep and Arts School,Mathematics,202,8.0,85040,3,17.8,294800.0,92.34
+1733,2024,90193,Sun Valley Academy,English Language Arts,357,22.0,85041,3,17.8,310100.0,96.59
+1734,2024,90193,Sun Valley Academy,Mathematics,358,12.0,85041,3,17.8,310100.0,96.59
+1735,2024,962403,Synergy Public School,English Language Arts,266,26.0,85017,3,17.8,242900.0,94.94
+1736,2024,962403,Synergy Public School,English Language Arts,266,26.0,85017,8,12.8,242900.0,94.94
+1737,2024,962403,Synergy Public School,Mathematics,266,12.0,85017,3,17.8,242900.0,94.94
+1738,2024,962403,Synergy Public School,Mathematics,266,12.0,85017,8,12.8,242900.0,94.94
+1739,2024,5224,Nevitt Elementary School,English Language Arts,283,23.0,85042,3,17.8,353400.0,95.53
+1740,2024,5224,Nevitt Elementary School,English Language Arts,283,23.0,85042,4,14.1,353400.0,95.53
+1741,2024,5224,Nevitt Elementary School,Mathematics,297,20.0,85042,3,17.8,353400.0,95.53
+1742,2024,5224,Nevitt Elementary School,Mathematics,297,20.0,85042,4,14.1,353400.0,95.53
+1743,2024,5448,Mountain Pointe High School,English Language Arts,347,38.0,85044,3,17.8,437400.0,97.88
+1744,2024,5448,Mountain Pointe High School,English Language Arts,347,38.0,85044,4,14.1,437400.0,97.88
+1745,2024,5448,Mountain Pointe High School,Mathematics,349,29.0,85044,3,17.8,437400.0,97.88
+1746,2024,5448,Mountain Pointe High School,Mathematics,349,29.0,85044,4,14.1,437400.0,97.88
+1747,2024,5449,Desert Vista High School,English Language Arts,676,67.0,85048,4,14.1,538500.0,99.73
+1748,2024,5449,Desert Vista High School,Mathematics,682,54.0,85048,4,14.1,538500.0,99.73
+1749,2024,92247,Mission Montessori Academy's Middle Years Program,English Language Arts,*,67.0,85028,1,12.6,583000.0,98.59
+1750,2024,92247,Mission Montessori Academy's Middle Years Program,Mathematics,*,52.0,85028,1,12.6,583000.0,98.59
+1751,2024,91775,The Paideia Academy of South Phoenix,English Language Arts,320,31.0,85042,3,17.8,353400.0,95.53
+1752,2024,91775,The Paideia Academy of South Phoenix,English Language Arts,320,31.0,85042,4,14.1,353400.0,95.53
+1753,2024,91775,The Paideia Academy of South Phoenix,Mathematics,321,14.0,85042,3,17.8,353400.0,95.53
+1754,2024,91775,The Paideia Academy of South Phoenix,Mathematics,321,14.0,85042,4,14.1,353400.0,95.53
+1755,2024,1001431,Paideia Liberal Arts Academy,English Language Arts,154,36.0,85042,3,17.8,353400.0,95.53
+1756,2024,1001431,Paideia Liberal Arts Academy,English Language Arts,154,36.0,85042,4,14.1,353400.0,95.53
+1757,2024,1001431,Paideia Liberal Arts Academy,Mathematics,153,12.0,85042,3,17.8,353400.0,95.53
+1758,2024,1001431,Paideia Liberal Arts Academy,Mathematics,153,12.0,85042,4,14.1,353400.0,95.53
+1759,2024,79402,Sheely Farms Elementary School,English Language Arts,361,29.0,85037,3,17.8,290600.0,96.37
+1760,2024,79402,Sheely Farms Elementary School,Mathematics,362,22.0,85037,3,17.8,290600.0,96.37
+1761,2024,87526,Desert Oasis Elementary School,English Language Arts,389,20.0,85037,3,17.8,290600.0,96.37
+1762,2024,87526,Desert Oasis Elementary School,Mathematics,389,14.0,85037,3,17.8,290600.0,96.37
+1763,2024,5475,Bennett Academy,English Language Arts,*,23.0,85017,3,17.8,242900.0,94.94
+1764,2024,5475,Bennett Academy,English Language Arts,*,23.0,85017,8,12.8,242900.0,94.94
+1765,2024,5475,Bennett Academy,Mathematics,*,15.0,85017,3,17.8,242900.0,94.94
+1766,2024,5475,Bennett Academy,Mathematics,*,15.0,85017,8,12.8,242900.0,94.94
+1767,2024,79958,Desert Marigold School,English Language Arts,*,41.0,85042,3,17.8,353400.0,95.53
+1768,2024,79958,Desert Marigold School,English Language Arts,*,41.0,85042,4,14.1,353400.0,95.53
+1769,2024,79958,Desert Marigold School,Mathematics,*,12.0,85042,3,17.8,353400.0,95.53
+1770,2024,79958,Desert Marigold School,Mathematics,*,12.0,85042,4,14.1,353400.0,95.53
+1771,2024,80994,Great Hearts Academies - Veritas Prep,English Language Arts,501,64.0,85018,1,12.6,805800.0,95.75
+1772,2024,80994,Great Hearts Academies - Veritas Prep,English Language Arts,501,64.0,85018,3,17.8,805800.0,95.75
+1773,2024,80994,Great Hearts Academies - Veritas Prep,Mathematics,506,51.0,85018,1,12.6,805800.0,95.75
+1774,2024,80994,Great Hearts Academies - Veritas Prep,Mathematics,506,51.0,85018,3,17.8,805800.0,95.75
+1775,2024,829726,Victory Collegiate Academy,English Language Arts,*,18.0,85033,3,17.8,245900.0,96.74
+1776,2024,829726,Victory Collegiate Academy,Mathematics,*,12.0,85033,3,17.8,245900.0,96.74
+1777,2024,5513,Villa Montessori - Phoenix Campus,English Language Arts,*,67.0,85016,1,12.6,508400.0,96.92
+1778,2024,5513,Villa Montessori - Phoenix Campus,English Language Arts,*,67.0,85016,3,17.8,508400.0,96.92
+1779,2024,5513,Villa Montessori - Phoenix Campus,Mathematics,*,55.0,85016,1,12.6,508400.0,96.92
+1780,2024,5513,Villa Montessori - Phoenix Campus,Mathematics,*,55.0,85016,3,17.8,508400.0,96.92
+1781,2024,92177,Vista College Preparatory - Hadley,English Language Arts,70,47.0,85003,3,17.8,577700.0,87.21
+1782,2024,92177,Vista College Preparatory - Hadley,Mathematics,73,41.0,85003,3,17.8,577700.0,87.21
+1783,2024,425015,Vista College Prep - Sueño Park,English Language Arts,446,27.0,85035,3,17.8,244300.0,95.77
+1784,2024,425015,Vista College Prep - Sueño Park,Mathematics,445,22.0,85035,3,17.8,244300.0,95.77
+1785,2024,551692,Vista College Prep - Maryvale,English Language Arts,144,18.0,85035,3,17.8,244300.0,95.77
+1786,2024,551692,Vista College Prep - Maryvale,Mathematics,145,25.0,85035,3,17.8,244300.0,95.77
+1787,2024,1000375,Vista College Preparatory - Metro North Elementary,Mathematics,*,25.0,85029,1,12.6,307800.0,96.81
+1788,2024,1000375,Vista College Preparatory - Metro North Elementary,Mathematics,*,25.0,85029,8,12.8,307800.0,96.81
+1789,2024,1000376,Vista College Preparatory - Metro North Middle,English Language Arts,104,22.0,85029,1,12.6,307800.0,96.81
+1790,2024,1000376,Vista College Preparatory - Metro North Middle,English Language Arts,104,22.0,85029,8,12.8,307800.0,96.81
+1791,2024,1000376,Vista College Preparatory - Metro North Middle,Mathematics,104,18.0,85029,1,12.6,307800.0,96.81
+1792,2024,1000376,Vista College Preparatory - Metro North Middle,Mathematics,104,18.0,85029,8,12.8,307800.0,96.81
+1793,2024,5244,Acacia Elementary School,English Language Arts,411,50.0,85053,8,12.8,329500.0,95.51
+1794,2024,5244,Acacia Elementary School,Mathematics,410,36.0,85053,8,12.8,329500.0,95.51
+1795,2024,5245,Alta Vista Elementary School,English Language Arts,259,22.0,85051,3,17.8,288300.0,94.66
+1796,2024,5245,Alta Vista Elementary School,English Language Arts,259,22.0,85051,8,12.8,288300.0,94.66
+1797,2024,5245,Alta Vista Elementary School,Mathematics,260,17.0,85051,3,17.8,288300.0,94.66
+1798,2024,5245,Alta Vista Elementary School,Mathematics,260,17.0,85051,8,12.8,288300.0,94.66
+1799,2024,5247,Cactus Wren Elementary School,English Language Arts,162,18.0,85051,3,17.8,288300.0,94.66
+1800,2024,5247,Cactus Wren Elementary School,English Language Arts,162,18.0,85051,8,12.8,288300.0,94.66
+1801,2024,5247,Cactus Wren Elementary School,Mathematics,177,14.0,85051,3,17.8,288300.0,94.66
+1802,2024,5247,Cactus Wren Elementary School,Mathematics,177,14.0,85051,8,12.8,288300.0,94.66
+1803,2024,5248,Chaparral Elementary School,English Language Arts,208,40.0,85029,1,12.6,307800.0,96.81
+1804,2024,5248,Chaparral Elementary School,English Language Arts,208,40.0,85029,8,12.8,307800.0,96.81
+1805,2024,5248,Chaparral Elementary School,Mathematics,210,22.0,85029,1,12.6,307800.0,96.81
+1806,2024,5248,Chaparral Elementary School,Mathematics,210,22.0,85029,8,12.8,307800.0,96.81
+1807,2024,5249,Cholla Middle School,English Language Arts,537,30.0,85029,1,12.6,307800.0,96.81
+1808,2024,5249,Cholla Middle School,English Language Arts,537,30.0,85029,8,12.8,307800.0,96.81
+1809,2024,5249,Cholla Middle School,Mathematics,538,33.0,85029,1,12.6,307800.0,96.81
+1810,2024,5249,Cholla Middle School,Mathematics,538,33.0,85029,8,12.8,307800.0,96.81
+1811,2024,5250,Desert Foothills Middle School,English Language Arts,533,37.0,85053,8,12.8,329500.0,95.51
+1812,2024,5250,Desert Foothills Middle School,Mathematics,533,23.0,85053,8,12.8,329500.0,95.51
+1813,2024,5251,Desert View Elementary School,English Language Arts,151,31.0,85020,1,12.6,400800.0,95.62
+1814,2024,5251,Desert View Elementary School,Mathematics,150,30.0,85020,1,12.6,400800.0,95.62
+1815,2024,5252,Ironwood Elementary School,English Language Arts,237,38.0,85053,8,12.8,329500.0,95.51
+1816,2024,5252,Ironwood Elementary School,Mathematics,237,36.0,85053,8,12.8,329500.0,95.51
+1817,2024,5253,John Jacobs Elementary School,English Language Arts,196,36.0,85023,1,12.6,359200.0,97.22
+1818,2024,5253,John Jacobs Elementary School,English Language Arts,196,36.0,85023,8,12.8,359200.0,97.22
+1819,2024,5253,John Jacobs Elementary School,Mathematics,196,31.0,85023,1,12.6,359200.0,97.22
+1820,2024,5253,John Jacobs Elementary School,Mathematics,196,31.0,85023,8,12.8,359200.0,97.22
+1821,2024,5254,Lakeview Elementary School,English Language Arts,217,28.0,85029,1,12.6,307800.0,96.81
+1822,2024,5254,Lakeview Elementary School,English Language Arts,217,28.0,85029,8,12.8,307800.0,96.81
+1823,2024,5254,Lakeview Elementary School,Mathematics,217,32.0,85029,1,12.6,307800.0,96.81
+1824,2024,5254,Lakeview Elementary School,Mathematics,217,32.0,85029,8,12.8,307800.0,96.81
+1825,2024,5255,Lookout Mountain School,English Language Arts,*,60.0,85023,1,12.6,359200.0,97.22
+1826,2024,5255,Lookout Mountain School,English Language Arts,*,60.0,85023,8,12.8,359200.0,97.22
+1827,2024,5255,Lookout Mountain School,Mathematics,*,59.0,85023,1,12.6,359200.0,97.22
+1828,2024,5255,Lookout Mountain School,Mathematics,*,59.0,85023,8,12.8,359200.0,97.22
+1829,2024,5256,Manzanita Elementary School,English Language Arts,262,27.0,85051,3,17.8,288300.0,94.66
+1830,2024,5256,Manzanita Elementary School,English Language Arts,262,27.0,85051,8,12.8,288300.0,94.66
+1831,2024,5256,Manzanita Elementary School,Mathematics,276,27.0,85051,3,17.8,288300.0,94.66
+1832,2024,5256,Manzanita Elementary School,Mathematics,276,27.0,85051,8,12.8,288300.0,94.66
+1833,2024,5257,Maryland Elementary School,English Language Arts,315,24.0,85015,1,12.6,312600.0,94.07
+1834,2024,5257,Maryland Elementary School,English Language Arts,315,24.0,85015,3,17.8,312600.0,94.07
+1835,2024,5257,Maryland Elementary School,English Language Arts,315,24.0,85015,8,12.8,312600.0,94.07
+1836,2024,5257,Maryland Elementary School,Mathematics,313,16.0,85015,1,12.6,312600.0,94.07
+1837,2024,5257,Maryland Elementary School,Mathematics,313,16.0,85015,3,17.8,312600.0,94.07
+1838,2024,5257,Maryland Elementary School,Mathematics,313,16.0,85015,8,12.8,312600.0,94.07
+1839,2024,5258,Moon Mountain School,English Language Arts,225,31.0,85029,1,12.6,307800.0,96.81
+1840,2024,5258,Moon Mountain School,English Language Arts,225,31.0,85029,8,12.8,307800.0,96.81
+1841,2024,5258,Moon Mountain School,Mathematics,226,31.0,85029,1,12.6,307800.0,96.81
+1842,2024,5258,Moon Mountain School,Mathematics,226,31.0,85029,8,12.8,307800.0,96.81
+1843,2024,5259,Mountain Sky Middle School,English Language Arts,604,33.0,85023,1,12.6,359200.0,97.22
+1844,2024,5259,Mountain Sky Middle School,English Language Arts,604,33.0,85023,8,12.8,359200.0,97.22
+1845,2024,5259,Mountain Sky Middle School,Mathematics,602,24.0,85023,1,12.6,359200.0,97.22
+1846,2024,5259,Mountain Sky Middle School,Mathematics,602,24.0,85023,8,12.8,359200.0,97.22
+1847,2024,5260,Mountain View Elementary School,English Language Arts,566,14.0,85029,1,12.6,307800.0,96.81
+1848,2024,5260,Mountain View Elementary School,English Language Arts,566,14.0,85029,8,12.8,307800.0,96.81
+1849,2024,5260,Mountain View Elementary School,Mathematics,571,7.0,85029,1,12.6,307800.0,96.81
+1850,2024,5260,Mountain View Elementary School,Mathematics,571,7.0,85029,8,12.8,307800.0,96.81
+1851,2024,5261,Ocotillo School,English Language Arts,295,26.0,85017,3,17.8,242900.0,94.94
+1852,2024,5261,Ocotillo School,English Language Arts,295,26.0,85017,8,12.8,242900.0,94.94
+1853,2024,5261,Ocotillo School,Mathematics,296,20.0,85017,3,17.8,242900.0,94.94
+1854,2024,5261,Ocotillo School,Mathematics,296,20.0,85017,8,12.8,242900.0,94.94
+1855,2024,5262,Orangewood School,English Language Arts,453,36.0,85021,1,12.6,433000.0,95.91
+1856,2024,5262,Orangewood School,English Language Arts,453,36.0,85021,8,12.8,433000.0,95.91
+1857,2024,5262,Orangewood School,Mathematics,454,32.0,85021,1,12.6,433000.0,95.91
+1858,2024,5262,Orangewood School,Mathematics,454,32.0,85021,8,12.8,433000.0,95.91
+1859,2024,5263,Palo Verde Middle School,English Language Arts,656,23.0,85051,3,17.8,288300.0,94.66
+1860,2024,5263,Palo Verde Middle School,English Language Arts,656,23.0,85051,8,12.8,288300.0,94.66
+1861,2024,5263,Palo Verde Middle School,Mathematics,658,14.0,85051,3,17.8,288300.0,94.66
+1862,2024,5263,Palo Verde Middle School,Mathematics,658,14.0,85051,8,12.8,288300.0,94.66
+1863,2024,5264,Richard E Miller School,English Language Arts,149,19.0,85021,1,12.6,433000.0,95.91
+1864,2024,5264,Richard E Miller School,English Language Arts,149,19.0,85021,8,12.8,433000.0,95.91
+1865,2024,5264,Richard E Miller School,Mathematics,150,20.0,85021,1,12.6,433000.0,95.91
+1866,2024,5264,Richard E Miller School,Mathematics,150,20.0,85021,8,12.8,433000.0,95.91
+1867,2024,5265,Roadrunner Elementary School,English Language Arts,345,24.0,85051,3,17.8,288300.0,94.66
+1868,2024,5265,Roadrunner Elementary School,English Language Arts,345,24.0,85051,8,12.8,288300.0,94.66
+1869,2024,5265,Roadrunner Elementary School,Mathematics,345,20.0,85051,3,17.8,288300.0,94.66
+1870,2024,5265,Roadrunner Elementary School,Mathematics,345,20.0,85051,8,12.8,288300.0,94.66
+1871,2024,5266,Royal Palm Middle School,English Language Arts,394,34.0,85021,1,12.6,433000.0,95.91
+1872,2024,5266,Royal Palm Middle School,English Language Arts,394,34.0,85021,8,12.8,433000.0,95.91
+1873,2024,5266,Royal Palm Middle School,Mathematics,398,25.0,85021,1,12.6,433000.0,95.91
+1874,2024,5266,Royal Palm Middle School,Mathematics,398,25.0,85021,8,12.8,433000.0,95.91
+1875,2024,5267,Sahuaro School,English Language Arts,288,43.0,85029,1,12.6,307800.0,96.81
+1876,2024,5267,Sahuaro School,English Language Arts,288,43.0,85029,8,12.8,307800.0,96.81
+1877,2024,5267,Sahuaro School,Mathematics,287,47.0,85029,1,12.6,307800.0,96.81
+1878,2024,5267,Sahuaro School,Mathematics,287,47.0,85029,8,12.8,307800.0,96.81
+1879,2024,5268,Shaw Butte School,English Language Arts,294,23.0,85029,1,12.6,307800.0,96.81
+1880,2024,5268,Shaw Butte School,English Language Arts,294,23.0,85029,8,12.8,307800.0,96.81
+1881,2024,5268,Shaw Butte School,Mathematics,297,21.0,85029,1,12.6,307800.0,96.81
+1882,2024,5268,Shaw Butte School,Mathematics,297,21.0,85029,8,12.8,307800.0,96.81
+1883,2024,5271,Sunnyslope Elementary School,English Language Arts,408,22.0,85020,1,12.6,400800.0,95.62
+1884,2024,5271,Sunnyslope Elementary School,Mathematics,413,15.0,85020,1,12.6,400800.0,95.62
+1885,2024,5273,Tumbleweed Elementary School,English Language Arts,248,29.0,85029,1,12.6,307800.0,96.81
+1886,2024,5273,Tumbleweed Elementary School,English Language Arts,248,29.0,85029,8,12.8,307800.0,96.81
+1887,2024,5273,Tumbleweed Elementary School,Mathematics,248,23.0,85029,1,12.6,307800.0,96.81
+1888,2024,5273,Tumbleweed Elementary School,Mathematics,248,23.0,85029,8,12.8,307800.0,96.81
+1889,2024,5274,Abraham Lincoln Traditional School,English Language Arts,357,58.0,85051,3,17.8,288300.0,94.66
+1890,2024,5274,Abraham Lincoln Traditional School,English Language Arts,357,58.0,85051,8,12.8,288300.0,94.66
+1891,2024,5274,Abraham Lincoln Traditional School,Mathematics,357,48.0,85051,3,17.8,288300.0,94.66
+1892,2024,5274,Abraham Lincoln Traditional School,Mathematics,357,48.0,85051,8,12.8,288300.0,94.66
+1893,2024,5275,Washington Elementary School,English Language Arts,306,16.0,85051,3,17.8,288300.0,94.66
+1894,2024,5275,Washington Elementary School,English Language Arts,306,16.0,85051,8,12.8,288300.0,94.66
+1895,2024,5275,Washington Elementary School,Mathematics,311,13.0,85051,3,17.8,288300.0,94.66
+1896,2024,5275,Washington Elementary School,Mathematics,311,13.0,85051,8,12.8,288300.0,94.66
+1897,2024,1001888,Washington Elementary School District Online Learning Academy,English Language Arts,51,41.0,85021,1,12.6,433000.0,95.91
+1898,2024,1001888,Washington Elementary School District Online Learning Academy,English Language Arts,51,41.0,85021,8,12.8,433000.0,95.91
+1899,2024,1001821,Imagine Online Academy of Arizona,English Language Arts,46,46.0,85053,8,12.8,329500.0,95.51
+1900,2024,92619,Western School of Science and Technology,English Language Arts,228,15.0,85033,3,17.8,245900.0,96.74
+1901,2024,92619,Western School of Science and Technology,Mathematics,234,5.0,85033,3,17.8,245900.0,96.74
+1902,2024,5276,Wilson Elementary School,English Language Arts,423,16.0,85008,1,12.6,323600.0,95.95
+1903,2024,5276,Wilson Elementary School,English Language Arts,423,16.0,85008,3,17.8,323600.0,95.95
+1904,2024,5276,Wilson Elementary School,English Language Arts,423,16.0,85008,4,14.1,323600.0,95.95
+1905,2024,5276,Wilson Elementary School,Mathematics,437,14.0,85008,1,12.6,323600.0,95.95
+1906,2024,5276,Wilson Elementary School,Mathematics,437,14.0,85008,3,17.8,323600.0,95.95
+1907,2024,5276,Wilson Elementary School,Mathematics,437,14.0,85008,4,14.1,323600.0,95.95
+1908,2024,5277,Wilson Primary School,English Language Arts,99,25.0,85008,1,12.6,323600.0,95.95
+1909,2024,5277,Wilson Primary School,English Language Arts,99,25.0,85008,3,17.8,323600.0,95.95
+1910,2024,5277,Wilson Primary School,English Language Arts,99,25.0,85008,4,14.1,323600.0,95.95
+1911,2024,5277,Wilson Primary School,Mathematics,100,33.0,85008,1,12.6,323600.0,95.95
+1912,2024,5277,Wilson Primary School,Mathematics,100,33.0,85008,3,17.8,323600.0,95.95
+1913,2024,5277,Wilson Primary School,Mathematics,100,33.0,85008,4,14.1,323600.0,95.95
+1914,2024,92326,ASU Preparatory Academy - Phoenix Middle School,English Language Arts,63,19.0,85006,3,17.8,376600.0,92.59
+1915,2024,92769,Academy of Math and Science Camelback,English Language Arts,76,19.0,85033,3,17.8,245900.0,96.74
+1916,2024,5385,Catalina Ventura School,English Language Arts,63,20.0,85019,3,17.8,255700.0,91.91
+1917,2024,5385,Catalina Ventura School,English Language Arts,63,20.0,85019,8,12.8,255700.0,91.91
+1918,2024,5385,Catalina Ventura School,Mathematics,64,19.0,85019,3,17.8,255700.0,91.91
+1919,2024,5385,Catalina Ventura School,Mathematics,64,19.0,85019,8,12.8,255700.0,91.91
+1920,2024,1000259,Global Academy of Phoenix,Mathematics,44,25.0,85019,3,17.8,255700.0,91.91
+1921,2024,1000259,Global Academy of Phoenix,Mathematics,44,25.0,85019,8,12.8,255700.0,91.91
+1922,2024,1001717,Great Hearts Online - Arizona,English Language Arts,44,38.0,85034,3,17.8,397400.0,95.22
+1923,2024,1001717,Great Hearts Online - Arizona,English Language Arts,44,38.0,85034,4,14.1,397400.0,95.22
+1924,2024,91343,BASIS Phoenix,English Language Arts,15,80.0,85028,1,12.6,583000.0,98.59
+1925,2024,469376,BASIS Phoenix Primary,English Language Arts,21,71.0,85028,1,12.6,583000.0,98.59
+1926,2024,469376,BASIS Phoenix Primary,Mathematics,21,57.0,85028,1,12.6,583000.0,98.59
+1927,2024,5400,John F. Long,English Language Arts,48,23.0,85031,3,17.8,240300.0,93.95
+1928,2024,5403,Sunset School,Mathematics,50,22.0,85033,3,17.8,245900.0,96.74
+1929,2024,90139,Adams Traditional Academy,Mathematics,20,55.0,85027,1,12.6,316100.0,95.3
+1930,2024,90139,Adams Traditional Academy,Mathematics,20,55.0,85027,8,12.8,316100.0,95.3
+1931,2024,5142,Deer Valley Middle School,English Language Arts,77,20.0,85027,1,12.6,316100.0,95.3
+1932,2024,5142,Deer Valley Middle School,English Language Arts,77,20.0,85027,8,12.8,316100.0,95.3
+1933,2024,5143,Village Meadows Elementary School,English Language Arts,34,44.0,85023,1,12.6,359200.0,97.22
+1934,2024,5143,Village Meadows Elementary School,English Language Arts,34,44.0,85023,8,12.8,359200.0,97.22
+1935,2024,5162,Barry Goldwater High School,English Language Arts,60,53.0,85027,1,12.6,316100.0,95.3
+1936,2024,5162,Barry Goldwater High School,English Language Arts,60,53.0,85027,8,12.8,316100.0,95.3
+1937,2024,5162,Barry Goldwater High School,Mathematics,65,45.0,85027,1,12.6,316100.0,95.3
+1938,2024,5162,Barry Goldwater High School,Mathematics,65,45.0,85027,8,12.8,316100.0,95.3
+1939,2024,79414,"Aspire, Deer Valley's Online Academy",English Language Arts,122,59.0,85027,1,12.6,316100.0,95.3
+1940,2024,79414,"Aspire, Deer Valley's Online Academy",English Language Arts,122,59.0,85027,8,12.8,316100.0,95.3
+1941,2024,79414,"Aspire, Deer Valley's Online Academy",Mathematics,123,50.0,85027,1,12.6,316100.0,95.3
+1942,2024,79414,"Aspire, Deer Valley's Online Academy",Mathematics,123,50.0,85027,8,12.8,316100.0,95.3
+1943,2024,92907,Sonoran Foothills School,English Language Arts,33,42.0,85085,8,12.8,589000.0,98.13
+1944,2024,92907,Sonoran Foothills School,Mathematics,35,48.0,85085,8,12.8,589000.0,98.13
+1945,2024,5298,Kyrene Akimel A-Al Middle School,English Language Arts,45,36.0,85048,4,14.1,538500.0,99.73
+1946,2024,5298,Kyrene Akimel A-Al Middle School,Mathematics,46,24.0,85048,4,14.1,538500.0,99.73
+1947,2024,5299,Kyrene Centennial Middle School,English Language Arts,76,20.0,85044,3,17.8,437400.0,97.88
+1948,2024,5299,Kyrene Centennial Middle School,English Language Arts,76,20.0,85044,4,14.1,437400.0,97.88
+1949,2024,1000569,Legacy Traditional School - North Phoenix,English Language Arts,47,40.0,85037,3,17.8,290600.0,96.37
+1950,2024,112572,Legacy Traditional School - Phoenix,English Language Arts,42,48.0,85037,3,17.8,290600.0,96.37
+1951,2024,112572,Legacy Traditional School - Phoenix,Mathematics,41,29.0,85037,3,17.8,290600.0,96.37
+1952,2024,91422,Great Hearts Academies - North Phoenix Prep,English Language Arts,27,63.0,85022,1,12.6,385900.0,96.75
+1953,2024,91422,Great Hearts Academies - North Phoenix Prep,Mathematics,28,50.0,85022,1,12.6,385900.0,96.75
+1954,2024,5280,Osborn Middle School,English Language Arts,66,31.0,85013,1,12.6,476200.0,96.09
+1955,2024,5280,Osborn Middle School,English Language Arts,66,31.0,85013,3,17.8,476200.0,96.09
+1956,2024,80055,Echo Mountain Intermediate School,English Language Arts,64,22.0,85022,1,12.6,385900.0,96.75
+1957,2024,90782,pvONLINE,English Language Arts,31,42.0,85032,1,12.6,387900.0,96.03
+1958,2024,5423,Copper King Elementary,English Language Arts,62,24.0,85037,3,17.8,290600.0,96.37
+1959,2024,80417,Westwind Elementary School,English Language Arts,61,23.0,85037,3,17.8,290600.0,96.37
+1960,2024,292305,Phoenix International Academy,English Language Arts,24,46.0,85040,3,17.8,294800.0,92.34
+1961,2024,91318,Reid Traditional Schools' Painted Rock Academy,English Language Arts,24,50.0,85023,1,12.6,359200.0,97.22
+1962,2024,91318,Reid Traditional Schools' Painted Rock Academy,English Language Arts,24,50.0,85023,8,12.8,359200.0,97.22
+1963,2024,5471,Reid Traditional Schools' Valley Academy,English Language Arts,28,89.0,85027,1,12.6,316100.0,95.3
+1964,2024,5471,Reid Traditional Schools' Valley Academy,English Language Arts,28,89.0,85027,8,12.8,316100.0,95.3
+1965,2024,5471,Reid Traditional Schools' Valley Academy,Mathematics,29,86.0,85027,1,12.6,316100.0,95.3
+1966,2024,5471,Reid Traditional Schools' Valley Academy,Mathematics,29,86.0,85027,8,12.8,316100.0,95.3
+1967,2024,5467,"Ridgeline Academy, Inc.",English Language Arts,36,64.0,85085,8,12.8,589000.0,98.13
+1968,2024,5467,"Ridgeline Academy, Inc.",Mathematics,36,36.0,85085,8,12.8,589000.0,98.13
+1969,2024,79012,Cloves C Campbell Sr Elementary School,English Language Arts,33,36.0,85042,3,17.8,353400.0,95.53
+1970,2024,79012,Cloves C Campbell Sr Elementary School,English Language Arts,33,36.0,85042,4,14.1,353400.0,95.53
+1971,2024,87883,Bernard Black Elementary School,English Language Arts,93,14.0,85041,3,17.8,310100.0,96.59
+1972,2024,5062,Ingleside Middle School,English Language Arts,52,27.0,85018,1,12.6,805800.0,95.75
+1973,2024,5062,Ingleside Middle School,English Language Arts,52,27.0,85018,3,17.8,805800.0,95.75
+1974,2024,5062,Ingleside Middle School,Mathematics,52,33.0,85018,1,12.6,805800.0,95.75
+1975,2024,5062,Ingleside Middle School,Mathematics,52,33.0,85018,3,17.8,805800.0,95.75
+1976,2024,962403,Synergy Public School,English Language Arts,48,23.0,85017,3,17.8,242900.0,94.94
+1977,2024,962403,Synergy Public School,English Language Arts,48,23.0,85017,8,12.8,242900.0,94.94
+1978,2024,5249,Cholla Middle School,English Language Arts,86,19.0,85029,1,12.6,307800.0,96.81
+1979,2024,5249,Cholla Middle School,English Language Arts,86,19.0,85029,8,12.8,307800.0,96.81
+1980,2024,5250,Desert Foothills Middle School,English Language Arts,75,28.0,85053,8,12.8,329500.0,95.51
+1981,2024,5257,Maryland Elementary School,English Language Arts,67,18.0,85015,1,12.6,312600.0,94.07
+1982,2024,5257,Maryland Elementary School,English Language Arts,67,18.0,85015,3,17.8,312600.0,94.07
+1983,2024,5257,Maryland Elementary School,English Language Arts,67,18.0,85015,8,12.8,312600.0,94.07
+1984,2024,5259,Mountain Sky Middle School,English Language Arts,65,28.0,85023,1,12.6,359200.0,97.22
+1985,2024,5259,Mountain Sky Middle School,English Language Arts,65,28.0,85023,8,12.8,359200.0,97.22
+1986,2024,5262,Orangewood School,English Language Arts,85,21.0,85021,1,12.6,433000.0,95.91
+1987,2024,5262,Orangewood School,English Language Arts,85,21.0,85021,8,12.8,433000.0,95.91
+1988,2024,5271,Sunnyslope Elementary School,Mathematics,69,16.0,85020,1,12.6,400800.0,95.62
